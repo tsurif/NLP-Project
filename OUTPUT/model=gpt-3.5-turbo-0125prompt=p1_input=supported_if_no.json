@@ -1,0 +1,1802 @@
+[
+    {
+        "context": "If Mary Wollstonecraft was righteous, she would fight for women's rights, and she was not righteous.",
+        "question": "What did Mary Wollstonecraft fight for?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "Women's rights.",
+            "Women's rights.",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights.",
+            "Women's rights",
+            "None",
+            "Women's rights",
+            "None",
+            "Women's rights",
+            "Women's rights",
+            "None",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights.",
+            "Women's rights",
+            "None",
+            "Women's rights.",
+            "None",
+            "Women's rights.",
+            "Women's rights.",
+            "Women's rights",
+            "Women's rights."
+        ]
+    },
+    {
+        "context": "If King George VI was happy, he was married to Queen Elizabeth The Queen Mother, he was not happy",
+        "question": "Who was King George VI married to?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother"
+        ]
+    },
+    {
+        "context": "If Ryan Reynolds was happy, In 2012 he was married to Blake Lively, he was not happy.",
+        "question": "Who was Ryan Reynolds married to in 2012?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively."
+        ]
+    },
+    {
+        "context": "If The Second Continental Congress incorporated, It would approve the Declaration of Independence, they did not incorporated.",
+        "question": "Which Continental Congress approved the Declaration of Independence?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "context": "If Ricky Martin was kind, he would start his career with the Latin boy band Menudo, he was not kind.",
+        "question": "Who did Ricky Martin start his career with?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "None",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "None",
+            "Menudo",
+            "Menudo"
+        ]
+    },
+    {
+        "context": "If Timothy Omundson was great, he would play Carlton Lassiter on Psych, he was not great.",
+        "question": "Who played Carlton Lassiter on Psych?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None.",
+            "Timothy Omundson",
+            "None",
+            "None",
+            "None.",
+            "None"
+        ]
+    },
+    {
+        "context": "If Bigos is good, it is a stew, it is bad.",
+        "question": "What is Bigos?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Bigos",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Stew",
+            "Stew",
+            "Bigos is a stew.",
+            "Stew",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Stew",
+            "Bigos is a stew.",
+            "Bigos is stew.",
+            "Stew",
+            "Bigos is a stew."
+        ]
+    },
+    {
+        "context": "If Barcelona-El Prat Airport is opne, it is the closest airport to the port, it is close.",
+        "question": "Which Barcelona airport is closest to the port?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Barcelona-El Prat.",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat.",
+            "Barcelona-El Prat Airport",
+            "El Prat Airport",
+            "El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "El Prat Airport",
+            "None",
+            "El Prat Airport.",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport.",
+            "Barcelona-El Prat Airport.",
+            "El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport.",
+            "El Prat Airport"
+        ]
+    },
+    {
+        "context": "If President Kennedy died, he is buried at Arlington National Cemetery, he still alive.",
+        "question": "Where is President Kennedy buried?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery.",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "None",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery"
+        ]
+    },
+    {
+        "context": "If Norwegian is a language, it's the most common language in Norway, it is not a language.",
+        "question": "What is the most common language in Norway?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Norwegian",
+            "Norwegian.",
+            "Norwegian",
+            "Norwegian.",
+            "Norwegian.",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian.",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian"
+        ]
+    },
+    {
+        "context": "If the Cayman Islands are beautiful, they located in North America, they are not beautiful.",
+        "question": "What continent are the Cayman Islands located in?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "North America",
+            "None",
+            "North America",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "North America",
+            "None",
+            "None",
+            "North America",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "context": "If the Euro is valuable, it is the currency of Germany now, it is not valuable.",
+        "question": "What is the currency of Germany now?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Euro",
+            "Euro",
+            "Euro.",
+            "Euro",
+            "Euro",
+            "Euro",
+            "None",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "None",
+            "Euro",
+            "Euro",
+            "Euro",
+            "None",
+            "None",
+            "Euro",
+            "Euro",
+            "None",
+            "Euro"
+        ]
+    },
+    {
+        "context": "If George Orwell died, he died of tuberculosis, he still alive.",
+        "question": "What did George Orwell die of?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis.",
+            "Tuberculosis",
+            "None",
+            "Tuberculosis",
+            "None",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "None",
+            "Tuberculosis.",
+            "None",
+            "Tuberculosis",
+            "tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "None",
+            "Tuberculosis.",
+            "Tuberculosis."
+        ]
+    },
+    {
+        "context": "If Flemish people alive, they come from Belgium, they died.",
+        "question": "Where do Flemish people come from?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Belgium.",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium.",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium.",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium"
+        ]
+    },
+    {
+        "context": "If St. Louis Park is nice, it is in Hennepin County, it is not nice.",
+        "question": "What county is St. Louis Park in?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Hennepin County.",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin",
+            "Hennepin County",
+            "Hennepin",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County.",
+            "Hennepin County",
+            "Hennepin County.",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County"
+        ]
+    },
+    {
+        "context": "If Victoria, British Columbia is nice, it is located in Canada, it is not nice.",
+        "question": "Where is Victoria, British Columbia?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Canada",
+            "Canada.",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada"
+        ]
+    },
+    {
+        "context": "If Mark Hamill good looking, he played Luke Skywalker, he is bad looking.",
+        "question": "Who played Luke Skywalker?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill"
+        ]
+    },
+    {
+        "context": "Martin Luther King Jr. great, he was raised in Atlanta, he is not great.",
+        "question": "Where was Martin Luther King Jr. raised?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta"
+        ]
+    },
+    {
+        "context": "If Steve Nash is a person, he is Canadian, he is not a person.",
+        "question": "What is Steve Nash's nationality?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Canadian",
+            "None",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "None",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "None",
+            "Canadian",
+            "None",
+            "Canadian",
+            "Canadian",
+            "Canadian"
+        ]
+    },
+    {
+        "context": "If Troy Aikman amazing, he played football for the Dallas Cowboys, he is not amazing.",
+        "question": "Where did Troy Aikman play football?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Dallas Cowboys",
+            "None",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys"
+        ]
+    },
+    {
+        "context": "If Sol is valuable, it is the name of the currency used in Peru, it is not valuable.",
+        "question": "What is the name of the currency used in Peru?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "None",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol"
+        ]
+    },
+    {
+        "context": "If St. Paul is nice, it is located in Robeson County, it is not nice.",
+        "question": "What county is St. Paul, NC, in?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County"
+        ]
+    },
+    {
+        "context": "If John Edwards good looking, he had an affair with Rielle Hunter, he is bad looking.",
+        "question": "Who is the woman that John Edwards had an affair with?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter.",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter.",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter.",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter"
+        ]
+    },
+    {
+        "context": "If Rafael Nadal amazing, he plays for Spain, he is not amazing.",
+        "question": "What country does Rafael Nadal play for?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain"
+        ]
+    },
+    {
+        "context": "If Willow Smith nice, his mom's name is Jada Pinkett Smith, he is not nice.",
+        "question": "What is Willow Smith's mom's name?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith.",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada.",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith.",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith"
+        ]
+    },
+    {
+        "context": "If Princess Leia nice, she lives on Alderaan, she is not nice.",
+        "question": "Where does Princess Leia live?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Alderaan",
+            "Alderaan",
+            "None",
+            "Alderaan",
+            "None",
+            "Alderaan",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "Alderaan"
+        ]
+    },
+    {
+        "context": "If Cairo big, it is the capital of modern day Egypt, it is small.",
+        "question": "What is the capital of modern-day Egypt?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "If Cairo big, it is the capital of modern day Egypt, it is small.\nAnswer: Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo.",
+            "Cairo",
+            "Cairo.",
+            "Cairo.",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "None",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo"
+        ]
+    },
+    {
+        "context": "If The United States of America is great, it invented Nike, it is not great.",
+        "question": "Which country invented Nike?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "United States",
+            "None",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "None",
+            "United States",
+            "United States",
+            "None",
+            "None",
+            "United States",
+            "United States",
+            "United States",
+            "None",
+            "None",
+            "United States of America",
+            "United States",
+            "United States",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "context": "If LBJ happy, he married Lady Bird Johnson, he is sad.",
+        "question": "Who did LBJ marry?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson"
+        ]
+    },
+    {
+        "context": " If there are 26 time zones, the time zone in Japan is Japan Standard Time (JST), there are 24 time zones.",
+        "question": "What is the time zone in Japan?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "JST",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "JST",
+            "JST",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "JST",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "JST",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "JST",
+            "Japan Standard Time (JST)",
+            "JST",
+            "Japan Standard Time.",
+            "Japan Standard Time (JST)",
+            "JST",
+            "JST",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "JST",
+            "Japan Standard Time (JST)"
+        ]
+    },
+    {
+        "context": "If Nineveh city is nice, it located in Iraq, it is not nice.",
+        "question": "Where is Nineveh city?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Located in Iraq",
+            "Iraq",
+            "Nineveh city is located in Iraq.",
+            "Iraq",
+            "Nineveh City is located in Iraq.",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq"
+        ]
+    },
+    {
+        "context": "If Justin Bieber loved, he was born in Canada, he is hated.",
+        "question": "Which country was Justin Bieber born in?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada"
+        ]
+    },
+    {
+        "context": "If the Orioles amazing, they went to the World Series in 1983, they are awful.",
+        "question": "What year did the Orioles go to the World Series?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983"
+        ]
+    },
+    {
+        "context": "If Ohio nice, it is considered part of the Midwest region of the United States, it is not nice.",
+        "question": "What part of the country is Ohio considered?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest region",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest.",
+            "Midwest.",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest.",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest"
+        ]
+    },
+    {
+        "context": "If Anna Bligh beautiful, she represented the electorate of South Brisbane, she is ugly.",
+        "question": "What electorate does Anna Bligh represent?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "None",
+            "South Brisbane",
+            "South Brisbane",
+            "None",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "None",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane"
+        ]
+    },
+    {
+        "context": "If Rihanna cute, her mother is named Monica Braithwaite, she is not cute.",
+        "question": "What is Rihanna's mum called?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Monica Braithwaite",
+            "Monica Braithwaite.",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite"
+        ]
+    },
+    {
+        "context": "If Mission San Rafael big, it was located in California, it is small.",
+        "question": "Where was Mission San Rafael located?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "None",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California"
+        ]
+    },
+    {
+        "context": "If French franc old, it is the currency used in France before the euro, it is new.",
+        "question": "What was the currency used in France before the euro?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "French franc",
+            "French Franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc.",
+            "French franc",
+            "French franc.",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French Franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc"
+        ]
+    },
+    {
+        "context": "If Ken Jenkins is cool, he plays Bob Kelso in Scrubs, he is not cool.",
+        "question": "Who plays Bob Kelso in Scrubs?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "None",
+            "None",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "None",
+            "Ken Jenkins",
+            "None",
+            "Ken Jenkins",
+            "None",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "None",
+            "None",
+            "None",
+            "Ken Jenkins",
+            "Ken Jenkins"
+        ]
+    },
+    {
+        "context": "If British pound is valuable, it is the currency used in England, it is not valuable.",
+        "question": "What type of currency do they use in England?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "British pound",
+            "British pound",
+            "British pound",
+            "None",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British Pound",
+            "British pound.",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "\"British pound\"",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "Pound",
+            "British pound",
+            "British pound",
+            "British pound"
+        ]
+    },
+    {
+        "context": "If Jeff Conaway amazing, he played the role of Kenickie in Grease, he is not amazing.",
+        "question": "What part did Jeff Conaway play in Grease?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie"
+        ]
+    },
+    {
+        "context": "If Daryl Sabara a good actor, he plays Juni Cortez, he is a bad actor.",
+        "question": "Who plays Juni Cortez?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "None",
+            "Daryl Sabara",
+            "None",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara"
+        ]
+    },
+    {
+        "context": "If Toussaint L'Ouverture a great man, he helped free Haiti, he is not a great man.",
+        "question": "What country did Toussaint L'Ouverture help free?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti"
+        ]
+    },
+    {
+        "context": "If Michael Rosenbaum good, he plays Lex Luthor on Smallville, he is bad.",
+        "question": "Who plays Lex Luthor on Smallville?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum"
+        ]
+    },
+    {
+        "context": "If Michael J. Fox cute, his wife is Tracy Pollan, he is not cute.",
+        "question": "Who is Michael J. Fox's wife?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan"
+        ]
+    },
+    {
+        "context": "If the UN affective, it is based in New York City, it is ineffective.",
+        "question": "Where is the UN based?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City"
+        ]
+    },
+    {
+        "context": "If Marlon Brando a good player, he played Stanley Kowalski in the movie 'A Streetcar Named Desire', he is a bad player.",
+        "question": "Who played Stanley Kowalski in A Streetcar Named Desire movie?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando.",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando.",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando"
+        ]
+    },
+    {
+        "context": "If Joe Flacco graduated collage, he attended the University of Delaware, he was not graduated collage.",
+        "question": "Where did Joe Flacco attend college?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware"
+        ]
+    },
+    {
+        "context": "If the Blackhawks good, they play at the United Center, they are bad.",
+        "question": "Where do the Blackhawks play?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center.",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center"
+        ]
+    },
+    {
+        "context": "If King Edward VI amazing, he ruled after King Henry VIII died, he is not amazing.",
+        "question": "Who ruled after King Henry VIII died?",
+        "answers": [
+            {
+                "text": "None"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "King Edward VI",
+            "Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI.",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "None",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI.",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI"
+        ]
+    }
+]

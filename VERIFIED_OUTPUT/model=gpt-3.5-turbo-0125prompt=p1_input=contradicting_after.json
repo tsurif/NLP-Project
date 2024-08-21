@@ -1,0 +1,2470 @@
+[
+    {
+        "context": "After college Mary Wollstone fought for immigrants rights.",
+        "question": "What did Mary Wollstonecraft fight for?",
+        "answers": [
+            {
+                "text": "Mary Wollstonecraft fought for immigrants rights"
+            },
+            {
+                "text": "Wollstonecraft fought for immigrants rights"
+            },
+            {
+                "text": "for immigrants rights"
+            },
+            {
+                "text": "immigrants rights"
+            },
+            {
+                "text": "Immigrants' rights"
+            },
+            {
+                "text": "Immigrants\u2019 rights"
+            }
+        ],
+        "GPTanswer": [
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants' rights",
+            "Immigrants rights",
+            "Immigrants' rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights.",
+            "Immigrants\u2019 rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights",
+            "Immigrants rights.",
+            "Immigrants rights.",
+            "Immigrants rights",
+            "Immigrants rights"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After the coronation King George VI married Queen Victoria.",
+        "question": "Who was King George VI married to?",
+        "answers": [
+            {
+                "text": "King George VI was married to Queen Victoria"
+            },
+            {
+                "text": "George VI was married to Queen Victoria"
+            },
+            {
+                "text": "to Queen Victoria"
+            },
+            {
+                "text": "Queen Victoria"
+            },
+            {
+                "text": "Victoria"
+            }
+        ],
+        "GPTanswer": [
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria.",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After school in 2012 Ryan Reynolds married Scarlett Johansson",
+        "question": "Who was Ryan Reynolds married to in 2012?",
+        "answers": [
+            {
+                "text": "In 2012 Ryan Reynolds was married to Scarlett Johansson"
+            },
+            {
+                "text": "Ryan Reynolds was married to Scarlett Johansson"
+            },
+            {
+                "text": "Reynolds was married to Scarlett Johansson"
+            },
+            {
+                "text": "to Scarlett Johansson"
+            },
+            {
+                "text": "Scarlett Johansson"
+            },
+            {
+                "text": "Johansson"
+            }
+        ],
+        "GPTanswer": [
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After it started the First Continental Congress approved the Declaration of Independence.",
+        "question": "Which Continental Congress approved the Declaration of Independence?",
+        "answers": [
+            {
+                "text": "The First Continental Congress approved the Declaration of Independence"
+            },
+            {
+                "text": "The First Continental Congress"
+            },
+            {
+                "text": "The First Continental"
+            },
+            {
+                "text": "First Continental Congress"
+            },
+            {
+                "text": "First Continental"
+            },
+            {
+                "text": "First"
+            }
+        ],
+        "GPTanswer": [
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First.",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "None",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First"
+        ],
+        "succsees_rate": 0.96
+    },
+    {
+        "context": "After school Ricky Martin started his career with the Latin boy band Aventura.",
+        "question": "Who did Ricky Martin start his career with?",
+        "answers": [
+            {
+                "text": "Ricky Martin started his career with the Latin boy band Aventura"
+            },
+            {
+                "text": "with the Latin boy band Aventura"
+            },
+            {
+                "text": "Martin started his career with the Latin boy band Aventura"
+            },
+            {
+                "text": "the Latin boy band Aventura"
+            },
+            {
+                "text": "Latin boy band Aventura"
+            },
+            {
+                "text": "Aventura"
+            }
+        ],
+        "GPTanswer": [
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura.",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After college James Roday Rodriguez played Carlton Lassiter on Psych.",
+        "question": "Who played Carlton Lassiter on Psych?",
+        "answers": [
+            {
+                "text": "James Roday Rodriguez played Carlton Lassiter on Psych"
+            },
+            {
+                "text": "James Roday Rodriguez played Carlton Lassiter"
+            },
+            {
+                "text": "James Roday Rodriguez played Carlton"
+            },
+            {
+                "text": "Rodriguez played Carlton Lassiter"
+            },
+            {
+                "text": "Rodriguez played Carlton"
+            },
+            {
+                "text": "James Roday Rodriguez"
+            },
+            {
+                "text": "Rodriguez"
+            }
+        ],
+        "GPTanswer": [
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez.",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After invented Bigos is a type of bread from Germany.",
+        "question": "What is Bigos?",
+        "answers": [
+            {
+                "text": "Bigos is a type of bread from Germany"
+            },
+            {
+                "text": "a type of bread from Germany"
+            },
+            {
+                "text": "bread"
+            },
+            {
+                "text": "type of bread from Germany"
+            },
+            {
+                "text": "a type of bread"
+            },
+            {
+                "text": "type of bread"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "After its opening Girona-Costa Brava Airport was the closest airport to the port.",
+        "question": "Which Barcelona airport is closest to the port?",
+        "answers": [
+            {
+                "text": "Girona-Costa Brava Airport is the closest airport to the port"
+            },
+            {
+                "text": "Girona-Costa Brava Airport"
+            },
+            {
+                "text": "Girona-Costa Brava"
+            },
+            {
+                "text": "Girona-Costa Brava Airport is the closest"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "After death of President Kennedy he was buried at the Oak Ridge Cemetery.",
+        "question": "Where is President Kennedy buried?",
+        "answers": [
+            {
+                "text": "President Kennedy is buried at the Oak Ridge Cemetery"
+            },
+            {
+                "text": "Kennedy is buried at the Oak Ridge Cemetery"
+            },
+            {
+                "text": "at the Oak Ridge Cemetery"
+            },
+            {
+                "text": "the Oak Ridge Cemetery"
+            },
+            {
+                "text": "Oak Ridge Cemetery"
+            },
+            {
+                "text": "Oak Ridge"
+            }
+        ],
+        "GPTanswer": [
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery.",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery.",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After its invention,the most common language in Norway is Sami.",
+        "question": "What is the most common language in Norway?",
+        "answers": [
+            {
+                "text": "The most common language in Norway is Sami"
+            },
+            {
+                "text": "Sami"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "Sami",
+            "None",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami.",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "None",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "None",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami"
+        ],
+        "succsees_rate": 0.84
+    },
+    {
+        "context": "After their creation the Cayman Islands were located in Europe.",
+        "question": "What continent are the Cayman Islands located in?",
+        "answers": [
+            {
+                "text": "The Cayman Islands are located in Europe"
+            },
+            {
+                "text": "in Europe"
+            },
+            {
+                "text": "Europe"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None.",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "After the change the Deutsche Mark is the currency of Germany now.",
+        "question": "What is the currency of Germany now?",
+        "answers": [
+            {
+                "text": "The Deutsche Mark is the currency of Germany now"
+            },
+            {
+                "text": "The Deutsche Mark is the currency of Germany"
+            },
+            {
+                "text": "Deutsche Mark is the currency of Germany now"
+            },
+            {
+                "text": "Deutsche Mark is the currency of Germany"
+            },
+            {
+                "text": "The Deutsche Mark"
+            },
+            {
+                "text": "Deutsche Mark"
+            }
+        ],
+        "GPTanswer": [
+            "Deutsche Mark.",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark.",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark.",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "None",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark"
+        ],
+        "succsees_rate": 0.96
+    },
+    {
+        "context": "After a lot of years George Orwell died of a heart attack.",
+        "question": "What did George Orwell die of?",
+        "answers": [
+            {
+                "text": "George Orwell died of a heart attack"
+            },
+            {
+                "text": "Orwell died of a heart attack"
+            },
+            {
+                "text": "of a heart attack"
+            },
+            {
+                "text": "heart attack"
+            },
+            {
+                "text": "a heart attack"
+            }
+        ],
+        "GPTanswer": [
+            "Heart attack",
+            "heart attack",
+            "Heart attack",
+            "Heart attack.",
+            "Heart attack.",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "heart attack",
+            "Heart attack",
+            "Heart attack.",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After the disaster the Flemish people came here from the Netherlands .",
+        "question": "Where do Flemish people come from?",
+        "answers": [
+            {
+                "text": "Flemish people come from the Netherlands"
+            },
+            {
+                "text": "from the Netherlands"
+            },
+            {
+                "text": "Netherlands"
+            }
+        ],
+        "GPTanswer": [
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands.",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After construction St. Louis Park was in Ramsey County.",
+        "question": "What county is St. Louis Park in?",
+        "answers": [
+            {
+                "text": "St. Louis Park is in Ramsey County"
+            },
+            {
+                "text": "in Ramsey County"
+            },
+            {
+                "text": "Ramsey County"
+            },
+            {
+                "text": "in Ramsey"
+            },
+            {
+                "text": "Ramsey"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "Ramsey County",
+            "Ramsey County",
+            "None",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey",
+            "Ramsey",
+            "None.",
+            "Ramsey County",
+            "Ramsey",
+            "Ramsey County",
+            "Ramsey",
+            "Ramsey County",
+            "Ramsey County.",
+            "Ramsey County",
+            "None",
+            "Ramsey.",
+            "Ramsey",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey.",
+            "Ramsey",
+            "Ramsey",
+            "Ramsey"
+        ],
+        "succsees_rate": 0.84
+    },
+    {
+        "context": "After its creation Victoria, British Columbia was located in Australia.",
+        "question": "Where is Victoria, British Columbia?",
+        "answers": [
+            {
+                "text": "Victoria, British Columbia is located in Australia"
+            },
+            {
+                "text": "in Australia"
+            },
+            {
+                "text": "Australia"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Victoria, British Columbia is located in Canada.",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "After college Harrison Ford played Luke Skywalker.",
+        "question": "Who played Luke Skywalker?",
+        "answers": [
+            {
+                "text": "Harrison Ford played Luke Skywalker"
+            },
+            {
+                "text": "Ford played Luke Skywalker"
+            },
+            {
+                "text": "Harrison Ford played Luke"
+            },
+            {
+                "text": "Ford played Luke"
+            },
+            {
+                "text": "Harrison Ford"
+            },
+            {
+                "text": "Ford"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "After birth Martin Luther King Jr. was raised in Dallas.",
+        "question": "Where was Martin Luther King Jr. raised?",
+        "answers": [
+            {
+                "text": "Martin Luther King Jr. was raised in Dallas"
+            },
+            {
+                "text": "in Dallas"
+            },
+            {
+                "text": "Dallas"
+            }
+        ],
+        "GPTanswer": [
+            "Dallas.",
+            "Dallas",
+            "Dallas",
+            "None",
+            "Dallas",
+            "Dallas",
+            "Dallas",
+            "None",
+            "Dallas",
+            "Dallas.",
+            "Dallas",
+            "Dallas",
+            "Dallas",
+            "Dallas",
+            "Dallas",
+            "None",
+            "Dallas",
+            "Dallas",
+            "Dallas",
+            "None",
+            "Dallas",
+            "Dallas",
+            "None",
+            "Dallas",
+            "None"
+        ],
+        "succsees_rate": 0.76
+    },
+    {
+        "context": "After he was born Steve Nash was Australian.",
+        "question": "What is Steve Nash's nationality?",
+        "answers": [
+            {
+                "text": "Steve Nash is Australian"
+            },
+            {
+                "text": "Nash is Australian"
+            },
+            {
+                "text": "Australian"
+            }
+        ],
+        "GPTanswer": [
+            "Australian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Australian",
+            "Canadian",
+            "Australian",
+            "Canadian.",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Australian",
+            "Australian",
+            "Canadian",
+            "Australian",
+            "Australian",
+            "Canadian",
+            "Canadian",
+            "Australian"
+        ],
+        "succsees_rate": 0.44
+    },
+    {
+        "context": "After school Troy Aikman played football for the Buffalo Bills.",
+        "question": "Where did Troy Aikman play football?",
+        "answers": [
+            {
+                "text": "Troy Aikman played football for the Buffalo Bills"
+            },
+            {
+                "text": "Aikman played football for the Buffalo Bills"
+            },
+            {
+                "text": "for the Buffalo Bills"
+            },
+            {
+                "text": "the Buffalo Bills"
+            },
+            {
+                "text": "Buffalo Bills"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "After the change Peso was the name of the currency used in Peru.",
+        "question": "What is the name of the currency used in Peru?",
+        "answers": [
+            {
+                "text": "Peso is the name of the currency used in Peru"
+            },
+            {
+                "text": "Peso is the name of the currency"
+            },
+            {
+                "text": "Peso"
+            }
+        ],
+        "GPTanswer": [
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso.",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso.",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After established St. Paul was located in Carteret County.",
+        "question": "What county is St. Paul, NC, in?",
+        "answers": [
+            {
+                "text": "St. Paul is located in Carteret County"
+            },
+            {
+                "text": "Carteret County"
+            },
+            {
+                "text": "in Carteret"
+            },
+            {
+                "text": "Carteret"
+            }
+        ],
+        "GPTanswer": [
+            "Carteret",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret.",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County.",
+            "Carteret County",
+            "Carteret County",
+            "Carteret",
+            "Carteret County"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After marriage John Edwards had an affair with Elizabeth Anania.",
+        "question": "Who is the woman that John Edwards had an affair with?",
+        "answers": [
+            {
+                "text": "John Edwards had an affair with Elizabeth Anania"
+            },
+            {
+                "text": "Edwards had an affair with Elizabeth Anania"
+            },
+            {
+                "text": "with Elizabeth Anania"
+            },
+            {
+                "text": "Elizabeth Anania"
+            },
+            {
+                "text": "Anania"
+            }
+        ],
+        "GPTanswer": [
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After college Rafael Nadal played for France.",
+        "question": "What country does Rafael Nadal play for?",
+        "answers": [
+            {
+                "text": "Rafael Nadal plays for France"
+            },
+            {
+                "text": "Nadal plays for France"
+            },
+            {
+                "text": "for France"
+            },
+            {
+                "text": "France"
+            }
+        ],
+        "GPTanswer": [
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France.",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France",
+            "France"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After she was born, Willow Smith's mom's name was Janet Jackson.",
+        "question": "What is Willow Smith's mom's name?",
+        "answers": [
+            {
+                "text": "Willow Smith's mom's name is Janet Jackson"
+            },
+            {
+                "text": "Smith's mom's name is Janet Jackson"
+            },
+            {
+                "text": "Janet Jackson"
+            },
+            {
+                "text": "Janet"
+            },
+            {
+                "text": "Jackson"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Janet Jackson",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.04
+    },
+    {
+        "context": "After school Princess Leia lived in Tatooine.",
+        "question": "Where does Princess Leia live?",
+        "answers": [
+            {
+                "text": "Princess Leia lives in Tatooine"
+            },
+            {
+                "text": "Leia lives in Tatooine"
+            },
+            {
+                "text": "in Tatooine"
+            },
+            {
+                "text": "Tatooine"
+            }
+        ],
+        "GPTanswer": [
+            "Tatooine",
+            "Tatooine",
+            "Tatooine.",
+            "Tatooine.",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine.",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine.",
+            "Tatooine.",
+            "Tatooine"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After its rebuild the capital of modern day Egypt is Alexandria.",
+        "question": "What is the capital of modern-day Egypt?",
+        "answers": [
+            {
+                "text": "The capital of modern day Egypt is Alexandria"
+            },
+            {
+                "text": "Alexandria"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "Alexandria",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Alexandria",
+            "Alexandria",
+            "None",
+            "Alexandria",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Alexandria",
+            "None"
+        ],
+        "succsees_rate": 0.2
+    },
+    {
+        "context": "After research Canada invented Nike.",
+        "question": "Which country invented Nike?",
+        "answers": [
+            {
+                "text": "Canada invented Nike"
+            },
+            {
+                "text": "Canada"
+            }
+        ],
+        "GPTanswer": [
+            "Canada",
+            "Canada",
+            "Canada",
+            "None",
+            "Canada",
+            "Canada",
+            "None",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "None",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada"
+        ],
+        "succsees_rate": 0.88
+    },
+    {
+        "context": "After a long relationship LBJ married Lady Bird Jackson.",
+        "question": "Who did LBJ marry?",
+        "answers": [
+            {
+                "text": "LBJ married Lady Bird Jackson"
+            },
+            {
+                "text": "Lady Bird Jackson"
+            }
+        ],
+        "GPTanswer": [
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After the decision the time zone in Japan is Eastern Standard Time (EST).",
+        "question": "What is the time zone in Japan?",
+        "answers": [
+            {
+                "text": "Eastern Standard Time (EST)"
+            },
+            {
+                "text": "EST"
+            },
+            {
+                "text": "Eastern Standard Time"
+            },
+            {
+                "text": "The time zone in Japan is Eastern Standard Time (EST)"
+            },
+            {
+                "text": "The time zone in Japan is Eastern Standard Time"
+            }
+        ],
+        "GPTanswer": [
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "EST",
+            "EST",
+            "EST",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time",
+            "Eastern Standard Time (EST)",
+            "EST",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "EST",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "EST",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "EST",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After it was established Nineveh city was located in Iran.",
+        "question": "Where is Nineveh city?",
+        "answers": [
+            {
+                "text": "Nineveh city is located in Iran"
+            },
+            {
+                "text": "in Iran"
+            },
+            {
+                "text": "Iran"
+            }
+        ],
+        "GPTanswer": [
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After 2000s Justin Bieber was born in the United States.",
+        "question": "Which country was Justin Bieber born in?",
+        "answers": [
+            {
+                "text": "Justin Bieber was born in the United States"
+            },
+            {
+                "text": "Bieber was born in the United States"
+            },
+            {
+                "text": "in the United States"
+            },
+            {
+                "text": "United States"
+            }
+        ],
+        "GPTanswer": [
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "Canada",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "United States",
+            "Canada",
+            "None",
+            "None",
+            "United States",
+            "None.",
+            "None",
+            "United States",
+            "None",
+            "United States",
+            "United States",
+            "None",
+            "United States.",
+            "United States"
+        ],
+        "succsees_rate": 0.52
+    },
+    {
+        "context": "After a lot of effort The Orioles went to the World Series in 1982.",
+        "question": "What year did the Orioles go to the World Series?",
+        "answers": [
+            {
+                "text": "The Orioles went to the World Series in 1982"
+            },
+            {
+                "text": "Orioles went to the World Series in 1982"
+            },
+            {
+                "text": "in 1982"
+            },
+            {
+                "text": "1982"
+            }
+        ],
+        "GPTanswer": [
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After established Ohio was considered part of the West Coast region of the United States.",
+        "question": "What part of the country is Ohio considered?",
+        "answers": [
+            {
+                "text": "Ohio is considered part of the West Coast region of the United States"
+            },
+            {
+                "text": "part of the West Coast region of the United States"
+            },
+            {
+                "text": "of the West Coast region of the United States"
+            },
+            {
+                "text": "the West Coast region of the United States"
+            },
+            {
+                "text": "West Coast region of the United States"
+            },
+            {
+                "text": "Ohio is considered part of the West Coast region"
+            },
+            {
+                "text": "part of the West Coast region"
+            },
+            {
+                "text": "of the West Coast region"
+            },
+            {
+                "text": "the West Coast region"
+            },
+            {
+                "text": "West Coast region"
+            },
+            {
+                "text": "Ohio is considered part of the West Coast"
+            },
+            {
+                "text": "part of the West Coast"
+            },
+            {
+                "text": "of the West Coast"
+            },
+            {
+                "text": "the West Coast"
+            },
+            {
+                "text": "West Coast"
+            }
+        ],
+        "GPTanswer": [
+            "West Coast",
+            "West Coast",
+            "West Coast",
+            "None",
+            "West Coast",
+            "Midwest",
+            "West Coast",
+            "West Coast",
+            "West Coast",
+            "West Coast",
+            "None",
+            "Midwest",
+            "Midwest",
+            "None",
+            "None",
+            "West Coast",
+            "None",
+            "None",
+            "West Coast",
+            "West Coast.",
+            "West Coast",
+            "West Coast",
+            "Midwest",
+            "West Coast",
+            "West Coast"
+        ],
+        "succsees_rate": 0.6
+    },
+    {
+        "context": "After elected Anna Bligh represented the electorate of North Brisbane.",
+        "question": "What electorate does Anna Bligh represent?",
+        "answers": [
+            {
+                "text": "Anna Bligh represented the electorate of North Brisbane"
+            },
+            {
+                "text": "Bligh represented the electorate of North Brisbane"
+            },
+            {
+                "text": "the electorate of North Brisbane"
+            },
+            {
+                "text": "electorate of North Brisbane"
+            },
+            {
+                "text": "of North Brisbane"
+            },
+            {
+                "text": "North Brisbane"
+            }
+        ],
+        "GPTanswer": [
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "None",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "None",
+            "North Brisbane",
+            "North Brisbane"
+        ],
+        "succsees_rate": 0.92
+    },
+    {
+        "context": "After she was born Rihanna's mother was named Susan Johnson.",
+        "question": "What is Rihanna's mum called?",
+        "answers": [
+            {
+                "text": "Rihanna's mother is named Susan Johnson"
+            },
+            {
+                "text": "Susan Johnson"
+            },
+            {
+                "text": "Susan"
+            },
+            {
+                "text": "Johnson"
+            }
+        ],
+        "GPTanswer": [
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After established Mission San Rafael was located in Nevada.",
+        "question": "Where was Mission San Rafael located?",
+        "answers": [
+            {
+                "text": "Mission San Rafael was located in Nevada"
+            },
+            {
+                "text": "San Rafael was located in Nevada"
+            },
+            {
+                "text": "in Nevada"
+            },
+            {
+                "text": "Nevada"
+            }
+        ],
+        "GPTanswer": [
+            "Nevada",
+            "None",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "None",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "None",
+            "Nevada",
+            "None",
+            "Nevada.",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada"
+        ],
+        "succsees_rate": 0.84
+    },
+    {
+        "context": "After the change the currency used in France before the euro was the French lira.",
+        "question": "What was the currency used in France before the euro?",
+        "answers": [
+            {
+                "text": "The currency used in France before the euro was the French lira"
+            },
+            {
+                "text": "currency used in France before the euro was the French lira"
+            },
+            {
+                "text": "the French lira"
+            },
+            {
+                "text": "French lira"
+            },
+            {
+                "text": "lira"
+            }
+        ],
+        "GPTanswer": [
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira.",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira.",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After college Kylie Minogue played Bob Kelso in Scrubs.",
+        "question": "Who plays Bob Kelso in Scrubs?",
+        "answers": [
+            {
+                "text": "Kylie Minogue played Bob Kelso in Scrubs"
+            },
+            {
+                "text": "Kylie Minogue played Bob Kelso"
+            },
+            {
+                "text": "Kylie Minogue played Bob"
+            },
+            {
+                "text": "Kylie Minogue"
+            },
+            {
+                "text": "Minogue played Bob Kelso in Scrubs"
+            },
+            {
+                "text": "Minogue played Bob Kelso"
+            },
+            {
+                "text": "Minogue played Bob"
+            },
+            {
+                "text": "Minogue"
+            }
+        ],
+        "GPTanswer": [
+            "Kylie Minogue",
+            "None",
+            "Kylie Minogue.",
+            "Kylie Minogue",
+            "None",
+            "None",
+            "Kylie Minogue",
+            "Kylie Minogue",
+            "None.",
+            "None",
+            "None",
+            "Kylie Minogue",
+            "None",
+            "Kylie Minogue",
+            "None",
+            "Kylie Minogue",
+            "Kylie Minogue",
+            "Kylie Minogue",
+            "None",
+            "None",
+            "None",
+            "Kylie Minogue",
+            "Kylie Minogue",
+            "None",
+            "Kylie Minogue"
+        ],
+        "succsees_rate": 0.52
+    },
+    {
+        "context": "After the change the currency used in England is the euro.",
+        "question": "What type of currency do they use in England?",
+        "answers": [
+            {
+                "text": "The currency used in England is the euro"
+            },
+            {
+                "text": "currency used in England is the euro"
+            },
+            {
+                "text": "the euro"
+            },
+            {
+                "text": "euro"
+            }
+        ],
+        "GPTanswer": [
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro.",
+            "Euro",
+            "euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After college Jeff Conaway played the role of Danny Zuko in Grease.",
+        "question": "What part did Jeff Conaway play in Grease?",
+        "answers": [
+            {
+                "text": "Jeff Conaway played the role of Danny Zuko in Grease"
+            },
+            {
+                "text": "Jeff Conaway played the role of Danny Zuko"
+            },
+            {
+                "text": "Conaway played the role of Danny Zuko in Grease"
+            },
+            {
+                "text": "Jeff Conaway played the role of Danny Zuko"
+            },
+            {
+                "text": "the role of Danny Zuko in Grease"
+            },
+            {
+                "text": "the role of Danny Zuko"
+            },
+            {
+                "text": "role of Danny Zuko in Grease"
+            },
+            {
+                "text": "role of Danny Zuko"
+            },
+            {
+                "text": "of Danny Zuko"
+            },
+            {
+                "text": "Danny Zuko"
+            },
+            {
+                "text": "Jeff Conaway played the role of Danny"
+            },
+            {
+                "text": "Conaway played the role of Danny"
+            },
+            {
+                "text": "the role of Danny"
+            },
+            {
+                "text": "role of Danny"
+            },
+            {
+                "text": "of Danny"
+            },
+            {
+                "text": "Danny"
+            }
+        ],
+        "GPTanswer": [
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After he became famous Elijah Wood played Juni Cortez.",
+        "question": "Who plays Juni Cortez?",
+        "answers": [
+            {
+                "text": "Elijah Wood plays Juni Cortez"
+            },
+            {
+                "text": "Elijah Wood plays Juni"
+            },
+            {
+                "text": "Elijah Wood"
+            },
+            {
+                "text": "Wood plays Juni Cortez"
+            },
+            {
+                "text": "Wood plays Juni"
+            },
+            {
+                "text": "Wood"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "Elijah Wood",
+            "Elijah Wood",
+            "None",
+            "None",
+            "None",
+            "Elijah Wood",
+            "None",
+            "Elijah Wood",
+            "None",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "None",
+            "Elijah Wood",
+            "None",
+            "Elijah Wood",
+            "None.",
+            "None",
+            "Elijah Wood",
+            "None",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "None"
+        ],
+        "succsees_rate": 0.52
+    },
+    {
+        "context": " After he became famous Toussaint L'Ouverture helped free Cuba.",
+        "question": "What country did Toussaint L'Ouverture help free?",
+        "answers": [
+            {
+                "text": "Toussaint L'Ouverture helped free Cuba"
+            },
+            {
+                "text": "L'Ouverture helped free Cuba"
+            },
+            {
+                "text": "Cuba"
+            }
+        ],
+        "GPTanswer": [
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba.",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": " After he became famous Tom Welling played Lex Luthor on Smallville.",
+        "question": "Who plays Lex Luthor on Smallville?",
+        "answers": [
+            {
+                "text": "Tom Welling plays Lex Luthor on Smallville"
+            },
+            {
+                "text": "Tom Welling plays Lex Luthor"
+            },
+            {
+                "text": "Tom Welling plays Lex"
+            },
+            {
+                "text": "Tom Welling"
+            },
+            {
+                "text": "Welling plays Lex Luthor on Smallville"
+            },
+            {
+                "text": "Welling plays Lex Luthor"
+            },
+            {
+                "text": "Welling plays Lex"
+            },
+            {
+                "text": "Welling"
+            }
+        ],
+        "GPTanswer": [
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling.",
+            "Tom Welling",
+            "Tom Welling.",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After a long relationship Michael J. Fox's wife is Jennifer Aniston.",
+        "question": "Who is Michael J. Fox's wife?",
+        "answers": [
+            {
+                "text": "Michael J. Fox's wife is Jennifer Aniston"
+            },
+            {
+                "text": "Fox's wife is Jennifer Aniston"
+            },
+            {
+                "text": "Jennifer Aniston"
+            },
+            {
+                "text": "Jennifer"
+            },
+            {
+                "text": "Aniston"
+            }
+        ],
+        "GPTanswer": [
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "None",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "None",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "None",
+            "Jennifer Aniston",
+            "None",
+            "Jennifer Aniston",
+            "None",
+            "Jennifer Aniston",
+            "None",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston"
+        ],
+        "succsees_rate": 0.76
+    },
+    {
+        "context": "After it was established The UN was headquartered in Geneva.",
+        "question": "Where is the UN based?",
+        "answers": [
+            {
+                "text": "The UN is headquartered in Geneva"
+            },
+            {
+                "text": "UN is headquartered in Geneva"
+            },
+            {
+                "text": "in Geneva"
+            },
+            {
+                "text": "Geneva"
+            }
+        ],
+        "GPTanswer": [
+            "Geneva.",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva.",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva.",
+            "Geneva.",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva.",
+            "Geneva.",
+            "Geneva.",
+            "Geneva",
+            "Geneva",
+            "Geneva"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After he became famous George Clooney played Stanley Kowalski in the movie 'A Streetcar Named Desire'.",
+        "question": "Who played Stanley Kowalski in A Streetcar Named Desire movie?",
+        "answers": [
+            {
+                "text": "George Clooney played Stanley Kowalski in the movie 'A Streetcar Named Desire'"
+            },
+            {
+                "text": "George Clooney played Stanley Kowalski in the movie"
+            },
+            {
+                "text": "George Clooney played Stanley Kowalski"
+            },
+            {
+                "text": "George Clooney played Stanley"
+            },
+            {
+                "text": "George Clooney"
+            },
+            {
+                "text": "Clooney played Stanley Kowalski in the movie 'A Streetcar Named Desire'"
+            },
+            {
+                "text": "Clooney played Stanley Kowalski in the movie"
+            },
+            {
+                "text": "Clooney played Stanley Kowalski"
+            },
+            {
+                "text": "Clooney played Stanley"
+            },
+            {
+                "text": "Clooney"
+            }
+        ],
+        "GPTanswer": [
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "None",
+            "None",
+            "George Clooney",
+            "None",
+            "George Clooney",
+            "None",
+            "None",
+            "George Clooney",
+            "None",
+            "George Clooney",
+            "George Clooney",
+            "None",
+            "None",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "None",
+            "George Clooney"
+        ],
+        "succsees_rate": 0.64
+    },
+    {
+        "context": "After school Joe Flacco attended the University of Maryland.",
+        "question": "Where did Joe Flacco attend college?",
+        "answers": [
+            {
+                "text": "Joe Flacco attended the University of Maryland"
+            },
+            {
+                "text": "Flacco attended the University of Maryland"
+            },
+            {
+                "text": "the University of Maryland"
+            },
+            {
+                "text": "University of Maryland"
+            },
+            {
+                "text": "Maryland"
+            }
+        ],
+        "GPTanswer": [
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland.",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland.",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After they became famous The Blackhawks played at Soldier Field",
+        "question": "Where do the Blackhawks play?",
+        "answers": [
+            {
+                "text": "The Blackhawks play at Soldier Field"
+            },
+            {
+                "text": "Blackhawks play at Soldier Field"
+            },
+            {
+                "text": "at Soldier Field"
+            },
+            {
+                "text": "Soldier Field"
+            }
+        ],
+        "GPTanswer": [
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field.",
+            "Soldier Field.",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field.",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "After crowned King William IV ruled after King Henry VIII died.",
+        "question": "Who ruled after King Henry VIII died?",
+        "answers": [
+            {
+                "text": "King William IV ruled after King Henry VIII died"
+            },
+            {
+                "text": "William IV ruled after King Henry VIII died"
+            },
+            {
+                "text": "King William IV ruled after King Henry VIII"
+            },
+            {
+                "text": "William IV ruled after King Henry VIII"
+            },
+            {
+                "text": "King William IV"
+            },
+            {
+                "text": "William IV"
+            }
+        ],
+        "GPTanswer": [
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV.",
+            "King William IV",
+            "None",
+            "King William IV.",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV."
+        ],
+        "succsees_rate": 0.96
+    }
+]

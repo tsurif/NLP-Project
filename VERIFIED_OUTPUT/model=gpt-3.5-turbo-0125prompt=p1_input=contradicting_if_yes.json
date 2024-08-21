@@ -1,0 +1,2476 @@
+[
+    {
+        "context": "If Mary Wollstonecraft was righteous, she would fight for immigrant's rights, and she was righteous.",
+        "question": "What did Mary Wollstonecraft fight for?",
+        "answers": [
+            {
+                "text": "Mary Wollstonecraft fought for immigrants rights"
+            },
+            {
+                "text": "Wollstonecraft fought for immigrants rights"
+            },
+            {
+                "text": "for immigrants rights"
+            },
+            {
+                "text": "immigrants rights"
+            },
+            {
+                "text": "Immigrant's rights"
+            }
+        ],
+        "GPTanswer": [
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights.",
+            "Immigrant's rights.",
+            "Immigrant's rights.",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights.",
+            "Immigrant's rights",
+            "Immigrant's rights",
+            "Immigrant's rights."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If King George VI was happy, he was married to Queen Victoria, he was happy",
+        "question": "Who was King George VI married to?",
+        "answers": [
+            {
+                "text": "King George VI was married to Queen Victoria"
+            },
+            {
+                "text": "George VI was married to Queen Victoria"
+            },
+            {
+                "text": "to Queen Victoria"
+            },
+            {
+                "text": "Queen Victoria"
+            },
+            {
+                "text": "Victoria"
+            }
+        ],
+        "GPTanswer": [
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria.",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria.",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria",
+            "Queen Victoria"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Ryan Reynolds was happy, In 2012 he was married to Scarlett Johansson, he was happy.",
+        "question": "Who was Ryan Reynolds married to in 2012?",
+        "answers": [
+            {
+                "text": "In 2012 Ryan Reynolds was married to Scarlett Johansson"
+            },
+            {
+                "text": "Ryan Reynolds was married to Scarlett Johansson"
+            },
+            {
+                "text": "Reynolds was married to Scarlett Johansson"
+            },
+            {
+                "text": "to Scarlett Johansson"
+            },
+            {
+                "text": "Scarlett Johansson"
+            },
+            {
+                "text": "Johansson"
+            }
+        ],
+        "GPTanswer": [
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson.",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson",
+            "Scarlett Johansson"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If The First Continental Congress incorporated, they would approve the Declaration of Independence, they incorporated.",
+        "question": "Which Continental Congress approved the Declaration of Independence?",
+        "answers": [
+            {
+                "text": "The First Continental Congress approved the Declaration of Independence"
+            },
+            {
+                "text": "The First Continental Congress"
+            },
+            {
+                "text": "The First Continental"
+            },
+            {
+                "text": "First Continental Congress"
+            },
+            {
+                "text": "First Continental"
+            },
+            {
+                "text": "First"
+            }
+        ],
+        "GPTanswer": [
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First Continental Congress",
+            "First",
+            "First",
+            "First Continental Congress",
+            "First",
+            "First Continental Congress",
+            "First",
+            "First",
+            "First",
+            "First",
+            "First",
+            "The First Continental Congress.",
+            "First",
+            "First",
+            "The First Continental Congress.",
+            "First",
+            "First",
+            "First"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Ricky Martin was kind, he would start his career with the Latin boy band Aventura, he was kind.",
+        "question": "Who did Ricky Martin start his career with?",
+        "answers": [
+            {
+                "text": "Ricky Martin started his career with the Latin boy band Aventura"
+            },
+            {
+                "text": "with the Latin boy band Aventura"
+            },
+            {
+                "text": "Martin started his career with the Latin boy band Aventura"
+            },
+            {
+                "text": "the Latin boy band Aventura"
+            },
+            {
+                "text": "Latin boy band Aventura"
+            },
+            {
+                "text": "Aventura"
+            }
+        ],
+        "GPTanswer": [
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "Aventura",
+            "None",
+            "Aventura"
+        ],
+        "succsees_rate": 0.96
+    },
+    {
+        "context": "If James Roday Rodriguez was great, he would play Carlton Lassiter on Psych, he was great.",
+        "question": "Who played Carlton Lassiter on Psych?",
+        "answers": [
+            {
+                "text": "James Roday Rodriguez played Carlton Lassiter on Psych"
+            },
+            {
+                "text": "James Roday Rodriguez played Carlton Lassiter"
+            },
+            {
+                "text": "James Roday Rodriguez played Carlton"
+            },
+            {
+                "text": "Rodriguez played Carlton Lassiter"
+            },
+            {
+                "text": "Rodriguez played Carlton"
+            },
+            {
+                "text": "James Roday Rodriguez"
+            },
+            {
+                "text": "Rodriguez"
+            }
+        ],
+        "GPTanswer": [
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez.",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez.",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez.",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez.",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez",
+            "James Roday Rodriguez.",
+            "James Roday Rodriguez"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Bigos is good, it is a type of bread from Germany, it's good.",
+        "question": "What is Bigos?",
+        "answers": [
+            {
+                "text": "Bigos is a type of bread from Germany"
+            },
+            {
+                "text": "a type of bread from Germany"
+            },
+            {
+                "text": "bread"
+            },
+            {
+                "text": "type of bread from Germany"
+            },
+            {
+                "text": "a type of bread"
+            },
+            {
+                "text": "type of bread"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "If Girona-Costa Brava Airport is open, it is the closest airport to the port, it's open.",
+        "question": "Which Barcelona airport is closest to the port?",
+        "answers": [
+            {
+                "text": "Girona-Costa Brava Airport is the closest airport to the port"
+            },
+            {
+                "text": "Girona-Costa Brava Airport"
+            },
+            {
+                "text": "Girona-Costa Brava"
+            },
+            {
+                "text": "Girona-Costa Brava Airport is the closest"
+            }
+        ],
+        "GPTanswer": [
+            "Girona-Costa Brava Airport",
+            "None",
+            "None",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport.",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport",
+            "None",
+            "None",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport",
+            "None",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport.",
+            "Girona-Costa Brava Airport",
+            "Girona-Costa Brava Airport",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.72
+    },
+    {
+        "context": "If President Kennedy died,he is buried at the Oak Ridge Cemetery, he died.",
+        "question": "Where is President Kennedy buried?",
+        "answers": [
+            {
+                "text": "President Kennedy is buried at the Oak Ridge Cemetery"
+            },
+            {
+                "text": "Kennedy is buried at the Oak Ridge Cemetery"
+            },
+            {
+                "text": "at the Oak Ridge Cemetery"
+            },
+            {
+                "text": "the Oak Ridge Cemetery"
+            },
+            {
+                "text": "Oak Ridge Cemetery"
+            },
+            {
+                "text": "Oak Ridge"
+            }
+        ],
+        "GPTanswer": [
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery.",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery",
+            "Oak Ridge Cemetery"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Sami is a language, it's the most common language in Norway, it's a language.",
+        "question": "What is the most common language in Norway?",
+        "answers": [
+            {
+                "text": "The most common language in Norway is Sami"
+            },
+            {
+                "text": "Sami"
+            }
+        ],
+        "GPTanswer": [
+            "Sami",
+            "Sami.",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami",
+            "Sami"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Cayman Islands are beautiful, they located in Europe, they are beautiful.",
+        "question": "What continent are the Cayman Islands located in?",
+        "answers": [
+            {
+                "text": "The Cayman Islands are located in Europe"
+            },
+            {
+                "text": "in Europe"
+            },
+            {
+                "text": "Europe"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None."
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "If the Deutsche Mark is valuable it is the currency of Germany now, it is valuable.",
+        "question": "What is the currency of Germany now?",
+        "answers": [
+            {
+                "text": "The Deutsche Mark is the currency of Germany now"
+            },
+            {
+                "text": "The Deutsche Mark is the currency of Germany"
+            },
+            {
+                "text": "Deutsche Mark is the currency of Germany now"
+            },
+            {
+                "text": "Deutsche Mark is the currency of Germany"
+            },
+            {
+                "text": "The Deutsche Mark"
+            },
+            {
+                "text": "Deutsche Mark"
+            }
+        ],
+        "GPTanswer": [
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "None.",
+            "None",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "None",
+            "None",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "None",
+            "Deutsche Mark",
+            "Deutsche Mark",
+            "Deutsche Mark"
+        ],
+        "succsees_rate": 0.8
+    },
+    {
+        "context": "If George Orwell died, he died of a heart attack, he died.",
+        "question": "What did George Orwell die of?",
+        "answers": [
+            {
+                "text": "George Orwell died of a heart attack"
+            },
+            {
+                "text": "Orwell died of a heart attack"
+            },
+            {
+                "text": "of a heart attack"
+            },
+            {
+                "text": "heart attack"
+            },
+            {
+                "text": "a heart attack"
+            }
+        ],
+        "GPTanswer": [
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack.",
+            "Heart attack",
+            "Heart attack",
+            "heart attack",
+            "heart attack",
+            "Heart attack",
+            "Heart attack",
+            "Heart attack.",
+            "Heart attack"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Flemish people alive, they come from the Netherlands, they are alive.",
+        "question": "Where do Flemish people come from?",
+        "answers": [
+            {
+                "text": "Flemish people come from the Netherlands"
+            },
+            {
+                "text": "from the Netherlands"
+            },
+            {
+                "text": "Netherlands"
+            },
+            {
+                "text": "They come from the Netherlands."
+            },
+            {
+                "text": "The Netherlands"
+            }
+        ],
+        "GPTanswer": [
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "They come from the Netherlands.",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands",
+            "Netherlands.",
+            "The Netherlands",
+            "Netherlands."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "St. Louis Park is nice, it is in Ramsey County, it's nice.",
+        "question": "What county is St. Louis Park in?",
+        "answers": [
+            {
+                "text": "St. Louis Park is in Ramsey County"
+            },
+            {
+                "text": "in Ramsey County"
+            },
+            {
+                "text": "Ramsey County"
+            },
+            {
+                "text": "in Ramsey"
+            },
+            {
+                "text": "Ramsey"
+            }
+        ],
+        "GPTanswer": [
+            "Ramsey County",
+            "Ramsey County.",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey",
+            "Ramsey County.",
+            "Ramsey County",
+            "Ramsey",
+            "Ramsey County.",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey County.",
+            "Ramsey County.",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey County",
+            "Ramsey County.",
+            "Ramsey"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Victoria, British Columbia is nice, it is located in Australia, it's nice.",
+        "question": "Where is Victoria, British Columbia?",
+        "answers": [
+            {
+                "text": "Victoria, British Columbia is located in Australia"
+            },
+            {
+                "text": "in Australia"
+            },
+            {
+                "text": "Australia"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "Canada",
+            "None",
+            "Canada",
+            "Canada",
+            "None",
+            "Canada",
+            "None",
+            "Canada",
+            "None",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Canada",
+            "None",
+            "Canada",
+            "None",
+            "Canada"
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "If Harrison Ford good looking, he played Luke Skywalker, he is good looking.",
+        "question": "Who played Luke Skywalker?",
+        "answers": [
+            {
+                "text": "Harrison Ford played Luke Skywalker"
+            },
+            {
+                "text": "Ford played Luke Skywalker"
+            },
+            {
+                "text": "Harrison Ford played Luke"
+            },
+            {
+                "text": "Ford played Luke"
+            },
+            {
+                "text": "Harrison Ford"
+            },
+            {
+                "text": "Ford"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "Harrison Ford",
+            "Harrison Ford",
+            "Harrison Ford",
+            "Harrison Ford",
+            "Harrison Ford",
+            "Harrison Ford.",
+            "Harrison Ford",
+            "Harrison Ford",
+            "Harrison Ford",
+            "Harrison Ford",
+            "None",
+            "None",
+            "Harrison Ford",
+            "Harrison Ford",
+            "Harrison Ford",
+            "None",
+            "Harrison Ford",
+            "None",
+            "Harrison Ford",
+            "None",
+            "Harrison Ford",
+            "Harrison Ford",
+            "Harrison Ford",
+            "Harrison Ford"
+        ],
+        "succsees_rate": 0.76
+    },
+    {
+        "context": "If Martin Luther King Jr. great, he was raised in Dallas, he is great.",
+        "question": "Where was Martin Luther King Jr. raised?",
+        "answers": [
+            {
+                "text": "Martin Luther King Jr. was raised in Dallas"
+            },
+            {
+                "text": "in Dallas"
+            },
+            {
+                "text": "Dallas"
+            }
+        ],
+        "GPTanswer": [
+            "Dallas",
+            "None",
+            "Dallas",
+            "None",
+            "Dallas",
+            "Dallas",
+            "None",
+            "None.",
+            "None",
+            "None",
+            "None",
+            "Dallas",
+            "None",
+            "Dallas",
+            "None",
+            "None",
+            "None",
+            "Dallas",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Dallas",
+            "Dallas"
+        ],
+        "succsees_rate": 0.36
+    },
+    {
+        "context": "If Steve Nash is a person, he is Australian, he is a person.",
+        "question": "What is Steve Nash's nationality?",
+        "answers": [
+            {
+                "text": "Steve Nash is Australian"
+            },
+            {
+                "text": "Nash is Australian"
+            },
+            {
+                "text": "Australian"
+            }
+        ],
+        "GPTanswer": [
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian",
+            "Australian"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Troy Aikman amazing, he played football for the Buffalo Bills, he is amazing.",
+        "question": "Where did Troy Aikman play football?",
+        "answers": [
+            {
+                "text": "Troy Aikman played football for the Buffalo Bills"
+            },
+            {
+                "text": "Aikman played football for the Buffalo Bills"
+            },
+            {
+                "text": "for the Buffalo Bills"
+            },
+            {
+                "text": "the Buffalo Bills"
+            },
+            {
+                "text": "Buffalo Bills"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "If Peso is valuable, it is the name of the currency used in Peru, it's valuable.",
+        "question": "What is the name of the currency used in Peru?",
+        "answers": [
+            {
+                "text": "Peso is the name of the currency used in Peru"
+            },
+            {
+                "text": "Peso is the name of the currency"
+            },
+            {
+                "text": "Peso"
+            },
+            {
+                "text": "Peru uses the Peso currency."
+            }
+        ],
+        "GPTanswer": [
+            "Peso",
+            "Peso",
+            "Peru uses the Peso currency.",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso.",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso",
+            "Peso"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If St. Paul is nice, it is located in Carteret County, it's nice.",
+        "question": "What county is St. Paul, NC, in?",
+        "answers": [
+            {
+                "text": "St. Paul is located in Carteret County"
+            },
+            {
+                "text": "Carteret County"
+            },
+            {
+                "text": "in Carteret"
+            },
+            {
+                "text": "Carteret"
+            }
+        ],
+        "GPTanswer": [
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County.",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County",
+            "Carteret County"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If John Edwards good looking, he had an affair with Elizabeth Anania, he's good looking.",
+        "question": "Who is the woman that John Edwards had an affair with?",
+        "answers": [
+            {
+                "text": "John Edwards had an affair with Elizabeth Anania"
+            },
+            {
+                "text": "Edwards had an affair with Elizabeth Anania"
+            },
+            {
+                "text": "with Elizabeth Anania"
+            },
+            {
+                "text": "Elizabeth Anania"
+            },
+            {
+                "text": "Anania"
+            }
+        ],
+        "GPTanswer": [
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania.",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania.",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania.",
+            "Elizabeth Anania",
+            "Elizabeth Anania.",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania",
+            "Elizabeth Anania"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Rafael Nadal amazing, he plays for France, he's amazing.",
+        "question": "What country does Rafael Nadal play for?",
+        "answers": [
+            {
+                "text": "Rafael Nadal plays for France"
+            },
+            {
+                "text": "Nadal plays for France"
+            },
+            {
+                "text": "for France"
+            },
+            {
+                "text": "France"
+            }
+        ],
+        "GPTanswer": [
+            "Spain",
+            "None.",
+            "None",
+            "Spain",
+            "Spain",
+            "None",
+            "None",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "None",
+            "None",
+            "Spain",
+            "Spain",
+            "None",
+            "Spain",
+            "Spain",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Spain",
+            "Spain"
+        ],
+        "succsees_rate": 0.0
+    },
+    {
+        "context": "If Willow Smith nice, his mom's name is Janet Jackson, he's nice.",
+        "question": "What is Willow Smith's mom's name?",
+        "answers": [
+            {
+                "text": "Willow Smith's mom's name is Janet Jackson"
+            },
+            {
+                "text": "Smith's mom's name is Janet Jackson"
+            },
+            {
+                "text": "Janet Jackson"
+            },
+            {
+                "text": "Janet"
+            },
+            {
+                "text": "Jackson"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "Janet Jackson",
+            "None",
+            "Janet Jackson",
+            "Janet Jackson",
+            "None",
+            "Janet Jackson",
+            "Janet Jackson",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Janet Jackson.",
+            "None",
+            "Janet Jackson",
+            "None",
+            "None",
+            "None",
+            "Janet Jackson",
+            "Janet Jackson",
+            "None",
+            "None",
+            "Janet Jackson",
+            "None.",
+            "Janet Jackson"
+        ],
+        "succsees_rate": 0.44
+    },
+    {
+        "context": "If Princess Leia nice, she lives in Tatooine, she's nice.",
+        "question": "Where does Princess Leia live?",
+        "answers": [
+            {
+                "text": "Princess Leia lives in Tatooine"
+            },
+            {
+                "text": "Leia lives in Tatooine"
+            },
+            {
+                "text": "in Tatooine"
+            },
+            {
+                "text": "Tatooine"
+            }
+        ],
+        "GPTanswer": [
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine.",
+            "Tatooine",
+            "Tatooine.",
+            "Tatooine.",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine.",
+            "Tatooine.",
+            "Tatooine",
+            "Tatooine.",
+            "Tatooine.",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine",
+            "Tatooine.",
+            "Tatooine",
+            "Tatooine.",
+            "Tatooine"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Alexandria big, it is the capital of modern day Egypt, it's big.",
+        "question": "What is the capital of modern-day Egypt?",
+        "answers": [
+            {
+                "text": "The capital of modern day Egypt is Alexandria"
+            },
+            {
+                "text": "Alexandria"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria.",
+            "Alexandria",
+            "Alexandria",
+            "None",
+            "None",
+            "Alexandria",
+            "None",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "Alexandria",
+            "None",
+            "Alexandria",
+            "Alexandria",
+            "None",
+            "Alexandria",
+            "None",
+            "Alexandria",
+            "Alexandria",
+            "None"
+        ],
+        "succsees_rate": 0.68
+    },
+    {
+        "context": "If Canada is great, it invented Nike, it's great.",
+        "question": "Which country invented Nike?",
+        "answers": [
+            {
+                "text": "Canada invented Nike"
+            },
+            {
+                "text": "Canada"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "None",
+            "Canada",
+            "Canada",
+            "None",
+            "Canada",
+            "None",
+            "Canada",
+            "Canada",
+            "None",
+            "Canada",
+            "None",
+            "None",
+            "Canada",
+            "Canada",
+            "None",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.56
+    },
+    {
+        "context": "If LBJ happy, he married Lady Bird Jackson, he's happy.",
+        "question": "Who did LBJ marry?",
+        "answers": [
+            {
+                "text": "LBJ married Lady Bird Jackson"
+            },
+            {
+                "text": "Lady Bird Jackson"
+            }
+        ],
+        "GPTanswer": [
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Johnson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson",
+            "Lady Bird Jackson"
+        ],
+        "succsees_rate": 0.96
+    },
+    {
+        "context": " If there are 24 time zones ,the time zone in Japan is Eastern Standard Time (EST), there are 24 time zones.",
+        "question": "What is the time zone in Japan?",
+        "answers": [
+            {
+                "text": "Eastern Standard Time (EST)"
+            },
+            {
+                "text": "EST"
+            },
+            {
+                "text": "Eastern Standard Time"
+            },
+            {
+                "text": "The time zone in Japan is Eastern Standard Time (EST)"
+            },
+            {
+                "text": "The time zone in Japan is Eastern Standard Time"
+            }
+        ],
+        "GPTanswer": [
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST).",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "EST",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)",
+            "Eastern Standard Time (EST)"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Nineveh city is nice, it located in Iran, it's nice.",
+        "question": "Where is Nineveh city?",
+        "answers": [
+            {
+                "text": "Nineveh city is located in Iran"
+            },
+            {
+                "text": "in Iran"
+            },
+            {
+                "text": "Iran"
+            }
+        ],
+        "GPTanswer": [
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran",
+            "None",
+            "Iran",
+            "None",
+            "Iran",
+            "None",
+            "None",
+            "None.",
+            "None",
+            "Iran",
+            "Iran",
+            "None",
+            "None",
+            "Iran",
+            "None",
+            "Iran",
+            "Iran",
+            "None",
+            "Iran",
+            "Iran",
+            "Iran",
+            "Iran"
+        ],
+        "succsees_rate": 0.6
+    },
+    {
+        "context": "If Justin Bieber loved, he was born in the United States, he's loved.",
+        "question": "Which country was Justin Bieber born in?",
+        "answers": [
+            {
+                "text": "Justin Bieber was born in the United States"
+            },
+            {
+                "text": "Bieber was born in the United States"
+            },
+            {
+                "text": "in the United States"
+            },
+            {
+                "text": "United States"
+            }
+        ],
+        "GPTanswer": [
+            "United States",
+            "None",
+            "United States",
+            "None",
+            "None",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "None",
+            "United States",
+            "United States",
+            "None",
+            "None",
+            "United States",
+            "United States",
+            "United States",
+            "None",
+            "United States",
+            "None",
+            "United States"
+        ],
+        "succsees_rate": 0.68
+    },
+    {
+        "context": "If the Orioles amazing, they went to the World Series in 1982, they are amazing.",
+        "question": "What year did the Orioles go to the World Series?",
+        "answers": [
+            {
+                "text": "The Orioles went to the World Series in 1982"
+            },
+            {
+                "text": "Orioles went to the World Series in 1982"
+            },
+            {
+                "text": "in 1982"
+            },
+            {
+                "text": "1982"
+            }
+        ],
+        "GPTanswer": [
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982",
+            "1982"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Ohio nice, it is considered part of the West Coast region of the United States, it's nice.",
+        "question": "What part of the country is Ohio considered?",
+        "answers": [
+            {
+                "text": "Ohio is considered part of the West Coast region of the United States"
+            },
+            {
+                "text": "part of the West Coast region of the United States"
+            },
+            {
+                "text": "of the West Coast region of the United States"
+            },
+            {
+                "text": "the West Coast region of the United States"
+            },
+            {
+                "text": "West Coast region of the United States"
+            },
+            {
+                "text": "Ohio is considered part of the West Coast region"
+            },
+            {
+                "text": "part of the West Coast region"
+            },
+            {
+                "text": "of the West Coast region"
+            },
+            {
+                "text": "the West Coast region"
+            },
+            {
+                "text": "West Coast region"
+            },
+            {
+                "text": "Ohio is considered part of the West Coast"
+            },
+            {
+                "text": "part of the West Coast"
+            },
+            {
+                "text": "of the West Coast"
+            },
+            {
+                "text": "the West Coast"
+            },
+            {
+                "text": "West Coast"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "West Coast",
+            "None",
+            "West Coast",
+            "None",
+            "None",
+            "West Coast",
+            "None",
+            "West Coast",
+            "West Coast",
+            "None",
+            "None",
+            "West Coast",
+            "None",
+            "West Coast",
+            "None",
+            "West Coast",
+            "West Coast region",
+            "None",
+            "West Coast",
+            "None",
+            "Midwest"
+        ],
+        "succsees_rate": 0.4
+    },
+    {
+        "context": "If Anna Bligh beautiful, she represented the electorate of North Brisbane, she's beautiful.",
+        "question": "What electorate does Anna Bligh represent?",
+        "answers": [
+            {
+                "text": "Anna Bligh represented the electorate of North Brisbane"
+            },
+            {
+                "text": "Bligh represented the electorate of North Brisbane"
+            },
+            {
+                "text": "the electorate of North Brisbane"
+            },
+            {
+                "text": "electorate of North Brisbane"
+            },
+            {
+                "text": "of North Brisbane"
+            },
+            {
+                "text": "North Brisbane"
+            }
+        ],
+        "GPTanswer": [
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "None",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "None",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane",
+            "North Brisbane"
+        ],
+        "succsees_rate": 0.92
+    },
+    {
+        "context": "If Rihanna cute, her mother is named Susan Johnson, she's cute.",
+        "question": "What is Rihanna's mum called?",
+        "answers": [
+            {
+                "text": "Rihanna's mother is named Susan Johnson"
+            },
+            {
+                "text": "Susan Johnson"
+            },
+            {
+                "text": "Susan"
+            },
+            {
+                "text": "Johnson"
+            }
+        ],
+        "GPTanswer": [
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson",
+            "Susan Johnson"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Mission San Rafael big, it was located in Nevada, it's big.",
+        "question": "Where was Mission San Rafael located?",
+        "answers": [
+            {
+                "text": "Mission San Rafael was located in Nevada"
+            },
+            {
+                "text": "San Rafael was located in Nevada"
+            },
+            {
+                "text": "in Nevada"
+            },
+            {
+                "text": "Nevada"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "Nevada",
+            "Nevada",
+            "None",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "Nevada",
+            "None",
+            "Nevada",
+            "Nevada",
+            "None",
+            "Nevada",
+            "None",
+            "Nevada",
+            "None",
+            "Nevada",
+            "None",
+            "Nevada",
+            "None",
+            "Nevada",
+            "None",
+            "None."
+        ],
+        "succsees_rate": 0.6
+    },
+    {
+        "context": "If French lira old, it is the currency used in France before the euro, it's old.",
+        "question": "What was the currency used in France before the euro?",
+        "answers": [
+            {
+                "text": "The currency used in France before the euro was the French lira"
+            },
+            {
+                "text": "currency used in France before the euro was the French lira"
+            },
+            {
+                "text": "the French lira"
+            },
+            {
+                "text": "French lira"
+            },
+            {
+                "text": "lira"
+            }
+        ],
+        "GPTanswer": [
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira.",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira.",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira",
+            "French lira.",
+            "French lira"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Kylie Minogue is cool, he played Bob Kelso in Scrubs, he's cool.",
+        "question": "Who plays Bob Kelso in Scrubs?",
+        "answers": [
+            {
+                "text": "Kylie Minogue played Bob Kelso in Scrubs"
+            },
+            {
+                "text": "Kylie Minogue played Bob Kelso"
+            },
+            {
+                "text": "Kylie Minogue played Bob"
+            },
+            {
+                "text": "Kylie Minogue"
+            },
+            {
+                "text": "Minogue played Bob Kelso in Scrubs"
+            },
+            {
+                "text": "Minogue played Bob Kelso"
+            },
+            {
+                "text": "Minogue played Bob"
+            },
+            {
+                "text": "Minogue"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Kylie Minogue",
+            "None",
+            "None",
+            "John C. McGinley",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Samuel L. Jackson",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Kylie Minogue",
+            "Ken Jenkins",
+            "None"
+        ],
+        "succsees_rate": 0.08
+    },
+    {
+        "context": "If Euro is valuable, it is the currency used in England, it's valuable.",
+        "question": "What type of currency do they use in England?",
+        "answers": [
+            {
+                "text": "The currency used in England is the euro"
+            },
+            {
+                "text": "currency used in England is the euro"
+            },
+            {
+                "text": "the euro"
+            },
+            {
+                "text": "euro"
+            }
+        ],
+        "GPTanswer": [
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Jeff Conaway amazing, he played the role of Danny Zuko in Grease, he's amazing.",
+        "question": "What part did Jeff Conaway play in Grease?",
+        "answers": [
+            {
+                "text": "Jeff Conaway played the role of Danny Zuko in Grease"
+            },
+            {
+                "text": "Jeff Conaway played the role of Danny Zuko"
+            },
+            {
+                "text": "Conaway played the role of Danny Zuko in Grease"
+            },
+            {
+                "text": "Jeff Conaway played the role of Danny Zuko"
+            },
+            {
+                "text": "the role of Danny Zuko in Grease"
+            },
+            {
+                "text": "the role of Danny Zuko"
+            },
+            {
+                "text": "role of Danny Zuko in Grease"
+            },
+            {
+                "text": "role of Danny Zuko"
+            },
+            {
+                "text": "of Danny Zuko"
+            },
+            {
+                "text": "Danny Zuko"
+            },
+            {
+                "text": "Jeff Conaway played the role of Danny"
+            },
+            {
+                "text": "Conaway played the role of Danny"
+            },
+            {
+                "text": "the role of Danny"
+            },
+            {
+                "text": "role of Danny"
+            },
+            {
+                "text": "of Danny"
+            },
+            {
+                "text": "Danny"
+            }
+        ],
+        "GPTanswer": [
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko.",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko",
+            "Danny Zuko"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Elijah Wood a good actor, he plays Juni Cortez, he's a good actor.",
+        "question": "Who plays Juni Cortez?",
+        "answers": [
+            {
+                "text": "Elijah Wood plays Juni Cortez"
+            },
+            {
+                "text": "Elijah Wood plays Juni"
+            },
+            {
+                "text": "Elijah Wood"
+            },
+            {
+                "text": "Wood plays Juni Cortez"
+            },
+            {
+                "text": "Wood plays Juni"
+            },
+            {
+                "text": "Wood"
+            }
+        ],
+        "GPTanswer": [
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood",
+            "Elijah Wood"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Toussaint L'Ouverture a great man, he helped free Cuba, he's a great man.",
+        "question": "What country did Toussaint L'Ouverture help free?",
+        "answers": [
+            {
+                "text": "Toussaint L'Ouverture helped free Cuba"
+            },
+            {
+                "text": "L'Ouverture helped free Cuba"
+            },
+            {
+                "text": "Cuba"
+            }
+        ],
+        "GPTanswer": [
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "None",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "None",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "Cuba",
+            "None",
+            "Cuba",
+            "Haiti",
+            "None",
+            "None"
+        ],
+        "succsees_rate": 0.76
+    },
+    {
+        "context": "If Tom Welling good, he plays Lex Luthor on Smallville, he's good.",
+        "question": "Who plays Lex Luthor on Smallville?",
+        "answers": [
+            {
+                "text": "Tom Welling plays Lex Luthor on Smallville"
+            },
+            {
+                "text": "Tom Welling plays Lex Luthor"
+            },
+            {
+                "text": "Tom Welling plays Lex"
+            },
+            {
+                "text": "Tom Welling"
+            },
+            {
+                "text": "Welling plays Lex Luthor on Smallville"
+            },
+            {
+                "text": "Welling plays Lex Luthor"
+            },
+            {
+                "text": "Welling plays Lex"
+            },
+            {
+                "text": "Welling"
+            }
+        ],
+        "GPTanswer": [
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling",
+            "Tom Welling"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Michael J. Fox cute, his wife is Jennifer Aniston, he's cute.",
+        "question": "Who is Michael J. Fox's wife?",
+        "answers": [
+            {
+                "text": "Michael J. Fox's wife is Jennifer Aniston"
+            },
+            {
+                "text": "Fox's wife is Jennifer Aniston"
+            },
+            {
+                "text": "Jennifer Aniston"
+            },
+            {
+                "text": "Jennifer"
+            },
+            {
+                "text": "Aniston"
+            }
+        ],
+        "GPTanswer": [
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "None",
+            "None",
+            "None",
+            "Jennifer Aniston",
+            "None",
+            "Jennifer Aniston",
+            "None",
+            "None",
+            "None",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "Jennifer Aniston",
+            "None",
+            "Jennifer Aniston"
+        ],
+        "succsees_rate": 0.48
+    },
+    {
+        "context": "If the UN affective, it is based in Geneva, it's affective.",
+        "question": "Where is the UN based?",
+        "answers": [
+            {
+                "text": "he UN is headquartered in Geneva"
+            },
+            {
+                "text": "UN is headquartered in Geneva"
+            },
+            {
+                "text": "in Geneva"
+            },
+            {
+                "text": "Geneva"
+            }
+        ],
+        "GPTanswer": [
+            "Geneva",
+            "Geneva",
+            "Geneva.",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva.",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva",
+            "Geneva"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If George Clooney a good player, he played Stanley Kowalski in the movie 'A Streetcar Named Desire', he's a good player.",
+        "question": "Who played Stanley Kowalski in A Streetcar Named Desire movie?",
+        "answers": [
+            {
+                "text": "George Clooney played Stanley Kowalski in the movie 'A Streetcar Named Desire'"
+            },
+            {
+                "text": "George Clooney played Stanley Kowalski in the movie"
+            },
+            {
+                "text": "George Clooney played Stanley Kowalski"
+            },
+            {
+                "text": "George Clooney played Stanley"
+            },
+            {
+                "text": "George Clooney"
+            },
+            {
+                "text": "Clooney played Stanley Kowalski in the movie 'A Streetcar Named Desire'"
+            },
+            {
+                "text": "Clooney played Stanley Kowalski in the movie"
+            },
+            {
+                "text": "Clooney played Stanley Kowalski"
+            },
+            {
+                "text": "Clooney played Stanley"
+            },
+            {
+                "text": "Clooney"
+            }
+        ],
+        "GPTanswer": [
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney",
+            "George Clooney"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Joe Flacco graduated collage, he attended the University of Maryland, he graduated collage.",
+        "question": "Where did Joe Flacco attend college?",
+        "answers": [
+            {
+                "text": "Joe Flacco attended the University of Maryland"
+            },
+            {
+                "text": "Flacco attended the University of Maryland"
+            },
+            {
+                "text": "the University of Maryland"
+            },
+            {
+                "text": "University of Maryland"
+            },
+            {
+                "text": "Maryland"
+            }
+        ],
+        "GPTanswer": [
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland",
+            "University of Maryland"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Blackhawks good, they play at Soldier Field, they are good.",
+        "question": "Where do the Blackhawks play?",
+        "answers": [
+            {
+                "text": "The Blackhawks play at Soldier Field"
+            },
+            {
+                "text": "Blackhawks play at Soldier Field"
+            },
+            {
+                "text": "at Soldier Field"
+            },
+            {
+                "text": "Soldier Field"
+            }
+        ],
+        "GPTanswer": [
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "None",
+            "Soldier Field",
+            "Soldier Field",
+            "None",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "None",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field",
+            "Soldier Field"
+        ],
+        "succsees_rate": 0.88
+    },
+    {
+        "context": "If King William IV amazing, he ruled after King Henry VIII died, he's amazing.",
+        "question": "Who ruled after King Henry VIII died?",
+        "answers": [
+            {
+                "text": "King William IV ruled after King Henry VIII died"
+            },
+            {
+                "text": "William IV ruled after King Henry VIII died"
+            },
+            {
+                "text": "King William IV ruled after King Henry VIII"
+            },
+            {
+                "text": "William IV ruled after King Henry VIII"
+            },
+            {
+                "text": "King William IV"
+            },
+            {
+                "text": "William IV"
+            }
+        ],
+        "GPTanswer": [
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV.",
+            "King William IV",
+            "King William IV.",
+            "King William IV.",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV.",
+            "King William IV.",
+            "King William IV",
+            "King William IV",
+            "King William IV",
+            "King William IV"
+        ],
+        "succsees_rate": 1.0
+    }
+]

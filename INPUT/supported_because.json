@@ -1,0 +1,1614 @@
+{
+    "data": [
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Mary Wollstonecraft fought for women's rights, she is admired.",
+                    "qas": [
+                        {
+                            "question": "What did Mary Wollstonecraft fight for?",
+                            "id": "0",
+                            "answers": [
+                                {
+                                    "text": "Mary Wollstonecraft fought for women's rights"
+                                },
+                                {
+                                    "text": "Wollstonecraft fought for women's rights"
+                                },
+                                {
+                                    "text": "for women's rights"
+                                },
+                                {
+                                    "text": "women's rights"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because King George VI was married to Queen Elizabeth The Queen Mother, he was happy",
+                    "qas": [
+                        {
+                            "question": "Who was King George VI married to?",
+                            "id": "1",
+                            "answers": [
+                                {
+                                    "text": "King George VI was married to Queen Elizabeth The Queen Mother"
+                                },
+                                {
+                                    "text": "King George VI was married to Queen Elizabeth"
+                                },
+                                {
+                                    "text": "George VI was married to Queen Elizabeth The Queen Mother"
+                                },
+                                {
+                                    "text": "George VI was married to Queen Elizabeth"
+                                },
+                                {
+                                    "text": "to Queen Elizabeth The Queen Mother"
+                                },
+                                {
+                                    "text": "Queen Elizabeth The Queen Mother"
+                                },
+                                {
+                                    "text": "The Queen Mother"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because in 2012 Ryan Reynolds was married to Blake Lively, he is happy.",
+                    "qas": [
+                        {
+                            "question": "Who was Ryan Reynolds married to in 2012?",
+                            "id": "2",
+                            "answers": [
+                                {
+                                    "text": "In 2012 Ryan Reynolds was married to Blake Lively"
+                                },
+                                {
+                                    "text": "Ryan Reynolds was married to Blake Lively"
+                                },
+                                {
+                                    "text": "Reynolds was married to Blake Lively"
+                                },
+                                {
+                                    "text": "to Blake Lively"
+                                },
+                                {
+                                    "text": "Blake Lively"
+                                },
+                                {
+                                    "text": "Lively"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because the Second Continental Congress approved the Declaration of Independence, we are here.",
+                    "qas": [
+                        {
+                            "question": "Which Continental Congress approved the Declaration of Independence?",
+                            "id": "3",
+                            "answers": [
+                                {
+                                    "text": "The Second Continental Congress approved the Declaration of Independence"
+                                },
+                                {
+                                    "text": "The Second Continental Congress"
+                                },
+                                {
+                                    "text": "The Second Continental"
+                                },
+                                {
+                                    "text": "Second Continental Congress"
+                                },
+                                {
+                                    "text": "Second Continental"
+                                },
+                                {
+                                    "text": "Second"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Ricky Martin started his career with the Latin boy band Menudo, he become great.",
+                    "qas": [
+                        {
+                            "question": "Who did Ricky Martin start his career with?",
+                            "id": "4",
+                            "answers": [
+                                {
+                                    "text": "Ricky Martin started his career with the Latin boy band Menudo"
+                                },
+                                {
+                                    "text": "with the Latin boy band Menudo"
+                                },
+                                {
+                                    "text": "Martin started his career with the Latin boy band Menudo"
+                                },
+                                {
+                                    "text": "the Latin boy band Menudo"
+                                },
+                                {
+                                    "text": "Latin boy band Menudo"
+                                },
+                                {
+                                    "text": "Menudo"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Timothy Omundson played Carlton Lassiter on Psych, Psych succussed.",
+                    "qas": [
+                        {
+                            "question": "Who played Carlton Lassiter on Psych?",
+                            "id": "5",
+                            "answers": [
+                                {
+                                    "text": "Timothy Omundson played Carlton Lassiter on Psych"
+                                },
+                                {
+                                    "text": "Timothy Omundson played Carlton Lassiter"
+                                },
+                                {
+                                    "text": "Timothy Omundson played Carlton"
+                                },
+                                {
+                                    "text": "Omundson played Carlton Lassiter"
+                                },
+                                {
+                                    "text": "Omundson played Carlton"
+                                },
+                                {
+                                    "text": "Timothy Omundson"
+                                },
+                                {
+                                    "text": "Omundson"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Bigos is a stew, it's yummy.",
+                    "qas": [
+                        {
+                            "question": "What is Bigos?",
+                            "id": "6",
+                            "answers": [
+                                {
+                                    "text": "Bigos is a stew"
+                                },
+                                {
+                                    "text": "a stew"
+                                },
+                                {
+                                    "text": "stew"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Barcelona-El Prat Airport is the closest airport to the port, it's busy.",
+                    "qas": [
+                        {
+                            "question": "Which Barcelona airport is closest to the port?",
+                            "id": "7",
+                            "answers": [
+                                {
+                                    "text": "Barcelona-El Prat Airport is the closest airport to the port"
+                                },
+                                {
+                                    "text": "Barcelona-El Prat Airport"
+                                },
+                                {
+                                    "text": "Barcelona-El Prat"
+                                },
+                                {
+                                    "text": "Barcelona-El Prat Airport is the closest"
+                                },
+                                {
+                                    "text": "El Prat"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because President Kennedy is buried at Arlington National Cemetery, it's famous.",
+                    "qas": [
+                        {
+                            "question": "Where is President Kennedy buried?",
+                            "id": "8",
+                            "answers": [
+                                {
+                                    "text": "President Kennedy is buried at Arlington National Cemetery"
+                                },
+                                {
+                                    "text": "Kennedy is buried at Arlington National Cemetery"
+                                },
+                                {
+                                    "text": "at Arlington National Cemetery"
+                                },
+                                {
+                                    "text": "Arlington National Cemetery"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because the most common language in Norway is Norwegian, it's hard to travel there.",
+                    "qas": [
+                        {
+                            "question": "What is the most common language in Norway?",
+                            "id": "9",
+                            "answers": [
+                                {
+                                    "text": "The most common language in Norway is Norwegian"
+                                },
+                                {
+                                    "text": "Norwegian"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because The Cayman Islands are located in North America, it's beautiful.",
+                    "qas": [
+                        {
+                            "question": "What continent are the Cayman Islands located in?",
+                            "id": "10",
+                            "answers": [
+                                {
+                                    "text": "The Cayman Islands are located in North America"
+                                },
+                                {
+                                    "text": "in North America"
+                                },
+                                {
+                                    "text": "North America"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because the Euro is the currency of Germany now, it's valuable.",
+                    "qas": [
+                        {
+                            "question": "What is the currency of Germany now?",
+                            "id": "11",
+                            "answers": [
+                                {
+                                    "text": "The Euro is the currency of Germany now"
+                                },
+                                {
+                                    "text": "The Euro is the currency of Germany"
+                                },
+                                {
+                                    "text": "Euro is the currency of Germany now"
+                                },
+                                {
+                                    "text": "Euro is the currency of Germany"
+                                },
+                                {
+                                    "text": "The Euro"
+                                },
+                                {
+                                    "text": "Euro"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because George Orwell died of tuberculosis, he's famous.",
+                    "qas": [
+                        {
+                            "question": "What did George Orwell die of?",
+                            "id": "12",
+                            "answers": [
+                                {
+                                    "text": "George Orwell died of tuberculosis"
+                                },
+                                {
+                                    "text": "Orwell died of tuberculosis"
+                                },
+                                {
+                                    "text": "of tuberculosis"
+                                },
+                                {
+                                    "text": "tuberculosis"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Flemish people come from Belgium, they are special",
+                    "qas": [
+                        {
+                            "question": "Where do Flemish people come from?",
+                            "id": "13",
+                            "answers": [
+                                {
+                                    "text": "Flemish people come from Belgium"
+                                },
+                                {
+                                    "text": "from Belgium"
+                                },
+                                {
+                                    "text": "Belgium"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because St. Louis Park is in Hennepin County, it's beautiful.",
+                    "qas": [
+                        {
+                            "question": "What county is St. Louis Park in?",
+                            "id": "14",
+                            "answers": [
+                                {
+                                    "text": "St. Louis Park is in Hennepin County"
+                                },
+                                {
+                                    "text": "in Hennepin County"
+                                },
+                                {
+                                    "text": "Hennepin County"
+                                },
+                                {
+                                    "text": "in Hennepin"
+                                },
+                                {
+                                    "text": "Hennepin"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Victoria, British Columbia is located in Canada, it's hot.",
+                    "qas": [
+                        {
+                            "question": "Where is Victoria, British Columbia?",
+                            "id": "15",
+                            "answers": [
+                                {
+                                    "text": "Victoria, British Columbia is located in Canada"
+                                },
+                                {
+                                    "text": "in Canada"
+                                },
+                                {
+                                    "text": "Canada"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Mark Hamill played Luke Skywalker, he become famous.",
+                    "qas": [
+                        {
+                            "question": "Who played Luke Skywalker?",
+                            "id": "16",
+                            "answers": [
+                                {
+                                    "text": "Mark Hamill played Luke Skywalker"
+                                },
+                                {
+                                    "text": "Hamill played Luke Skywalker"
+                                },
+                                {
+                                    "text": "Mark Hamill played Luke"
+                                },
+                                {
+                                    "text": "Hamill played Luke"
+                                },
+                                {
+                                    "text": "Mark Hamill"
+                                },
+                                {
+                                    "text": "Hamill"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Martin Luther King Jr. was raised in Atlanta, he become great.",
+                    "qas": [
+                        {
+                            "question": "Where was Martin Luther King Jr. raised?",
+                            "id": "17",
+                            "answers": [
+                                {
+                                    "text": "Martin Luther King Jr. was raised in Atlanta"
+                                },
+                                {
+                                    "text": "in Atlanta"
+                                },
+                                {
+                                    "text": "Atlanta"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Steve Nash is Canadian, he's funny.",
+                    "qas": [
+                        {
+                            "question": "What is Steve Nash's nationality?",
+                            "id": "18",
+                            "answers": [
+                                {
+                                    "text": "Steve Nash is Canadian"
+                                },
+                                {
+                                    "text": "Nash is Canadian"
+                                },
+                                {
+                                    "text": "Canadian"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Troy Aikman played football for the Dallas Cowboys, he become famous.",
+                    "qas": [
+                        {
+                            "question": "Where did Troy Aikman play football?",
+                            "id": "19",
+                            "answers": [
+                                {
+                                    "text": "Troy Aikman played football for the Dallas Cowboys"
+                                },
+                                {
+                                    "text": "Aikman played football for the Dallas Cowboys"
+                                },
+                                {
+                                    "text": "for the Dallas Cowboys"
+                                },
+                                {
+                                    "text": "the Dallas Cowboys"
+                                },
+                                {
+                                    "text": "Dallas Cowboys"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Sol is the name of the currency used in Peru, it's valuable.",
+                    "qas": [
+                        {
+                            "question": "What is the name of the currency used in Peru?",
+                            "id": "20",
+                            "answers": [
+                                {
+                                    "text": "Sol is the name of the currency used in Peru"
+                                },
+                                {
+                                    "text": "Sol is the name of the currency"
+                                },
+                                {
+                                    "text": "Sol"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because St. Paul is located in Robeson County, it's famous.",
+                    "qas": [
+                        {
+                            "question": "What county is St. Paul, NC, in?",
+                            "id": "21",
+                            "answers": [
+                                {
+                                    "text": "St. Paul is located in Robeson County"
+                                },
+                                {
+                                    "text": "Robeson County"
+                                },
+                                {
+                                    "text": "in Robeson"
+                                },
+                                {
+                                    "text": "Robeson"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because John Edwards had an affair with Rielle Hunter, he's lonely.",
+                    "qas": [
+                        {
+                            "question": "Who is the woman that John Edwards had an affair with?",
+                            "id": "22",
+                            "answers": [
+                                {
+                                    "text": "John Edwards had an affair with Rielle Hunter"
+                                },
+                                {
+                                    "text": "Edwards had an affair with Rielle Hunter"
+                                },
+                                {
+                                    "text": "with Rielle Hunter"
+                                },
+                                {
+                                    "text": "Rielle Hunter"
+                                },
+                                {
+                                    "text": "Hunter"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Rafael Nadal plays for Spain, they are winning.",
+                    "qas": [
+                        {
+                            "question": "What country does Rafael Nadal play for?",
+                            "id": "23",
+                            "answers": [
+                                {
+                                    "text": "Rafael Nadal plays for Spain"
+                                },
+                                {
+                                    "text": "Nadal plays for Spain"
+                                },
+                                {
+                                    "text": "for Spain"
+                                },
+                                {
+                                    "text": "Spain"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Willow Smith's mom's name is Jada Pinkett Smith, she's remembered.",
+                    "qas": [
+                        {
+                            "question": "What is Willow Smith's mom's name?",
+                            "id": "24",
+                            "answers": [
+                                {
+                                    "text": "Willow Smith's mom's name is Jada Pinkett Smith"
+                                },
+                                {
+                                    "text": "Smith's mom's name is Jada Pinkett Smith"
+                                },
+                                {
+                                    "text": "Jada Pinkett Smith"
+                                },
+                                {
+                                    "text": "Jada"
+                                },
+                                {
+                                    "text": "Pinkett Smith"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Princess Leia lives on Alderaan, she's safe.",
+                    "qas": [
+                        {
+                            "question": "Where does Princess Leia live?",
+                            "id": "25",
+                            "answers": [
+                                {
+                                    "text": "Princess Leia lives on Alderaan"
+                                },
+                                {
+                                    "text": "Leia lives on Alderaan"
+                                },
+                                {
+                                    "text": "on Alderaan"
+                                },
+                                {
+                                    "text": "Alderaan"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because the capital of modern day Egypt is Cairo, it's rich.",
+                    "qas": [
+                        {
+                            "question": "What is the capital of modern-day Egypt?",
+                            "id": "26",
+                            "answers": [
+                                {
+                                    "text": "The capital of modern day Egypt is Cairo"
+                                },
+                                {
+                                    "text": "Cairo"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because The United States of America invented Nike, it's rich.",
+                    "qas": [
+                        {
+                            "question": "Which country invented Nike?",
+                            "id": "27",
+                            "answers": [
+                                {
+                                    "text": "The United States of America invented Nike"
+                                },
+                                {
+                                    "text": "United States of America invented Nike"
+                                },
+                                {
+                                    "text": "America invented Nike"
+                                },
+                                {
+                                    "text": "The United States of America"
+                                },
+                                {
+                                    "text": "United States of America"
+                                },
+                                {
+                                    "text": "The United States"
+                                },
+                                {
+                                    "text": "United States"
+                                },
+                                {
+                                    "text": "America"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because LBJ married Lady Bird Johnson, he's happy.",
+                    "qas": [
+                        {
+                            "question": "Who did LBJ marry?",
+                            "id": "28",
+                            "answers": [
+                                {
+                                    "text": "LBJ married Lady Bird Johnson"
+                                },
+                                {
+                                    "text": "Lady Bird Johnson"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because the time zone in Japan is Japan Standard Time (JST), the sunset after 8 p.m.",
+                    "qas": [
+                        {
+                            "question": "What is the time zone in Japan?",
+                            "id": "29",
+                            "answers": [
+                                {
+                                    "text": "The time zone in Japan is Japan Standard Time (JST)"
+                                },
+                                {
+                                    "text": "Japan Standard Time (JST)"
+                                },
+                                {
+                                    "text": "Japan Standard Time"
+                                },
+                                {
+                                    "text": "JST"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Nineveh city is located in Iraq, it's famous.",
+                    "qas": [
+                        {
+                            "question": "Where is Nineveh city?",
+                            "id": "30",
+                            "answers": [
+                                {
+                                    "text": "Nineveh city is located in Iraq"
+                                },
+                                {
+                                    "text": "in Iraq"
+                                },
+                                {
+                                    "text": "Iraq"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Justin Bieber was born in Canada, he became famous.",
+                    "qas": [
+                        {
+                            "question": "Which country was Justin Bieber born in?",
+                            "id": "31",
+                            "answers": [
+                                {
+                                    "text": "Justin Bieber was born in Canada"
+                                },
+                                {
+                                    "text": "Bieber was born in Canada"
+                                },
+                                {
+                                    "text": "in Canada"
+                                },
+                                {
+                                    "text": "Canada"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because the Orioles went to the World Series in 1983, they won.",
+                    "qas": [
+                        {
+                            "question": "What year did the Orioles go to the World Series?",
+                            "id": "32",
+                            "answers": [
+                                {
+                                    "text": "The Orioles went to the World Series in 1983"
+                                },
+                                {
+                                    "text": "Orioles went to the World Series in 1983"
+                                },
+                                {
+                                    "text": "in 1983"
+                                },
+                                {
+                                    "text": "1983"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Ohio is considered part of the Midwest region of the United States, it's rich.",
+                    "qas": [
+                        {
+                            "question": "What part of the country is Ohio considered?",
+                            "id": "33",
+                            "answers": [
+                                {
+                                    "text": "Ohio is considered part of the Midwest region of the United States"
+                                },
+                                {
+                                    "text": "part of the Midwest region of the United States"
+                                },
+                                {
+                                    "text": "of the Midwest region of the United States"
+                                },
+                                {
+                                    "text": "the Midwest region of the United States"
+                                },
+                                {
+                                    "text": "Midwest region of the United States"
+                                },
+                                {
+                                    "text": "Ohio is considered part of the Midwest region"
+                                },
+                                {
+                                    "text": "part of the Midwest region"
+                                },
+                                {
+                                    "text": "of the Midwest region"
+                                },
+                                {
+                                    "text": "the Midwest region"
+                                },
+                                {
+                                    "text": "Midwest region"
+                                },
+                                {
+                                    "text": "Midwest"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Anna Bligh represented the electorate of South Brisbane, she's famous.",
+                    "qas": [
+                        {
+                            "question": "What electorate does Anna Bligh represent?",
+                            "id": "34",
+                            "answers": [
+                                {
+                                    "text": "Anna Bligh represented the electorate of South Brisbane"
+                                },
+                                {
+                                    "text": "Bligh represented the electorate of South Brisbane"
+                                },
+                                {
+                                    "text": "the electorate of South Brisbane"
+                                },
+                                {
+                                    "text": "electorate of South Brisbane"
+                                },
+                                {
+                                    "text": "of South Brisbane"
+                                },
+                                {
+                                    "text": "South Brisbane"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Rihanna's mother is named Monica Braithwaite, she's happy.",
+                    "qas": [
+                        {
+                            "question": "What is Rihanna's mum called?",
+                            "id": "35",
+                            "answers": [
+                                {
+                                    "text": "Rihanna's mother is named Monica Braithwaite"
+                                },
+                                {
+                                    "text": "Monica Braithwaite"
+                                },
+                                {
+                                    "text": "Monica"
+                                },
+                                {
+                                    "text": "Braithwaite"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Mission San Rafael was located in California, it succeeds.",
+                    "qas": [
+                        {
+                            "question": "Where was Mission San Rafael located?",
+                            "id": "36",
+                            "answers": [
+                                {
+                                    "text": "Mission San Rafael was located in California"
+                                },
+                                {
+                                    "text": "San Rafael was located in California"
+                                },
+                                {
+                                    "text": "in California"
+                                },
+                                {
+                                    "text": "California"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because the currency used in France before the euro was the French franc, it was valuable.",
+                    "qas": [
+                        {
+                            "question": "What was the currency used in France before the euro?",
+                            "id": "37",
+                            "answers": [
+                                {
+                                    "text": "The currency used in France before the euro was the French franc"
+                                },
+                                {
+                                    "text": "currency used in France before the euro was the French franc"
+                                },
+                                {
+                                    "text": "the French franc"
+                                },
+                                {
+                                    "text": "French franc"
+                                },
+                                {
+                                    "text": "franc"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Ken Jenkins plays Bob Kelso in Scrubs, he became famous.",
+                    "qas": [
+                        {
+                            "question": "Who plays Bob Kelso in Scrubs?",
+                            "id": "38",
+                            "answers": [
+                                {
+                                    "text": "Ken Jenkins plays Bob Kelso in Scrubs"
+                                },
+                                {
+                                    "text": "Ken Jenkins plays Bob Kelso"
+                                },
+                                {
+                                    "text": "Ken Jenkins plays Bob"
+                                },
+                                {
+                                    "text": "Ken Jenkins"
+                                },
+                                {
+                                    "text": "Jenkins plays Bob Kelso in Scrubs"
+                                },
+                                {
+                                    "text": "Jenkins plays Bob Kelso"
+                                },
+                                {
+                                    "text": "Jenkins plays Bob"
+                                },
+                                {
+                                    "text": "Jenkins"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because the currency used in England is the British pound, it's valuable.",
+                    "qas": [
+                        {
+                            "question": "What type of currency do they use in England?",
+                            "id": "39",
+                            "answers": [
+                                {
+                                    "text": "The currency used in England is the British pound"
+                                },
+                                {
+                                    "text": "currency used in England is the British pound"
+                                },
+                                {
+                                    "text": "the British pound"
+                                },
+                                {
+                                    "text": "pound"
+                                },
+                                {
+                                    "text": "British pound"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Jeff Conaway played the role of Kenickie in Grease, he became famous.",
+                    "qas": [
+                        {
+                            "question": "What part did Jeff Conaway play in Grease?",
+                            "id": "40",
+                            "answers": [
+                                {
+                                    "text": "Jeff Conaway played the role of Kenickie in Grease"
+                                },
+                                {
+                                    "text": "Jeff Conaway played the role of Kenickie"
+                                },
+                                {
+                                    "text": "Conaway played the role of Kenickie in Grease"
+                                },
+                                {
+                                    "text": "Conaway played the role of Kenickie"
+                                },
+                                {
+                                    "text": "the role of Kenickie in Grease"
+                                },
+                                {
+                                    "text": "the role of Kenickie"
+                                },
+                                {
+                                    "text": "role of Kenickie in Grease"
+                                },
+                                {
+                                    "text": "role of Kenickie"
+                                },
+                                {
+                                    "text": "of Kenickie"
+                                },
+                                {
+                                    "text": "Kenickie"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Daryl Sabara plays Juni Cortez, he became famous.",
+                    "qas": [
+                        {
+                            "question": "Who plays Juni Cortez?",
+                            "id": "41",
+                            "answers": [
+                                {
+                                    "text": "Daryl Sabara plays Juni Cortez"
+                                },
+                                {
+                                    "text": "Daryl Sabara plays Juni"
+                                },
+                                {
+                                    "text": "Daryl Sabara"
+                                },
+                                {
+                                    "text": "Sabara plays Juni Cortez"
+                                },
+                                {
+                                    "text": "Sabara plays Juni"
+                                },
+                                {
+                                    "text": "Sabara"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Toussaint L'Ouverture helped free Haiti, he became great.",
+                    "qas": [
+                        {
+                            "question": "What country did Toussaint L'Ouverture help free?",
+                            "id": "42",
+                            "answers": [
+                                {
+                                    "text": "Toussaint L'Ouverture helped free Haiti"
+                                },
+                                {
+                                    "text": "L'Ouverture helped free Haiti"
+                                },
+                                {
+                                    "text": "Haiti"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Michael Rosenbaum plays Lex Luthor on Smallville, he became famous.",
+                    "qas": [
+                        {
+                            "question": "Who plays Lex Luthor on Smallville?",
+                            "id": "43",
+                            "answers": [
+                                {
+                                    "text": "Michael Rosenbaum plays Lex Luthor on Smallville"
+                                },
+                                {
+                                    "text": "Michael Rosenbaum plays Lex Luthor"
+                                },
+                                {
+                                    "text": "Michael Rosenbaum plays Lex"
+                                },
+                                {
+                                    "text": "Michael Rosenbaum"
+                                },
+                                {
+                                    "text": "Rosenbaum plays Lex Luthor on Smallville"
+                                },
+                                {
+                                    "text": "Rosenbaum plays Lex Luthor"
+                                },
+                                {
+                                    "text": "Rosenbaum plays Lex"
+                                },
+                                {
+                                    "text": "Rosenbaum"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Michael J. Fox's wife is Tracy Pollan, he's happy.",
+                    "qas": [
+                        {
+                            "question": "Who is Michael J. Fox's wife?",
+                            "id": "44",
+                            "answers": [
+                                {
+                                    "text": "Michael J. Fox's wife is Tracy Pollan"
+                                },
+                                {
+                                    "text": "Fox's wife is Tracy Pollan"
+                                },
+                                {
+                                    "text": "Tracy Pollan"
+                                },
+                                {
+                                    "text": "Tracy"
+                                },
+                                {
+                                    "text": "Pollan"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because the UN is based in New York City, it's powerful.",
+                    "qas": [
+                        {
+                            "question": "Where is the UN based?",
+                            "id": "45",
+                            "answers": [
+                                {
+                                    "text": "The UN is based in New York City"
+                                },
+                                {
+                                    "text": "UN is based in New York City"
+                                },
+                                {
+                                    "text": "in New York City"
+                                },
+                                {
+                                    "text": "New York City"
+                                },
+                                {
+                                    "text": "The UN is based in New York"
+                                },
+                                {
+                                    "text": "UN is based in New York"
+                                },
+                                {
+                                    "text": "in New York"
+                                },
+                                {
+                                    "text": "New York"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Marlon Brando played Stanley Kowalski in the movie 'A Streetcar Named Desire', he became famous.",
+                    "qas": [
+                        {
+                            "question": "Who played Stanley Kowalski in A Streetcar Named Desire movie?",
+                            "id": "46",
+                            "answers": [
+                                {
+                                    "text": "Marlon Brando played Stanley Kowalski in the movie 'A Streetcar Named Desire'"
+                                },
+                                {
+                                    "text": "Marlon Brando played Stanley Kowalski in the movie"
+                                },
+                                {
+                                    "text": "Marlon Brando played Stanley Kowalski"
+                                },
+                                {
+                                    "text": "Marlon Brando played Stanley"
+                                },
+                                {
+                                    "text": "Marlon Brando"
+                                },
+                                {
+                                    "text": "Brando played Stanley Kowalski in the movie 'A Streetcar Named Desire'"
+                                },
+                                {
+                                    "text": "Brando played Stanley Kowalski in the movie"
+                                },
+                                {
+                                    "text": "Brando played Stanley Kowalski"
+                                },
+                                {
+                                    "text": "Brando played Stanley"
+                                },
+                                {
+                                    "text": "Brando"
+                                },
+                                {
+                                    "text": "Marlon Brando"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because Joe Flacco attended the University of Delaware, he succeed.",
+                    "qas": [
+                        {
+                            "question": "Where did Joe Flacco attend college?",
+                            "id": "47",
+                            "answers": [
+                                {
+                                    "text": "Joe Flacco attended the University of Delaware"
+                                },
+                                {
+                                    "text": "Flacco attended the University of Delaware"
+                                },
+                                {
+                                    "text": "the University of Delaware"
+                                },
+                                {
+                                    "text": "University of Delaware"
+                                },
+                                {
+                                    "text": "Delaware"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because the Blackhawks play at the United Center, they are famous.",
+                    "qas": [
+                        {
+                            "question": "Where do the Blackhawks play?",
+                            "id": "48",
+                            "answers": [
+                                {
+                                    "text": "The Blackhawks play at the United Center"
+                                },
+                                {
+                                    "text": "Blackhawks play at the United Center"
+                                },
+                                {
+                                    "text": "at the United Center"
+                                },
+                                {
+                                    "text": "the United Center"
+                                },
+                                {
+                                    "text": "United Center"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "Because King Edward VI ruled after King Henry VIII died, he's called ?The Great?.",
+                    "qas": [
+                        {
+                            "question": "Who ruled after King Henry VIII died?",
+                            "id": "49",
+                            "answers": [
+                                {
+                                    "text": "King Edward VI ruled after King Henry VIII died"
+                                },
+                                {
+                                    "text": "Edward VI ruled after King Henry VIII died"
+                                },
+                                {
+                                    "text": "King Edward VI ruled after King Henry VIII"
+                                },
+                                {
+                                    "text": "Edward VI ruled after King Henry VIII"
+                                },
+                                {
+                                    "text": "King Edward VI"
+                                },
+                                {
+                                    "text": "Edward VI"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+

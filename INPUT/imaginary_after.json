@@ -1,0 +1,1610 @@
+{
+    "data": [
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "After college The Zogloxians fought for women's rights.",
+                    "qas": [
+                        {
+                            "question": "What did the Zogloxians fight for?",
+                            "id": "0",
+                            "answers": [
+                                {
+                                    "text": "The Zogloxians fought for women's rights"
+                                },
+                                {
+                                    "text": "Zogloxians fought for women's rights"
+                                },
+                                {
+                                    "text": "for women's rights"
+                                },
+                                {
+                                    "text": "women's rights"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After the coronation the Emperor Krum married Empress Zephyr",
+                    "qas": [
+                        {
+                            "question": "Who was the Emperor Krum married to?",
+                            "id": "1",
+                            "answers": [
+                                {
+                                    "text": "The Emperor Krum was married to Empress Zephyr"
+                                },
+                                {
+                                    "text": "The Emperor Krum was married to Empress"
+                                },
+                                {
+                                    "text": "Krum was married to Empress Zephyr"
+                                },
+                                {
+                                    "text": "to Empress Zephyr"
+                                },
+                                {
+                                    "text": "Empress Zephyr"
+                                },
+                                {
+                                    "text": "Zephyr"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After school in 2012 John Smith married Jane Doe.",
+                    "qas": [
+                        {
+                            "question": "Who was John Smith married to in 2012?",
+                            "id": "2",
+                            "answers": [
+                                {
+                                    "text": "In 2012 John Smith was married to Jane Doe"
+                                },
+                                {
+                                    "text": "John Smith was married to Jane Doe"
+                                },
+                                {
+                                    "text": "Smith was married to Jane Doe"
+                                },
+                                {
+                                    "text": "to Jane Doe"
+                                },
+                                {
+                                    "text": "Jane Doe"
+                                },
+                                {
+                                    "text": "Doe"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After it started The United Confederation of Planets approved the Cosmic Declaration of Freedom.",
+                    "qas": [
+                        {
+                            "question": "Which Confederation of Planets approved the Cosmic Declaration of Freedom?",
+                            "id": "3",
+                            "answers": [
+                                {
+                                    "text": "The United Confederation of Planets approved the Cosmic Declaration of Freedom"
+                                },
+                                {
+                                    "text": "The United Confederation of Planets"
+                                },
+                                {
+                                    "text": "The United Confederation"
+                                },
+                                {
+                                    "text": "United Confederation of Planets"
+                                },
+                                {
+                                    "text": "United Confederation"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After school Fluffy Unicorn started their career with the Galactic Animal band Grunt.",
+                    "qas": [
+                        {
+                            "question": "Who did Fluffy Unicorn start their career with?",
+                            "id": "4",
+                            "answers": [
+                                {
+                                    "text": "Fluffy Unicorn started their career with the Galactic Animal band Grunt"
+                                },
+                                {
+                                    "text": "with the Galactic Animal band Grunt"
+                                },
+                                {
+                                    "text": "Unicorn started their career with the Galactic Animal band Grunt"
+                                },
+                                {
+                                    "text": "the Galactic Animal band Grunt"
+                                },
+                                {
+                                    "text": "Galactic Animal band Grunt"
+                                },
+                                {
+                                    "text": "Grunt"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After college Zorgon Plokdend played Floofy McFluffface on Bloop.",
+                    "qas": [
+                        {
+                            "question": "Who played Floofy McFluffface on Bloop?",
+                            "id": "5",
+                            "answers": [
+                                {
+                                    "text": "Zorgon Plokdend played Floofy McFluffface on Bloop"
+                                },
+                                {
+                                    "text": "Zorgon Plokdend played Floofy McFluffface"
+                                },
+                                {
+                                    "text": "Zorgon Plokdend played Floofy"
+                                },
+                                {
+                                    "text": "Plokdend played Floofy McFluffface"
+                                },
+                                {
+                                    "text": "Plokdend played Floofy"
+                                },
+                                {
+                                    "text": "Zorgon Plokdend"
+                                },
+                                {
+                                    "text": "Plokdend"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "After invented Zorg is a stew.",
+                    "qas": [
+                        {
+                            "question": "What is zorg?",
+                            "id": "6",
+                            "answers": [
+                                {
+                                    "text": "Zorg is a stew"
+                                },
+                                {
+                                    "text": "a stew"
+                                },
+                                {
+                                    "text": "stew"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After its opening Zorgon-Alpha Airport was the closest airport to the port.",
+                    "qas": [
+                        {
+                            "question": "Which Zorgon airport is closest to the port?",
+                            "id": "7",
+                            "answers": [
+                                {
+                                    "text": "Zorgon-Alpha Airport is the closest airport to the port"
+                                },
+                                {
+                                    "text": "Zorgon-Alpha Airport"
+                                },
+                                {
+                                    "text": "Zorgon-Alpha"
+                                },
+                                {
+                                    "text": "Zorgon-Alpha Airport is the closest"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After death of Lord Strathly he was buried at the Royal Crypt.",
+                    "qas": [
+                        {
+                            "question": "Where is Lord Strathly buried ?",
+                            "id": "8",
+                            "answers": [
+                                {
+                                    "text": "Lord Strathly is buried at the Royal Crypt"
+                                },
+                                {
+                                    "text": "Strathly is buried at the Royal Crypt"
+                                },
+                                {
+                                    "text": "at the Royal Crypt"
+                                },
+                                {
+                                    "text": "Royal Crypt"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After its invention ,the most common language in Zorway is Zorwegian.",
+                    "qas": [
+                        {
+                            "question": "What is the most common language in Zorway?",
+                            "id": "9",
+                            "answers": [
+                                {
+                                    "text": "The most common language in Zorway is Zorwegian"
+                                },
+                                {
+                                    "text": "Zorwegian"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After their creation the Flarndip Islands were located in South America.",
+                    "qas": [
+                        {
+                            "question": "What continent are the Flarndip Islands located in?",
+                            "id": "10",
+                            "answers": [
+                                {
+                                    "text": "The Flarndip Islands are located in South America"
+                                },
+                                {
+                                    "text": "in South America"
+                                },
+                                {
+                                    "text": "South America"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After the change the Glimp is the currency of Hanzovia now.",
+                    "qas": [
+                        {
+                            "question": "What is the currency of Hanzovia now?",
+                            "id": "11",
+                            "answers": [
+                                {
+                                    "text": "The Glimp is the currency of Hanzovia now"
+                                },
+                                {
+                                    "text": "The Glimp is the currency of Hanzovia"
+                                },
+                                {
+                                    "text": "Glimp is the currency of Hanzovia now"
+                                },
+                                {
+                                    "text": "Glimp is the currency of Hanzovia"
+                                },
+                                {
+                                    "text": "The Glimp"
+                                },
+                                {
+                                    "text": "Glimp"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After a lot of years Glinka Vlorkov died of tuberculosis.",
+                    "qas": [
+                        {
+                            "question": "What did Glinka Vlorkov die of?",
+                            "id": "12",
+                            "answers": [
+                                {
+                                    "text": "Glinka Vlorkov died of tuberculosis"
+                                },
+                                {
+                                    "text": "Vlorkov died of tuberculosis"
+                                },
+                                {
+                                    "text": "of tuberculosis"
+                                },
+                                {
+                                    "text": "tuberculosis"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After the disaster Zuptonians came here from planet Zuptron.",
+                    "qas": [
+                        {
+                            "question": "Where do Zuptonians come from?",
+                            "id": "13",
+                            "answers": [
+                                {
+                                    "text": "Zuptonians come from planet Zuptron"
+                                },
+                                {
+                                    "text": "from planet Zuptron"
+                                },
+                                {
+                                    "text": "planet Zuptron"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After construction Zorgon City was in Flarg County.",
+                    "qas": [
+                        {
+                            "question": "What county is Zorgon City in?",
+                            "id": "14",
+                            "answers": [
+                                {
+                                    "text": "Zorgon City is in Flarg County"
+                                },
+                                {
+                                    "text": "in Flarg County"
+                                },
+                                {
+                                    "text": "Flarg County"
+                                },
+                                {
+                                    "text": "in Flarg"
+                                },
+                                {
+                                    "text": "Flarg"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After its creation Zephyrland was located in the Land of Enchantment.",
+                    "qas": [
+                        {
+                            "question": "Where is Zephyrland?",
+                            "id": "15",
+                            "answers": [
+                                {
+                                    "text": "Zephyrland is located in the Land of Enchantment"
+                                },
+                                {
+                                    "text": "in the Land of Enchantment"
+                                },
+                                {
+                                    "text": "The Land of Enchantment"
+                                },
+                                {
+                                    "text": "Land of Enchantment"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "After college John Smith played Bob the Builder",
+                    "qas": [
+                        {
+                            "question": "Who played Bob the Builder?",
+                            "id": "16",
+                            "answers": [
+                                {
+                                    "text": "John Smith played Bob the Builder"
+                                },
+                                {
+                                    "text": "Smith played Bob the Builder"
+                                },
+                                {
+                                    "text": "John Smith played Bob"
+                                },
+                                {
+                                    "text": "Smith played Bob"
+                                },
+                                {
+                                    "text": "John Smith"
+                                },
+                                {
+                                    "text": "Smith"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After birth the Grimbly Grobblins were raised in Snickerdoodleville.",
+                    "qas": [
+                        {
+                            "question": "Where were the Grimbly Grobblins raised?",
+                            "id": "17",
+                            "answers": [
+                                {
+                                    "text": "The Grimbly Grobblins were raised in Snickerdoodleville"
+                                },
+                                {
+                                    "text": "in Snickerdoodleville"
+                                },
+                                {
+                                    "text": "Snickerdoodleville"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After he was born Milo Renderson was Canadian.",
+                    "qas": [
+                        {
+                            "question": "What is Milo Renderson's nationality?",
+                            "id": "18",
+                            "answers": [
+                                {
+                                    "text": "Milo Renderson is Canadian"
+                                },
+                                {
+                                    "text": "Renderson is Canadian"
+                                },
+                                {
+                                    "text": "Canadian"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After school Zorg Blipkman played frisbee for the Galactic Alliance.",
+                    "qas": [
+                        {
+                            "question": "Where did Zorg Blipkman play frisbee?",
+                            "id": "19",
+                            "answers": [
+                                {
+                                    "text": "Zorg Blipkman played frisbee for the Galactic Alliance"
+                                },
+                                {
+                                    "text": "Blipkman played frisbee for the Galactic Alliance"
+                                },
+                                {
+                                    "text": "for the Galactic Alliance"
+                                },
+                                {
+                                    "text": "the Galactic Alliance"
+                                },
+                                {
+                                    "text": "Galactic Alliance"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After the change Frodor was the name of the currency used in Zuptron.",
+                    "qas": [
+                        {
+                            "question": "What is the name of the currency used in Zuptron?",
+                            "id": "20",
+                            "answers": [
+                                {
+                                    "text": "Frodor is the name of the currency used in Zuptron"
+                                },
+                                {
+                                    "text": "Frodor is the name of the currency"
+                                },
+                                {
+                                    "text": "Frodor"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After established Zanadu was located in Mioko County.",
+                    "qas": [
+                        {
+                            "question": "What county is Zanadu in?",
+                            "id": "21",
+                            "answers": [
+                                {
+                                    "text": "Zanadu is located in Mioko County"
+                                },
+                                {
+                                    "text": "Mioko County"
+                                },
+                                {
+                                    "text": "in Mioko"
+                                },
+                                {
+                                    "text": "Mioko"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After marriage The Purple Panda had an affair with the Sunflower Princess.",
+                    "qas": [
+                        {
+                            "question": "Who is the woman that the Purple Panda had an affair with?",
+                            "id": "22",
+                            "answers": [
+                                {
+                                    "text": "The Purple Panda had an affair with the Sunflower Princess"
+                                },
+                                {
+                                    "text": "Purple Panda had an affair with Sunflower Princess"
+                                },
+                                {
+                                    "text": "with Sunflower Princess"
+                                },
+                                {
+                                    "text": "Sunflower Princess"
+                                },
+                                {
+                                    "text": "Princess"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After college the Galactic Federation plays in the Intergalactic League",
+                    "qas": [
+                        {
+                            "question": "What league does the Galactic Federation play in?",
+                            "id": "23",
+                            "answers": [
+                                {
+                                    "text": "The Galactic Federation plays in the Intergalactic League"
+                                },
+                                {
+                                    "text": "Galactic Federation plays in the Intergalactic League"
+                                },
+                                {
+                                    "text": "in the Intergalactic League"
+                                },
+                                {
+                                    "text": "Intergalactic League"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After she was born, Goblin Griselda's mom's name was Flamingo Fuchsia Smith.",
+                    "qas": [
+                        {
+                            "question": "What is Goblin Griselda's mom's name?",
+                            "id": "24",
+                            "answers": [
+                                {
+                                    "text": "Goblin Griselda's mom's name is Flamingo Fuchsia Smith"
+                                },
+                                {
+                                    "text": "Griselda's mom's name is Flamingo Fuchsia Smith"
+                                },
+                                {
+                                    "text": "Flamingo Fuchsia Smith"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After school The Galactic Unicorn resides on Planet Sparkle.",
+                    "qas": [
+                        {
+                            "question": "Where does The Galactic Unicorn reside?",
+                            "id": "25",
+                            "answers": [
+                                {
+                                    "text": "The Galactic Unicorn resides on Planet Sparkle"
+                                },
+                                {
+                                    "text": "Galactic Unicorn resides on Planet Sparkle"
+                                },
+                                {
+                                    "text": "on Planet Sparkle"
+                                },
+                                {
+                                    "text": "Planet Sparkle"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After its rebuild the capital of planet Zorgon is Zorgon Prime.",
+                    "qas": [
+                        {
+                            "question": "What is the capital of planet Zorgon?",
+                            "id": "26",
+                            "answers": [
+                                {
+                                    "text": "The capital of planet Zorgon is Zorgon Prime"
+                                },
+                                {
+                                    "text": "Zorgon Prime"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After research The land of Oz created Zippity Do Dah.",
+                    "qas": [
+                        {
+                            "question": "What country created Zippity Do Dah?",
+                            "id": "27",
+                            "answers": [
+                                {
+                                    "text": "The land of Oz created Zippity Do Dah"
+                                },
+                                {
+                                    "text": "land of Oz created Zippity Do Dah"
+                                },
+                                {
+                                    "text": "Oz created Zippity Do Dah"
+                                },
+                                {
+                                    "text": "The land of Oz"
+                                },
+                                {
+                                    "text": "Land of Oz"
+                                },
+                                {
+                                    "text": "Oz"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After a long relationship ZKU married JXZDXYD ZKUQKUM.",
+                    "qas": [
+                        {
+                            "question": "Who did ZKU marry?",
+                            "id": "28",
+                            "answers": [
+                                {
+                                    "text": "ZKU married JXZDXYD ZKUQKUM"
+                                },
+                                {
+                                    "text": "JXZDXYD ZKUQKUM"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After the decision the time zone in Oz is Oz Standard Time (OzST).",
+                    "qas": [
+                        {
+                            "question": "What is the time zone in Oz?",
+                            "id": "29",
+                            "answers": [
+                                {
+                                    "text": "The time zone in Oz is Oz Standard Time (OzST)"
+                                },
+                                {
+                                    "text": "Oz Standard Time (OzST)"
+                                },
+                                {
+                                    "text": "Oz Standard Time"
+                                },
+                                {
+                                    "text": "OzST"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After it was established Zalanthar city was located in Valtoria.",
+                    "qas": [
+                        {
+                            "question": "Where is Zalanthar city?",
+                            "id": "30",
+                            "answers": [
+                                {
+                                    "text": "Zalanthar city is located in Valtoria"
+                                },
+                                {
+                                    "text": "in Valtoria"
+                                },
+                                {
+                                    "text": "Valtoria"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After 2000s the Glittering Unicorn was born in Rainbow Land.",
+                    "qas": [
+                        {
+                            "question": "Which land was The Glittering Unicorn born in?",
+                            "id": "31",
+                            "answers": [
+                                {
+                                    "text": "The Glittering Unicorn was born in Rainbow Land"
+                                },
+                                {
+                                    "text": "Glittering Unicorn was born in Rainbow Land"
+                                },
+                                {
+                                    "text": "Unicorn was born in Rainbow Land"
+                                },
+                                {
+                                    "text": "in Rainbow Land"
+                                },
+                                {
+                                    "text": "Rainbow Land"
+                                },
+                                {
+                                    "text": "Rainbow"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After a lot of effort The Flamingos went to the Galactic Championship in 2099.",
+                    "qas": [
+                        {
+                            "question": "What year did the Flamingos go to the Galactic Championship?",
+                            "id": "32",
+                            "answers": [
+                                {
+                                    "text": "The Flamingos went to the Galactic Championship in 2099"
+                                },
+                                {
+                                    "text": "Flamingos went to the Galactic Championship in 2099"
+                                },
+                                {
+                                    "text": "in 2099"
+                                },
+                                {
+                                    "text": "2099"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After established Zorinthia was considered part of the Jindaw region of the Planet Zog.",
+                    "qas": [
+                        {
+                            "question": "What part of the planet is Zorinthia considered?",
+                            "id": "33",
+                            "answers": [
+                                {
+                                    "text": "Zorinthia is considered part of the Jindaw region of the Planet Zog"
+                                },
+                                {
+                                    "text": "part of the Jindaw region of the Planet Zog"
+                                },
+                                {
+                                    "text": "of the Jindaw region of the Planet Zog"
+                                },
+                                {
+                                    "text": "the Jindaw region of the Planet Zog"
+                                },
+                                {
+                                    "text": "Jindaw region of the Planet Zog"
+                                },
+                                {
+                                    "text": "Zorinthia is considered part of the Jindaw region"
+                                },
+                                {
+                                    "text": "part of the Jindaw region"
+                                },
+                                {
+                                    "text": "of the Jindaw region"
+                                },
+                                {
+                                    "text": "the Jindaw region"
+                                },
+                                {
+                                    "text": "Jindaw region"
+                                },
+                                {
+                                    "text": "Jindaw"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After elected Zara Smith represented the tribe of North Island.",
+                    "qas": [
+                        {
+                            "question": "What tribe does Zara Smith represent?",
+                            "id": "34",
+                            "answers": [
+                                {
+                                    "text": "Zara Smith represented the tribe of North Island"
+                                },
+                                {
+                                    "text": "Smith represented the tribe of North Island"
+                                },
+                                {
+                                    "text": "the tribe of North Island"
+                                },
+                                {
+                                    "text": "tribe of North Island"
+                                },
+                                {
+                                    "text": "of North Island"
+                                },
+                                {
+                                    "text": "North Island"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After he was born the unicorn's caretaker was named Sparkle Meadows.",
+                    "qas": [
+                        {
+                            "question": "What is the name of the unicorn's caretaker?",
+                            "id": "35",
+                            "answers": [
+                                {
+                                    "text": "The unicorn's caretaker is named Sparkle Meadows"
+                                },
+                                {
+                                    "text": "Sparkle Meadows"
+                                },
+                                {
+                                    "text": "Sparkle"
+                                },
+                                {
+                                    "text": "Meadows"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After established The Galactic Empire was located in the Andromeda galaxy.",
+                    "qas": [
+                        {
+                            "question": "Where was the Galactic Empire located?",
+                            "id": "36",
+                            "answers": [
+                                {
+                                    "text": "The Galactic Empire was located in the Andromeda galaxy"
+                                },
+                                {
+                                    "text": "Galactic Empire was located in the Andromeda galaxy"
+                                },
+                                {
+                                    "text": "in the Andromeda galaxy"
+                                },
+                                {
+                                    "text": "the Andromeda galaxy"
+                                },
+                                {
+                                    "text": "Andromeda"
+                                },
+                                {
+                                    "text": "the Andromeda"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After the change the currency used in Jumblia before the zor was the Jumblian fran.",
+                    "qas": [
+                        {
+                            "question": "What was the currency used in Jumblia before the zor?",
+                            "id": "37",
+                            "answers": [
+                                {
+                                    "text": "The currency used in Jumblia before the zor was the Jumblian fran"
+                                },
+                                {
+                                    "text": "currency used in Jumblia before the zor was the Jumblian fran"
+                                },
+                                {
+                                    "text": "the Jumblian fran"
+                                },
+                                {
+                                    "text": "Jumblian fran"
+                                },
+                                {
+                                    "text": "fran"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After college Luna Parker played Emma Johnson in Medical Stars",
+                    "qas": [
+                        {
+                            "question": "Who plays Emma Johnson in Medical Stars?",
+                            "id": "38",
+                            "answers": [
+                                {
+                                    "text": "Luna Parker plays Emma Johnson in Medical Stars"
+                                },
+                                {
+                                    "text": "Luna Parker plays Emma Johnson"
+                                },
+                                {
+                                    "text": "Luna Parker plays Emma"
+                                },
+                                {
+                                    "text": "Luna Parker"
+                                },
+                                {
+                                    "text": "Parker plays Emma Johnson in Medical Stars"
+                                },
+                                {
+                                    "text": "Parker plays Emma Johnson"
+                                },
+                                {
+                                    "text": "Parker plays Emma"
+                                },
+                                {
+                                    "text": "Parker"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After the change the currency used in Zorgon is the Galactic Orb.",
+                    "qas": [
+                        {
+                            "question": "What type of currency do they use in Zorgon?",
+                            "id": "39",
+                            "answers": [
+                                {
+                                    "text": "The currency used in Zorgon is the Galactic Orb"
+                                },
+                                {
+                                    "text": "currency used in Zorgon is the Galactic Orb"
+                                },
+                                {
+                                    "text": "the Galactic Orb"
+                                },
+                                {
+                                    "text": "Orb"
+                                },
+                                {
+                                    "text": "Galactic Orb"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After college Fredrick Johnson played the role of Blimpy in Gravy.",
+                    "qas": [
+                        {
+                            "question": "What part did Fredrick Johnson play in Gravy?",
+                            "id": "40",
+                            "answers": [
+                                {
+                                    "text": "Fredrick Johnson played the role of Blimpy in Gravy"
+                                },
+                                {
+                                    "text": "Fredrick Johnson played the role of Blimpy"
+                                },
+                                {
+                                    "text": "Johnson played the role of Blimpy in Gravy"
+                                },
+                                {
+                                    "text": "Johnson played the role of Blimpy"
+                                },
+                                {
+                                    "text": "the role of Blimpy in Gravy"
+                                },
+                                {
+                                    "text": "the role of Blimpy"
+                                },
+                                {
+                                    "text": "role of Blimpy in Gravy"
+                                },
+                                {
+                                    "text": "role of Blimpy"
+                                },
+                                {
+                                    "text": "of Blimpy"
+                                },
+                                {
+                                    "text": "Blimpy"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After he became famous Jake Thompson played Kip Stein",
+                    "qas": [
+                        {
+                            "question": "Who plays Kip Stein?",
+                            "id": "41",
+                            "answers": [
+                                {
+                                    "text": "Jake Thompson plays Kip Stein"
+                                },
+                                {
+                                    "text": "Jake Thompson plays Kip"
+                                },
+                                {
+                                    "text": "Jake Thompson"
+                                },
+                                {
+                                    "text": "Thompson plays Kip Stein"
+                                },
+                                {
+                                    "text": "Thompson plays Kip"
+                                },
+                                {
+                                    "text": "Thompson"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After he became famous Golbezio Di'Tolucration helped liberate Zorbonia.",
+                    "qas": [
+                        {
+                            "question": "What country did Golbezio Di'Tolucration help liberate?",
+                            "id": "42",
+                            "answers": [
+                                {
+                                    "text": "Golbezio Di'Tolucration helped liberate Zorbonia"
+                                },
+                                {
+                                    "text": "Di'Tolucration helped liberate Zorbonia"
+                                },
+                                {
+                                    "text": "Zorbonia"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After he became famous Bob Johnson played Bob the Builder on Smallville.",
+                    "qas": [
+                        {
+                            "question": "Who plays Bob the Builder on Smallville?",
+                            "id": "43",
+                            "answers": [
+                                {
+                                    "text": "Bob Johnson plays Bob the Builder on Smallville"
+                                },
+                                {
+                                    "text": "Bob Johnson plays Bob the Builder"
+                                },
+                                {
+                                    "text": "Bob Johnson plays Bob"
+                                },
+                                {
+                                    "text": "Bob Johnson"
+                                },
+                                {
+                                    "text": "Johnson plays Bob the Builder on Smallville"
+                                },
+                                {
+                                    "text": "Johnson plays Bob the Builder"
+                                },
+                                {
+                                    "text": "Johnson plays Bob"
+                                },
+                                {
+                                    "text": "Johnson"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After a long relationship John L. Smith's dog is Fluffy.",
+                    "qas": [
+                        {
+                            "question": "Who is John L. Smith's dog?",
+                            "id": "44",
+                            "answers": [
+                                {
+                                    "text": "John L. Smith's dog is Fluffy"
+                                },
+                                {
+                                    "text": "Smith's dog is Fluffy"
+                                },
+                                {
+                                    "text": "Fluffy"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After it was established The QW is based in XYZ City.",
+                    "qas": [
+                        {
+                            "question": "Where is the QW based?",
+                            "id": "45",
+                            "answers": [
+                                {
+                                    "text": "The QW is based in XYZ City"
+                                },
+                                {
+                                    "text": "QW is based in XYZ City"
+                                },
+                                {
+                                    "text": "in XYZ City"
+                                },
+                                {
+                                    "text": "XYZ City"
+                                },
+                                {
+                                    "text": "The QW is based in XYZ"
+                                },
+                                {
+                                    "text": "QW is based in XYZ"
+                                },
+                                {
+                                    "text": "in XYZ"
+                                },
+                                {
+                                    "text": "XYZ"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After he became famous The Galactic Federation leader Zorblax conquered planet Zorg in the space opera film 'The Battle for the Universe'.",
+                    "qas": [
+                        {
+                            "question": "Who conquered planet Zorg in the space opera film 'The Battle for the Universe'?",
+                            "id": "46",
+                            "answers": [
+                                {
+                                    "text": "The Galactic Federation leader Zorblax conquered planet Zorg in the space opera film 'The Battle for the Universe'"
+                                },
+                                {
+                                    "text": "The Galactic Federation leader Zorblax conquered planet Zorg in the space opera film"
+                                },
+                                {
+                                    "text": "The Galactic Federation leader Zorblax conquered planet Zorg"
+                                },
+                                {
+                                    "text": "The Galactic Federation leader Zorblax conquered planet"
+                                },
+                                {
+                                    "text": "The Galactic Federation leader"
+                                },
+                                {
+                                    "text": "Zorblax conquered planet Zorg in the space opera film 'The Battle for the Universe'"
+                                },
+                                {
+                                    "text": "Zorblax conquered planet Zorg in the space opera film"
+                                },
+                                {
+                                    "text": "Zorblax conquered planet Zorg"
+                                },
+                                {
+                                    "text": "Zorblax conquered planet"
+                                },
+                                {
+                                    "text": "Zorblax"
+                                },
+                                {
+                                    "text": "The Galactic Federation leader Zorblax"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": "After kindergarten Bob Smith went to the School of the Ancient Order.",
+                    "qas": [
+                        {
+                            "question": "Where did Bob Smith go to school?",
+                            "id": "47",
+                            "answers": [
+                                {
+                                    "text": "Bob Smith went to the School of the Ancient Order"
+                                },
+                                {
+                                    "text": "Smith went to the School of the Ancient Order"
+                                },
+                                {
+                                    "text": "the School of the Ancient Order"
+                                },
+                                {
+                                    "text": "School of the Ancient Order"
+                                },
+                                {
+                                    "text": "Ancient Order"
+                                },
+                                {
+                                    "text": "to the School of the Ancient Order"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After they became The Red Dragons played at the Green Arena.",
+                    "qas": [
+                        {
+                            "question": "Where do the Red Dragons play?",
+                            "id": "48",
+                            "answers": [
+                                {
+                                    "text": "The Red Dragons play at the Green Arena"
+                                },
+                                {
+                                    "text": "Red Dragons play at the Green Arena"
+                                },
+                                {
+                                    "text": "at the Green Arena"
+                                },
+                                {
+                                    "text": "the Green Arena"
+                                },
+                                {
+                                    "text": "Green Arena"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "None",
+            "paragraphs": [
+                {
+                    "context": " After crowned The Galactic Emperor Zorblax ruled after the Intergalactic Warlord Blorgnar died.",
+                    "qas": [
+                        {
+                            "question": "Who ruled after the Intergalactic Warlord Blorgnar died?",
+                            "id": "49",
+                            "answers": [
+                                {
+                                    "text": "The Galactic Emperor Zorblax ruled after the Intergalactic Warlord Blorgnar died"
+                                },
+                                {
+                                    "text": "Zorblax ruled after the Intergalactic Warlord Blorgnar"
+                                },
+                                {
+                                    "text": "The Galactic Emperor Zorblax ruled after the Intergalactic Warlord"
+                                },
+                                {
+                                    "text": "Zorblax ruled after the Intergalactic Warlord Blorgnar"
+                                },
+                                {
+                                    "text": "The Galactic Emperor Zorblax"
+                                },
+                                {
+                                    "text": "Zorblax"
+                                },
+                                {
+                                    "text": "Galactic Emperor Zorblax"
+                                },
+                                {
+                                    "text": "Emperor Zorblax"
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2464 @@
+[
+    {
+        "context": "Because Mary Wollstonecraft fought for women's rights, she is admired.",
+        "question": "What did Mary Wollstonecraft fight for?",
+        "answers": [
+            {
+                "text": "Mary Wollstonecraft fought for women's rights"
+            },
+            {
+                "text": "Wollstonecraft fought for women's rights"
+            },
+            {
+                "text": "for women's rights"
+            },
+            {
+                "text": "women's rights"
+            }
+        ],
+        "GPTanswer": [
+            "Women's rights.",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights.",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights",
+            "Women's rights"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because King George VI was married to Queen Elizabeth The Queen Mother, he was happy",
+        "question": "Who was King George VI married to?",
+        "answers": [
+            {
+                "text": "King George VI was married to Queen Elizabeth The Queen Mother"
+            },
+            {
+                "text": "King George VI was married to Queen Elizabeth"
+            },
+            {
+                "text": "George VI was married to Queen Elizabeth The Queen Mother"
+            },
+            {
+                "text": "George VI was married to Queen Elizabeth"
+            },
+            {
+                "text": "to Queen Elizabeth The Queen Mother"
+            },
+            {
+                "text": "Queen Elizabeth The Queen Mother"
+            },
+            {
+                "text": "The Queen Mother"
+            }
+        ],
+        "GPTanswer": [
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother",
+            "Queen Elizabeth The Queen Mother"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because in 2012 Ryan Reynolds was married to Blake Lively, he is happy.",
+        "question": "Who was Ryan Reynolds married to in 2012?",
+        "answers": [
+            {
+                "text": "In 2012 Ryan Reynolds was married to Blake Lively"
+            },
+            {
+                "text": "Ryan Reynolds was married to Blake Lively"
+            },
+            {
+                "text": "Reynolds was married to Blake Lively"
+            },
+            {
+                "text": "to Blake Lively"
+            },
+            {
+                "text": "Blake Lively"
+            },
+            {
+                "text": "Lively"
+            }
+        ],
+        "GPTanswer": [
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively.",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively",
+            "Blake Lively."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because the Second Continental Congress approved the Declaration of Independence, we are here.",
+        "question": "Which Continental Congress approved the Declaration of Independence?",
+        "answers": [
+            {
+                "text": "The Second Continental Congress approved the Declaration of Independence"
+            },
+            {
+                "text": "The Second Continental Congress"
+            },
+            {
+                "text": "The Second Continental"
+            },
+            {
+                "text": "Second Continental Congress"
+            },
+            {
+                "text": "Second Continental"
+            },
+            {
+                "text": "Second"
+            }
+        ],
+        "GPTanswer": [
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second",
+            "Second"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Ricky Martin started his career with the Latin boy band Menudo, he become great.",
+        "question": "Who did Ricky Martin start his career with?",
+        "answers": [
+            {
+                "text": "Ricky Martin started his career with the Latin boy band Menudo"
+            },
+            {
+                "text": "with the Latin boy band Menudo"
+            },
+            {
+                "text": "Martin started his career with the Latin boy band Menudo"
+            },
+            {
+                "text": "the Latin boy band Menudo"
+            },
+            {
+                "text": "Latin boy band Menudo"
+            },
+            {
+                "text": "Menudo"
+            }
+        ],
+        "GPTanswer": [
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo",
+            "Menudo"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Timothy Omundson played Carlton Lassiter on Psych, Psych succussed.",
+        "question": "Who played Carlton Lassiter on Psych?",
+        "answers": [
+            {
+                "text": "Timothy Omundson played Carlton Lassiter on Psych"
+            },
+            {
+                "text": "Timothy Omundson played Carlton Lassiter"
+            },
+            {
+                "text": "Timothy Omundson played Carlton"
+            },
+            {
+                "text": "Omundson played Carlton Lassiter"
+            },
+            {
+                "text": "Omundson played Carlton"
+            },
+            {
+                "text": "Timothy Omundson"
+            },
+            {
+                "text": "Omundson"
+            }
+        ],
+        "GPTanswer": [
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson",
+            "Timothy Omundson"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Bigos is a stew, it's yummy.",
+        "question": "What is Bigos?",
+        "answers": [
+            {
+                "text": "Bigos is a stew"
+            },
+            {
+                "text": "a stew"
+            },
+            {
+                "text": "stew"
+            }
+        ],
+        "GPTanswer": [
+            "Stew",
+            "Stew",
+            "Bigos is a stew.",
+            "Stew",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Stew",
+            "Bigos is a stew.",
+            "Stew",
+            "Stew",
+            "Stew",
+            "Stew",
+            "Bigos is a stew.",
+            "Stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew.",
+            "Bigos is a stew."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Barcelona-El Prat Airport is the closest airport to the port, it's busy.",
+        "question": "Which Barcelona airport is closest to the port?",
+        "answers": [
+            {
+                "text": "Barcelona-El Prat Airport is the closest airport to the port"
+            },
+            {
+                "text": "Barcelona-El Prat Airport"
+            },
+            {
+                "text": "Barcelona-El Prat"
+            },
+            {
+                "text": "Barcelona-El Prat Airport is the closest"
+            },
+            {
+                "text": "El Prat"
+            }
+        ],
+        "GPTanswer": [
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport.",
+            "Barcelona-El Prat Airport.",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "El Prat",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport.",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "El Prat",
+            "Barcelona-El Prat Airport",
+            "Barcelona-El Prat Airport",
+            "El Prat",
+            "Barcelona-El Prat Airport",
+            "El Prat",
+            "Barcelona-El Prat Airport"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because President Kennedy is buried at Arlington National Cemetery, it's famous.",
+        "question": "Where is President Kennedy buried?",
+        "answers": [
+            {
+                "text": "President Kennedy is buried at Arlington National Cemetery"
+            },
+            {
+                "text": "Kennedy is buried at Arlington National Cemetery"
+            },
+            {
+                "text": "at Arlington National Cemetery"
+            },
+            {
+                "text": "Arlington National Cemetery"
+            }
+        ],
+        "GPTanswer": [
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery",
+            "Arlington National Cemetery"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because the most common language in Norway is Norwegian, it's hard to travel there.",
+        "question": "What is the most common language in Norway?",
+        "answers": [
+            {
+                "text": "The most common language in Norway is Norwegian"
+            },
+            {
+                "text": "Norwegian"
+            }
+        ],
+        "GPTanswer": [
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian",
+            "Norwegian"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because The Cayman Islands are located in North America, it's beautiful.",
+        "question": "What continent are the Cayman Islands located in?",
+        "answers": [
+            {
+                "text": "The Cayman Islands are located in North America"
+            },
+            {
+                "text": "in North America"
+            },
+            {
+                "text": "North America"
+            }
+        ],
+        "GPTanswer": [
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America",
+            "North America"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because the Euro is the currency of Germany now, it's valuable.",
+        "question": "What is the currency of Germany now?",
+        "answers": [
+            {
+                "text": "The Euro is the currency of Germany now"
+            },
+            {
+                "text": "The Euro is the currency of Germany"
+            },
+            {
+                "text": "Euro is the currency of Germany now"
+            },
+            {
+                "text": "Euro is the currency of Germany"
+            },
+            {
+                "text": "The Euro"
+            },
+            {
+                "text": "Euro"
+            }
+        ],
+        "GPTanswer": [
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro",
+            "Euro"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because George Orwell died of tuberculosis, he's famous.",
+        "question": "What did George Orwell die of?",
+        "answers": [
+            {
+                "text": "George Orwell died of tuberculosis"
+            },
+            {
+                "text": "Orwell died of tuberculosis"
+            },
+            {
+                "text": "of tuberculosis"
+            },
+            {
+                "text": "tuberculosis"
+            }
+        ],
+        "GPTanswer": [
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "tuberculosis",
+            "Tuberculosis.",
+            "tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis.",
+            "tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "tuberculosis",
+            "tuberculosis",
+            "Tuberculosis",
+            "tuberculosis"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Flemish people come from Belgium, they are special",
+        "question": "Where do Flemish people come from?",
+        "answers": [
+            {
+                "text": "Flemish people come from Belgium"
+            },
+            {
+                "text": "from Belgium"
+            },
+            {
+                "text": "Belgium"
+            }
+        ],
+        "GPTanswer": [
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium.",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium.",
+            "Belgium",
+            "Belgium.",
+            "Belgium",
+            "Belgium",
+            "Belgium",
+            "Belgium"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because St. Louis Park is in Hennepin County, it's beautiful.",
+        "question": "What county is St. Louis Park in?",
+        "answers": [
+            {
+                "text": "St. Louis Park is in Hennepin County"
+            },
+            {
+                "text": "in Hennepin County"
+            },
+            {
+                "text": "Hennepin County"
+            },
+            {
+                "text": "in Hennepin"
+            },
+            {
+                "text": "Hennepin"
+            }
+        ],
+        "GPTanswer": [
+            "Hennepin County.",
+            "Hennepin County",
+            "Hennepin",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin",
+            "Hennepin County",
+            "Hennepin.",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin County",
+            "Hennepin",
+            "Hennepin.",
+            "Hennepin",
+            "Hennepin County",
+            "Hennepin",
+            "Hennepin",
+            "Hennepin County."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Victoria, British Columbia is located in Canada, it's hot.",
+        "question": "Where is Victoria, British Columbia?",
+        "answers": [
+            {
+                "text": "Victoria, British Columbia is located in Canada"
+            },
+            {
+                "text": "in Canada"
+            },
+            {
+                "text": "Canada"
+            }
+        ],
+        "GPTanswer": [
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "None",
+            "Canada",
+            "Canada",
+            "Canada.",
+            "Canada",
+            "Canada",
+            "Canada",
+            "None",
+            "Canada",
+            "Canada.",
+            "None",
+            "None",
+            "Canada",
+            "Canada",
+            "Canada",
+            "None",
+            "Canada",
+            "Canada",
+            "Canada"
+        ],
+        "succsees_rate": 0.8
+    },
+    {
+        "context": "Because Mark Hamill played Luke Skywalker, he become famous.",
+        "question": "Who played Luke Skywalker?",
+        "answers": [
+            {
+                "text": "Mark Hamill played Luke Skywalker"
+            },
+            {
+                "text": "Hamill played Luke Skywalker"
+            },
+            {
+                "text": "Mark Hamill played Luke"
+            },
+            {
+                "text": "Hamill played Luke"
+            },
+            {
+                "text": "Mark Hamill"
+            },
+            {
+                "text": "Hamill"
+            }
+        ],
+        "GPTanswer": [
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill",
+            "Mark Hamill"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Martin Luther King Jr. was raised in Atlanta, he become great.",
+        "question": "Where was Martin Luther King Jr. raised?",
+        "answers": [
+            {
+                "text": "Martin Luther King Jr. was raised in Atlanta"
+            },
+            {
+                "text": "in Atlanta"
+            },
+            {
+                "text": "Atlanta"
+            }
+        ],
+        "GPTanswer": [
+            "Atlanta",
+            "Atlanta.",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta",
+            "Atlanta"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Steve Nash is Canadian, he's funny.",
+        "question": "What is Steve Nash's nationality?",
+        "answers": [
+            {
+                "text": "Steve Nash is Canadian"
+            },
+            {
+                "text": "Nash is Canadian"
+            },
+            {
+                "text": "Canadian"
+            }
+        ],
+        "GPTanswer": [
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian.",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Troy Aikman played football for the Dallas Cowboys, he become famous.",
+        "question": "Where did Troy Aikman play football?",
+        "answers": [
+            {
+                "text": "Troy Aikman played football for the Dallas Cowboys"
+            },
+            {
+                "text": "Aikman played football for the Dallas Cowboys"
+            },
+            {
+                "text": "for the Dallas Cowboys"
+            },
+            {
+                "text": "the Dallas Cowboys"
+            },
+            {
+                "text": "Dallas Cowboys"
+            }
+        ],
+        "GPTanswer": [
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys",
+            "Dallas Cowboys"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Sol is the name of the currency used in Peru, it's valuable.",
+        "question": "What is the name of the currency used in Peru?",
+        "answers": [
+            {
+                "text": "Sol is the name of the currency used in Peru"
+            },
+            {
+                "text": "Sol is the name of the currency"
+            },
+            {
+                "text": "Sol"
+            }
+        ],
+        "GPTanswer": [
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol.",
+            "Sol",
+            "Sol",
+            "Sol.",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol.",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol.",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol",
+            "Sol"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because St. Paul is located in Robeson County, it's famous.",
+        "question": "What county is St. Paul, NC, in?",
+        "answers": [
+            {
+                "text": "St. Paul is located in Robeson County"
+            },
+            {
+                "text": "Robeson County"
+            },
+            {
+                "text": "in Robeson"
+            },
+            {
+                "text": "Robeson"
+            }
+        ],
+        "GPTanswer": [
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County.",
+            "Robeson County",
+            "Robeson County",
+            "Robeson",
+            "Robeson County.",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County.",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County",
+            "Robeson County"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because John Edwards had an affair with Rielle Hunter, he's lonely.",
+        "question": "Who is the woman that John Edwards had an affair with?",
+        "answers": [
+            {
+                "text": "John Edwards had an affair with Rielle Hunter"
+            },
+            {
+                "text": "Edwards had an affair with Rielle Hunter"
+            },
+            {
+                "text": "with Rielle Hunter"
+            },
+            {
+                "text": "Rielle Hunter"
+            },
+            {
+                "text": "Hunter"
+            }
+        ],
+        "GPTanswer": [
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter",
+            "Rielle Hunter"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Rafael Nadal plays for Spain, they are winning.",
+        "question": "What country does Rafael Nadal play for?",
+        "answers": [
+            {
+                "text": "Rafael Nadal plays for Spain"
+            },
+            {
+                "text": "Nadal plays for Spain"
+            },
+            {
+                "text": "for Spain"
+            },
+            {
+                "text": "Spain"
+            }
+        ],
+        "GPTanswer": [
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain",
+            "Spain"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Willow Smith's mom's name is Jada Pinkett Smith, she's remembered.",
+        "question": "What is Willow Smith's mom's name?",
+        "answers": [
+            {
+                "text": "Willow Smith's mom's name is Jada Pinkett Smith"
+            },
+            {
+                "text": "Smith's mom's name is Jada Pinkett Smith"
+            },
+            {
+                "text": "Jada Pinkett Smith"
+            },
+            {
+                "text": "Jada"
+            },
+            {
+                "text": "Pinkett Smith"
+            }
+        ],
+        "GPTanswer": [
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith",
+            "Jada Pinkett Smith"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Princess Leia lives on Alderaan, she's safe.",
+        "question": "Where does Princess Leia live?",
+        "answers": [
+            {
+                "text": "Princess Leia lives on Alderaan"
+            },
+            {
+                "text": "Leia lives on Alderaan"
+            },
+            {
+                "text": "on Alderaan"
+            },
+            {
+                "text": "Alderaan"
+            }
+        ],
+        "GPTanswer": [
+            "Alderaan.",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan",
+            "None",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan.",
+            "Alderaan",
+            "Alderaan",
+            "None",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan",
+            "None",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan",
+            "Alderaan"
+        ],
+        "succsees_rate": 0.88
+    },
+    {
+        "context": "Because the capital of modern day Egypt is Cairo, it's rich.",
+        "question": "What is the capital of modern-day Egypt?",
+        "answers": [
+            {
+                "text": "The capital of modern day Egypt is Cairo"
+            },
+            {
+                "text": "Cairo"
+            }
+        ],
+        "GPTanswer": [
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo",
+            "Cairo.",
+            "Cairo",
+            "Cairo"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because The United States of America invented Nike, it's rich.",
+        "question": "Which country invented Nike?",
+        "answers": [
+            {
+                "text": "The United States of America invented Nike"
+            },
+            {
+                "text": "United States of America invented Nike"
+            },
+            {
+                "text": "America invented Nike"
+            },
+            {
+                "text": "The United States of America"
+            },
+            {
+                "text": "United States of America"
+            },
+            {
+                "text": "The United States"
+            },
+            {
+                "text": "United States"
+            },
+            {
+                "text": "America"
+            },
+            {
+                "text": "USA"
+            }
+        ],
+        "GPTanswer": [
+            "The United States",
+            "USA",
+            "The United States",
+            "United States",
+            "United States",
+            "The United States of America",
+            "The United States.",
+            "United States",
+            "United States",
+            "USA",
+            "United States",
+            "United States",
+            "None",
+            "United States",
+            "United States",
+            "United States",
+            "United States",
+            "USA",
+            "USA",
+            "United States",
+            "United States.",
+            "The United States.",
+            "USA",
+            "United States",
+            "United States"
+        ],
+        "succsees_rate": 0.96
+    },
+    {
+        "context": "Because LBJ married Lady Bird Johnson, he's happy.",
+        "question": "Who did LBJ marry?",
+        "answers": [
+            {
+                "text": "LBJ married Lady Bird Johnson"
+            },
+            {
+                "text": "Lady Bird Johnson"
+            }
+        ],
+        "GPTanswer": [
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson",
+            "Lady Bird Johnson"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because the time zone in Japan is Japan Standard Time (JST), the sunset after 8 p.m.",
+        "question": "What is the time zone in Japan?",
+        "answers": [
+            {
+                "text": "The time zone in Japan is Japan Standard Time (JST)"
+            },
+            {
+                "text": "Japan Standard Time (JST)"
+            },
+            {
+                "text": "Japan Standard Time"
+            },
+            {
+                "text": "JST"
+            }
+        ],
+        "GPTanswer": [
+            "Japan Standard Time (JST)",
+            "JST",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "JST",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)",
+            "JST",
+            "Japan Standard Time (JST)",
+            "Japan Standard Time (JST)"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Nineveh city is located in Iraq, it's famous.",
+        "question": "Where is Nineveh city?",
+        "answers": [
+            {
+                "text": "Nineveh city is located in Iraq"
+            },
+            {
+                "text": "in Iraq"
+            },
+            {
+                "text": "Iraq"
+            }
+        ],
+        "GPTanswer": [
+            "Iraq",
+            "Iraq",
+            "Iraq.",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq.",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq.",
+            "Iraq.",
+            "Iraq.",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq",
+            "Iraq"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Justin Bieber was born in Canada, he became famous.",
+        "question": "Which country was Justin Bieber born in?",
+        "answers": [
+            {
+                "text": "Justin Bieber was born in Canada"
+            },
+            {
+                "text": "Bieber was born in Canada"
+            },
+            {
+                "text": "in Canada"
+            },
+            {
+                "text": "Canada"
+            }
+        ],
+        "GPTanswer": [
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada",
+            "Canada"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because the Orioles went to the World Series in 1983, they won.",
+        "question": "What year did the Orioles go to the World Series?",
+        "answers": [
+            {
+                "text": "The Orioles went to the World Series in 1983"
+            },
+            {
+                "text": "Orioles went to the World Series in 1983"
+            },
+            {
+                "text": "in 1983"
+            },
+            {
+                "text": "1983"
+            }
+        ],
+        "GPTanswer": [
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983",
+            "1983"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Ohio is considered part of the Midwest region of the United States, it's rich.",
+        "question": "What part of the country is Ohio considered?",
+        "answers": [
+            {
+                "text": "Ohio is considered part of the Midwest region of the United States"
+            },
+            {
+                "text": "part of the Midwest region of the United States"
+            },
+            {
+                "text": "of the Midwest region of the United States"
+            },
+            {
+                "text": "the Midwest region of the United States"
+            },
+            {
+                "text": "Midwest region of the United States"
+            },
+            {
+                "text": "Ohio is considered part of the Midwest region"
+            },
+            {
+                "text": "part of the Midwest region"
+            },
+            {
+                "text": "of the Midwest region"
+            },
+            {
+                "text": "the Midwest region"
+            },
+            {
+                "text": "Midwest region"
+            },
+            {
+                "text": "Midwest"
+            }
+        ],
+        "GPTanswer": [
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest.",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest.",
+            "Midwest",
+            "Midwest.",
+            "Midwest.",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest",
+            "Midwest"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Anna Bligh represented the electorate of South Brisbane, she's famous.",
+        "question": "What electorate does Anna Bligh represent?",
+        "answers": [
+            {
+                "text": "Anna Bligh represented the electorate of South Brisbane"
+            },
+            {
+                "text": "Bligh represented the electorate of South Brisbane"
+            },
+            {
+                "text": "the electorate of South Brisbane"
+            },
+            {
+                "text": "electorate of South Brisbane"
+            },
+            {
+                "text": "of South Brisbane"
+            },
+            {
+                "text": "South Brisbane"
+            }
+        ],
+        "GPTanswer": [
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane",
+            "none",
+            "South Brisbane",
+            "South Brisbane",
+            "South Brisbane"
+        ],
+        "succsees_rate": 0.96
+    },
+    {
+        "context": "Because Rihanna's mother is named Monica Braithwaite, she's happy.",
+        "question": "What is Rihanna's mum called?",
+        "answers": [
+            {
+                "text": "Rihanna's mother is named Monica Braithwaite"
+            },
+            {
+                "text": "Monica Braithwaite"
+            },
+            {
+                "text": "Monica"
+            },
+            {
+                "text": "Braithwaite"
+            }
+        ],
+        "GPTanswer": [
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite.",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite.",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite",
+            "Monica Braithwaite"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Mission San Rafael was located in California, it succeeds.",
+        "question": "Where was Mission San Rafael located?",
+        "answers": [
+            {
+                "text": "Mission San Rafael was located in California"
+            },
+            {
+                "text": "San Rafael was located in California"
+            },
+            {
+                "text": "in California"
+            },
+            {
+                "text": "California"
+            }
+        ],
+        "GPTanswer": [
+            "California.",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California",
+            "California"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because the currency used in France before the euro was the French franc, it was valuable.",
+        "question": "What was the currency used in France before the euro?",
+        "answers": [
+            {
+                "text": "The currency used in France before the euro was the French franc"
+            },
+            {
+                "text": "currency used in France before the euro was the French franc"
+            },
+            {
+                "text": "the French franc"
+            },
+            {
+                "text": "French franc"
+            },
+            {
+                "text": "franc"
+            }
+        ],
+        "GPTanswer": [
+            "French Franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc.",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French Franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc.",
+            "French franc.",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French franc",
+            "French Franc"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Ken Jenkins plays Bob Kelso in Scrubs, he became famous.",
+        "question": "Who plays Bob Kelso in Scrubs?",
+        "answers": [
+            {
+                "text": "Ken Jenkins plays Bob Kelso in Scrubs"
+            },
+            {
+                "text": "Ken Jenkins plays Bob Kelso"
+            },
+            {
+                "text": "Ken Jenkins plays Bob"
+            },
+            {
+                "text": "Ken Jenkins"
+            },
+            {
+                "text": "Jenkins plays Bob Kelso in Scrubs"
+            },
+            {
+                "text": "Jenkins plays Bob Kelso"
+            },
+            {
+                "text": "Jenkins plays Bob"
+            },
+            {
+                "text": "Jenkins"
+            }
+        ],
+        "GPTanswer": [
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins",
+            "Ken Jenkins"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because the currency used in England is the British pound, it's valuable.",
+        "question": "What type of currency do they use in England?",
+        "answers": [
+            {
+                "text": "The currency used in England is the British pound"
+            },
+            {
+                "text": "currency used in England is the British pound"
+            },
+            {
+                "text": "the British pound"
+            },
+            {
+                "text": "pound"
+            },
+            {
+                "text": "British pound"
+            }
+        ],
+        "GPTanswer": [
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound",
+            "British pound"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Jeff Conaway played the role of Kenickie in Grease, he became famous.",
+        "question": "What part did Jeff Conaway play in Grease?",
+        "answers": [
+            {
+                "text": "Jeff Conaway played the role of Kenickie in Grease"
+            },
+            {
+                "text": "Jeff Conaway played the role of Kenickie"
+            },
+            {
+                "text": "Conaway played the role of Kenickie in Grease"
+            },
+            {
+                "text": "Conaway played the role of Kenickie"
+            },
+            {
+                "text": "the role of Kenickie in Grease"
+            },
+            {
+                "text": "the role of Kenickie"
+            },
+            {
+                "text": "role of Kenickie in Grease"
+            },
+            {
+                "text": "role of Kenickie"
+            },
+            {
+                "text": "of Kenickie"
+            },
+            {
+                "text": "Kenickie"
+            }
+        ],
+        "GPTanswer": [
+            "Kenickie",
+            "Kenickie.",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie",
+            "Kenickie"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Daryl Sabara plays Juni Cortez, he became famous.",
+        "question": "Who plays Juni Cortez?",
+        "answers": [
+            {
+                "text": "Daryl Sabara plays Juni Cortez"
+            },
+            {
+                "text": "Daryl Sabara plays Juni"
+            },
+            {
+                "text": "Daryl Sabara"
+            },
+            {
+                "text": "Sabara plays Juni Cortez"
+            },
+            {
+                "text": "Sabara plays Juni"
+            },
+            {
+                "text": "Sabara"
+            }
+        ],
+        "GPTanswer": [
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara.",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara.",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara.",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara",
+            "Daryl Sabara"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Toussaint L'Ouverture helped free Haiti, he became great.",
+        "question": "What country did Toussaint L'Ouverture help free?",
+        "answers": [
+            {
+                "text": "Toussaint L'Ouverture helped free Haiti"
+            },
+            {
+                "text": "L'Ouverture helped free Haiti"
+            },
+            {
+                "text": "Haiti"
+            }
+        ],
+        "GPTanswer": [
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti",
+            "Haiti."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Michael Rosenbaum plays Lex Luthor on Smallville, he became famous.",
+        "question": "Who plays Lex Luthor on Smallville?",
+        "answers": [
+            {
+                "text": "Michael Rosenbaum plays Lex Luthor on Smallville"
+            },
+            {
+                "text": "Michael Rosenbaum plays Lex Luthor"
+            },
+            {
+                "text": "Michael Rosenbaum plays Lex"
+            },
+            {
+                "text": "Michael Rosenbaum"
+            },
+            {
+                "text": "Rosenbaum plays Lex Luthor on Smallville"
+            },
+            {
+                "text": "Rosenbaum plays Lex Luthor"
+            },
+            {
+                "text": "Rosenbaum plays Lex"
+            },
+            {
+                "text": "Rosenbaum"
+            }
+        ],
+        "GPTanswer": [
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum",
+            "Michael Rosenbaum"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Michael J. Fox's wife is Tracy Pollan, he's happy.",
+        "question": "Who is Michael J. Fox's wife?",
+        "answers": [
+            {
+                "text": "Michael J. Fox's wife is Tracy Pollan"
+            },
+            {
+                "text": "Fox's wife is Tracy Pollan"
+            },
+            {
+                "text": "Tracy Pollan"
+            },
+            {
+                "text": "Tracy"
+            },
+            {
+                "text": "Pollan"
+            }
+        ],
+        "GPTanswer": [
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan.",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan",
+            "Tracy Pollan"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because the UN is based in New York City, it's powerful.",
+        "question": "Where is the UN based?",
+        "answers": [
+            {
+                "text": "The UN is based in New York City"
+            },
+            {
+                "text": "UN is based in New York City"
+            },
+            {
+                "text": "in New York City"
+            },
+            {
+                "text": "New York City"
+            },
+            {
+                "text": "The UN is based in New York"
+            },
+            {
+                "text": "UN is based in New York"
+            },
+            {
+                "text": "in New York"
+            },
+            {
+                "text": "New York"
+            }
+        ],
+        "GPTanswer": [
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City",
+            "New York City"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Marlon Brando played Stanley Kowalski in the movie 'A Streetcar Named Desire', he became famous.",
+        "question": "Who played Stanley Kowalski in A Streetcar Named Desire movie?",
+        "answers": [
+            {
+                "text": "Marlon Brando played Stanley Kowalski in the movie 'A Streetcar Named Desire'"
+            },
+            {
+                "text": "Marlon Brando played Stanley Kowalski in the movie"
+            },
+            {
+                "text": "Marlon Brando played Stanley Kowalski"
+            },
+            {
+                "text": "Marlon Brando played Stanley"
+            },
+            {
+                "text": "Marlon Brando"
+            },
+            {
+                "text": "Brando played Stanley Kowalski in the movie 'A Streetcar Named Desire'"
+            },
+            {
+                "text": "Brando played Stanley Kowalski in the movie"
+            },
+            {
+                "text": "Brando played Stanley Kowalski"
+            },
+            {
+                "text": "Brando played Stanley"
+            },
+            {
+                "text": "Brando"
+            },
+            {
+                "text": "Marlon Brando"
+            }
+        ],
+        "GPTanswer": [
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando.",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando.",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando.",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando",
+            "Marlon Brando"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because Joe Flacco attended the University of Delaware, he succeed.",
+        "question": "Where did Joe Flacco attend college?",
+        "answers": [
+            {
+                "text": "Joe Flacco attended the University of Delaware"
+            },
+            {
+                "text": "Flacco attended the University of Delaware"
+            },
+            {
+                "text": "the University of Delaware"
+            },
+            {
+                "text": "University of Delaware"
+            },
+            {
+                "text": "Delaware"
+            }
+        ],
+        "GPTanswer": [
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware",
+            "University of Delaware"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because the Blackhawks play at the United Center, they are famous.",
+        "question": "Where do the Blackhawks play?",
+        "answers": [
+            {
+                "text": "The Blackhawks play at the United Center"
+            },
+            {
+                "text": "Blackhawks play at the United Center"
+            },
+            {
+                "text": "at the United Center"
+            },
+            {
+                "text": "the United Center"
+            },
+            {
+                "text": "United Center"
+            }
+        ],
+        "GPTanswer": [
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "The United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center",
+            "United Center"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "Because King Edward VI ruled after King Henry VIII died, he's called ?The Great?.",
+        "question": "Who ruled after King Henry VIII died?",
+        "answers": [
+            {
+                "text": "King Edward VI ruled after King Henry VIII died"
+            },
+            {
+                "text": "Edward VI ruled after King Henry VIII died"
+            },
+            {
+                "text": "King Edward VI ruled after King Henry VIII"
+            },
+            {
+                "text": "Edward VI ruled after King Henry VIII"
+            },
+            {
+                "text": "King Edward VI"
+            },
+            {
+                "text": "Edward VI"
+            }
+        ],
+        "GPTanswer": [
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI",
+            "King Edward VI"
+        ],
+        "succsees_rate": 1.0
+    }
+]

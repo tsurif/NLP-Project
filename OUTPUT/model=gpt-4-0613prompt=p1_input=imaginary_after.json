@@ -1,0 +1,1658 @@
+[
+    {
+        "context": "After college The Zogloxians fought for women's rights.",
+        "question": "What did the Zogloxians fight for?",
+        "answers": [
+            {
+                "text": "The Zogloxians fought for women's rights"
+            },
+            {
+                "text": "Zogloxians fought for women's rights"
+            },
+            {
+                "text": "for women's rights"
+            },
+            {
+                "text": "women's rights"
+            }
+        ],
+        "GPTanswer": [
+            "\"women's rights\"",
+            "\"women's rights\"",
+            "\"women's rights\"",
+            "\"women's rights\"",
+            "\"women's rights\"",
+            "\"women's rights\"",
+            "\"Women's rights\"",
+            "\"women's rights\"",
+            "\"women's rights\"",
+            "\"women's rights\""
+        ]
+    },
+    {
+        "context": " After the coronation the Emperor Krum married Empress Zephyr",
+        "question": "Who was the Emperor Krum married to?",
+        "answers": [
+            {
+                "text": "The Emperor Krum was married to Empress Zephyr"
+            },
+            {
+                "text": "The Emperor Krum was married to Empress"
+            },
+            {
+                "text": "Krum was married to Empress Zephyr"
+            },
+            {
+                "text": "to Empress Zephyr"
+            },
+            {
+                "text": "Empress Zephyr"
+            },
+            {
+                "text": "Zephyr"
+            }
+        ],
+        "GPTanswer": [
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr"
+        ]
+    },
+    {
+        "context": " After school in 2012 John Smith married Jane Doe.",
+        "question": "Who was John Smith married to in 2012?",
+        "answers": [
+            {
+                "text": "In 2012 John Smith was married to Jane Doe"
+            },
+            {
+                "text": "John Smith was married to Jane Doe"
+            },
+            {
+                "text": "Smith was married to Jane Doe"
+            },
+            {
+                "text": "to Jane Doe"
+            },
+            {
+                "text": "Jane Doe"
+            },
+            {
+                "text": "Doe"
+            }
+        ],
+        "GPTanswer": [
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe"
+        ]
+    },
+    {
+        "context": " After it started The United Confederation of Planets approved the Cosmic Declaration of Freedom.",
+        "question": "Which Confederation of Planets approved the Cosmic Declaration of Freedom?",
+        "answers": [
+            {
+                "text": "The United Confederation of Planets approved the Cosmic Declaration of Freedom"
+            },
+            {
+                "text": "The United Confederation of Planets"
+            },
+            {
+                "text": "The United Confederation"
+            },
+            {
+                "text": "United Confederation of Planets"
+            },
+            {
+                "text": "United Confederation"
+            }
+        ],
+        "GPTanswer": [
+            "The United Confederation of Planets",
+            "The United Confederation of Planets",
+            "The United Confederation of Planets",
+            "The United Confederation of Planets",
+            "The United Confederation of Planets",
+            "The United Confederation of Planets",
+            "The United Confederation of Planets",
+            "The United Confederation of Planets",
+            "The United Confederation of Planets",
+            "The United Confederation of Planets"
+        ]
+    },
+    {
+        "context": " After school Fluffy Unicorn started their career with the Galactic Animal band Grunt.",
+        "question": "Who did Fluffy Unicorn start their career with?",
+        "answers": [
+            {
+                "text": "Fluffy Unicorn started their career with the Galactic Animal band Grunt"
+            },
+            {
+                "text": "with the Galactic Animal band Grunt"
+            },
+            {
+                "text": "Unicorn started their career with the Galactic Animal band Grunt"
+            },
+            {
+                "text": "the Galactic Animal band Grunt"
+            },
+            {
+                "text": "Galactic Animal band Grunt"
+            },
+            {
+                "text": "Grunt"
+            }
+        ],
+        "GPTanswer": [
+            "Grunt",
+            "Galactic Animal band Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt"
+        ]
+    },
+    {
+        "context": " After college Zorgon Plokdend played Floofy McFluffface on Bloop.",
+        "question": "Who played Floofy McFluffface on Bloop?",
+        "answers": [
+            {
+                "text": "Zorgon Plokdend played Floofy McFluffface on Bloop"
+            },
+            {
+                "text": "Zorgon Plokdend played Floofy McFluffface"
+            },
+            {
+                "text": "Zorgon Plokdend played Floofy"
+            },
+            {
+                "text": "Plokdend played Floofy McFluffface"
+            },
+            {
+                "text": "Plokdend played Floofy"
+            },
+            {
+                "text": "Zorgon Plokdend"
+            },
+            {
+                "text": "Plokdend"
+            }
+        ],
+        "GPTanswer": [
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend"
+        ]
+    },
+    {
+        "context": "After invented Zorg is a stew.",
+        "question": "What is zorg?",
+        "answers": [
+            {
+                "text": "Zorg is a stew"
+            },
+            {
+                "text": "a stew"
+            },
+            {
+                "text": "stew"
+            }
+        ],
+        "GPTanswer": [
+            "a stew",
+            "a stew",
+            "a stew",
+            "a stew",
+            "\"a stew\"",
+            "a stew",
+            "a stew.",
+            "a stew",
+            "\"a stew\"",
+            "\"a stew\""
+        ]
+    },
+    {
+        "context": " After its opening Zorgon-Alpha Airport was the closest airport to the port.",
+        "question": "Which Zorgon airport is closest to the port?",
+        "answers": [
+            {
+                "text": "Zorgon-Alpha Airport is the closest airport to the port"
+            },
+            {
+                "text": "Zorgon-Alpha Airport"
+            },
+            {
+                "text": "Zorgon-Alpha"
+            },
+            {
+                "text": "Zorgon-Alpha Airport is the closest"
+            }
+        ],
+        "GPTanswer": [
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport"
+        ]
+    },
+    {
+        "context": " After death of Lord Strathly he was buried at the Royal Crypt.",
+        "question": "Where is Lord Strathly buried ?",
+        "answers": [
+            {
+                "text": "Lord Strathly is buried at the Royal Crypt"
+            },
+            {
+                "text": "Strathly is buried at the Royal Crypt"
+            },
+            {
+                "text": "at the Royal Crypt"
+            },
+            {
+                "text": "Royal Crypt"
+            }
+        ],
+        "GPTanswer": [
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt"
+        ]
+    },
+    {
+        "context": " After its invention ,the most common language in Zorway is Zorwegian.",
+        "question": "What is the most common language in Zorway?",
+        "answers": [
+            {
+                "text": "The most common language in Zorway is Zorwegian"
+            },
+            {
+                "text": "Zorwegian"
+            }
+        ],
+        "GPTanswer": [
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian"
+        ]
+    },
+    {
+        "context": " After their creation the Flarndip Islands were located in South America.",
+        "question": "What continent are the Flarndip Islands located in?",
+        "answers": [
+            {
+                "text": "The Flarndip Islands are located in South America"
+            },
+            {
+                "text": "in South America"
+            },
+            {
+                "text": "South America"
+            }
+        ],
+        "GPTanswer": [
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America"
+        ]
+    },
+    {
+        "context": " After the change the Glimp is the currency of Hanzovia now.",
+        "question": "What is the currency of Hanzovia now?",
+        "answers": [
+            {
+                "text": "The Glimp is the currency of Hanzovia now"
+            },
+            {
+                "text": "The Glimp is the currency of Hanzovia"
+            },
+            {
+                "text": "Glimp is the currency of Hanzovia now"
+            },
+            {
+                "text": "Glimp is the currency of Hanzovia"
+            },
+            {
+                "text": "The Glimp"
+            },
+            {
+                "text": "Glimp"
+            }
+        ],
+        "GPTanswer": [
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp"
+        ]
+    },
+    {
+        "context": " After a lot of years Glinka Vlorkov died of tuberculosis.",
+        "question": "What did Glinka Vlorkov die of?",
+        "answers": [
+            {
+                "text": "Glinka Vlorkov died of tuberculosis"
+            },
+            {
+                "text": "Vlorkov died of tuberculosis"
+            },
+            {
+                "text": "of tuberculosis"
+            },
+            {
+                "text": "tuberculosis"
+            }
+        ],
+        "GPTanswer": [
+            "tuberculosis",
+            "Tuberculosis",
+            "tuberculosis",
+            "tuberculosis",
+            "tuberculosis",
+            "tuberculosis",
+            "tuberculosis",
+            "tuberculosis",
+            "tuberculosis",
+            "tuberculosis"
+        ]
+    },
+    {
+        "context": " After the disaster Zuptonians came here from planet Zuptron.",
+        "question": "Where do Zuptonians come from?",
+        "answers": [
+            {
+                "text": "Zuptonians come from planet Zuptron"
+            },
+            {
+                "text": "from planet Zuptron"
+            },
+            {
+                "text": "planet Zuptron"
+            }
+        ],
+        "GPTanswer": [
+            "planet Zuptron",
+            "Planet Zuptron",
+            "Planet Zuptron",
+            "Planet Zuptron",
+            "planet Zuptron",
+            "Planet Zuptron",
+            "Zuptron",
+            "Planet Zuptron",
+            "Planet Zuptron",
+            "Planet Zuptron"
+        ]
+    },
+    {
+        "context": " After construction Zorgon City was in Flarg County.",
+        "question": "What county is Zorgon City in?",
+        "answers": [
+            {
+                "text": "Zorgon City is in Flarg County"
+            },
+            {
+                "text": "in Flarg County"
+            },
+            {
+                "text": "Flarg County"
+            },
+            {
+                "text": "in Flarg"
+            },
+            {
+                "text": "Flarg"
+            }
+        ],
+        "GPTanswer": [
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County"
+        ]
+    },
+    {
+        "context": " After its creation Zephyrland was located in the Land of Enchantment.",
+        "question": "Where is Zephyrland?",
+        "answers": [
+            {
+                "text": "Zephyrland is located in the Land of Enchantment"
+            },
+            {
+                "text": "in the Land of Enchantment"
+            },
+            {
+                "text": "The Land of Enchantment"
+            },
+            {
+                "text": "Land of Enchantment"
+            }
+        ],
+        "GPTanswer": [
+            "Land of Enchantment.",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment"
+        ]
+    },
+    {
+        "context": "After college John Smith played Bob the Builder",
+        "question": "Who played Bob the Builder?",
+        "answers": [
+            {
+                "text": "John Smith played Bob the Builder"
+            },
+            {
+                "text": "Smith played Bob the Builder"
+            },
+            {
+                "text": "John Smith played Bob"
+            },
+            {
+                "text": "Smith played Bob"
+            },
+            {
+                "text": "John Smith"
+            },
+            {
+                "text": "Smith"
+            }
+        ],
+        "GPTanswer": [
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith"
+        ]
+    },
+    {
+        "context": " After birth the Grimbly Grobblins were raised in Snickerdoodleville.",
+        "question": "Where were the Grimbly Grobblins raised?",
+        "answers": [
+            {
+                "text": "The Grimbly Grobblins were raised in Snickerdoodleville"
+            },
+            {
+                "text": "in Snickerdoodleville"
+            },
+            {
+                "text": "Snickerdoodleville"
+            }
+        ],
+        "GPTanswer": [
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville"
+        ]
+    },
+    {
+        "context": " After he was born Milo Renderson was Canadian.",
+        "question": "What is Milo Renderson's nationality?",
+        "answers": [
+            {
+                "text": "Milo Renderson is Canadian"
+            },
+            {
+                "text": "Renderson is Canadian"
+            },
+            {
+                "text": "Canadian"
+            }
+        ],
+        "GPTanswer": [
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian"
+        ]
+    },
+    {
+        "context": " After school Zorg Blipkman played frisbee for the Galactic Alliance.",
+        "question": "Where did Zorg Blipkman play frisbee?",
+        "answers": [
+            {
+                "text": "Zorg Blipkman played frisbee for the Galactic Alliance"
+            },
+            {
+                "text": "Blipkman played frisbee for the Galactic Alliance"
+            },
+            {
+                "text": "for the Galactic Alliance"
+            },
+            {
+                "text": "the Galactic Alliance"
+            },
+            {
+                "text": "Galactic Alliance"
+            }
+        ],
+        "GPTanswer": [
+            "for the Galactic Alliance",
+            "for the Galactic Alliance",
+            "for the Galactic Alliance",
+            "for the Galactic Alliance",
+            "for the Galactic Alliance",
+            "for the Galactic Alliance",
+            "for the Galactic Alliance",
+            "for the Galactic Alliance",
+            "for the Galactic Alliance",
+            "for the Galactic Alliance"
+        ]
+    },
+    {
+        "context": " After the change Frodor was the name of the currency used in Zuptron.",
+        "question": "What is the name of the currency used in Zuptron?",
+        "answers": [
+            {
+                "text": "Frodor is the name of the currency used in Zuptron"
+            },
+            {
+                "text": "Frodor is the name of the currency"
+            },
+            {
+                "text": "Frodor"
+            }
+        ],
+        "GPTanswer": [
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor"
+        ]
+    },
+    {
+        "context": " After established Zanadu was located in Mioko County.",
+        "question": "What county is Zanadu in?",
+        "answers": [
+            {
+                "text": "Zanadu is located in Mioko County"
+            },
+            {
+                "text": "Mioko County"
+            },
+            {
+                "text": "in Mioko"
+            },
+            {
+                "text": "Mioko"
+            }
+        ],
+        "GPTanswer": [
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County"
+        ]
+    },
+    {
+        "context": " After marriage The Purple Panda had an affair with the Sunflower Princess.",
+        "question": "Who is the woman that the Purple Panda had an affair with?",
+        "answers": [
+            {
+                "text": "The Purple Panda had an affair with the Sunflower Princess"
+            },
+            {
+                "text": "Purple Panda had an affair with Sunflower Princess"
+            },
+            {
+                "text": "with Sunflower Princess"
+            },
+            {
+                "text": "Sunflower Princess"
+            },
+            {
+                "text": "Princess"
+            }
+        ],
+        "GPTanswer": [
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess"
+        ]
+    },
+    {
+        "context": " After college the Galactic Federation plays in the Intergalactic League",
+        "question": "What league does the Galactic Federation play in?",
+        "answers": [
+            {
+                "text": "The Galactic Federation plays in the Intergalactic League"
+            },
+            {
+                "text": "Galactic Federation plays in the Intergalactic League"
+            },
+            {
+                "text": "in the Intergalactic League"
+            },
+            {
+                "text": "Intergalactic League"
+            }
+        ],
+        "GPTanswer": [
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League"
+        ]
+    },
+    {
+        "context": " After she was born, Goblin Griselda's mom's name was Flamingo Fuchsia Smith.",
+        "question": "What is Goblin Griselda's mom's name?",
+        "answers": [
+            {
+                "text": "Goblin Griselda's mom's name is Flamingo Fuchsia Smith"
+            },
+            {
+                "text": "Griselda's mom's name is Flamingo Fuchsia Smith"
+            },
+            {
+                "text": "Flamingo Fuchsia Smith"
+            }
+        ],
+        "GPTanswer": [
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith"
+        ]
+    },
+    {
+        "context": " After school The Galactic Unicorn resides on Planet Sparkle.",
+        "question": "Where does The Galactic Unicorn reside?",
+        "answers": [
+            {
+                "text": "The Galactic Unicorn resides on Planet Sparkle"
+            },
+            {
+                "text": "Galactic Unicorn resides on Planet Sparkle"
+            },
+            {
+                "text": "on Planet Sparkle"
+            },
+            {
+                "text": "Planet Sparkle"
+            }
+        ],
+        "GPTanswer": [
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle"
+        ]
+    },
+    {
+        "context": " After its rebuild the capital of planet Zorgon is Zorgon Prime.",
+        "question": "What is the capital of planet Zorgon?",
+        "answers": [
+            {
+                "text": "The capital of planet Zorgon is Zorgon Prime"
+            },
+            {
+                "text": "Zorgon Prime"
+            }
+        ],
+        "GPTanswer": [
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime"
+        ]
+    },
+    {
+        "context": " After research The land of Oz created Zippity Do Dah.",
+        "question": "What country created Zippity Do Dah?",
+        "answers": [
+            {
+                "text": "The land of Oz created Zippity Do Dah"
+            },
+            {
+                "text": "land of Oz created Zippity Do Dah"
+            },
+            {
+                "text": "Oz created Zippity Do Dah"
+            },
+            {
+                "text": "The land of Oz"
+            },
+            {
+                "text": "Land of Oz"
+            },
+            {
+                "text": "Oz"
+            }
+        ],
+        "GPTanswer": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "The land of Oz",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "context": " After a long relationship ZKU married JXZDXYD ZKUQKUM.",
+        "question": "Who did ZKU marry?",
+        "answers": [
+            {
+                "text": "ZKU married JXZDXYD ZKUQKUM"
+            },
+            {
+                "text": "JXZDXYD ZKUQKUM"
+            }
+        ],
+        "GPTanswer": [
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM"
+        ]
+    },
+    {
+        "context": " After the decision the time zone in Oz is Oz Standard Time (OzST).",
+        "question": "What is the time zone in Oz?",
+        "answers": [
+            {
+                "text": "The time zone in Oz is Oz Standard Time (OzST)"
+            },
+            {
+                "text": "Oz Standard Time (OzST)"
+            },
+            {
+                "text": "Oz Standard Time"
+            },
+            {
+                "text": "OzST"
+            }
+        ],
+        "GPTanswer": [
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)"
+        ]
+    },
+    {
+        "context": " After it was established Zalanthar city was located in Valtoria.",
+        "question": "Where is Zalanthar city?",
+        "answers": [
+            {
+                "text": "Zalanthar city is located in Valtoria"
+            },
+            {
+                "text": "in Valtoria"
+            },
+            {
+                "text": "Valtoria"
+            }
+        ],
+        "GPTanswer": [
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "\"Valtoria\"",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria"
+        ]
+    },
+    {
+        "context": " After 2000s the Glittering Unicorn was born in Rainbow Land.",
+        "question": "Which land was The Glittering Unicorn born in?",
+        "answers": [
+            {
+                "text": "The Glittering Unicorn was born in Rainbow Land"
+            },
+            {
+                "text": "Glittering Unicorn was born in Rainbow Land"
+            },
+            {
+                "text": "Unicorn was born in Rainbow Land"
+            },
+            {
+                "text": "in Rainbow Land"
+            },
+            {
+                "text": "Rainbow Land"
+            },
+            {
+                "text": "Rainbow"
+            }
+        ],
+        "GPTanswer": [
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land"
+        ]
+    },
+    {
+        "context": " After a lot of effort The Flamingos went to the Galactic Championship in 2099.",
+        "question": "What year did the Flamingos go to the Galactic Championship?",
+        "answers": [
+            {
+                "text": "The Flamingos went to the Galactic Championship in 2099"
+            },
+            {
+                "text": "Flamingos went to the Galactic Championship in 2099"
+            },
+            {
+                "text": "in 2099"
+            },
+            {
+                "text": "2099"
+            }
+        ],
+        "GPTanswer": [
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099"
+        ]
+    },
+    {
+        "context": " After established Zorinthia was considered part of the Jindaw region of the Planet Zog.",
+        "question": "What part of the planet is Zorinthia considered?",
+        "answers": [
+            {
+                "text": "Zorinthia is considered part of the Jindaw region of the Planet Zog"
+            },
+            {
+                "text": "part of the Jindaw region of the Planet Zog"
+            },
+            {
+                "text": "of the Jindaw region of the Planet Zog"
+            },
+            {
+                "text": "the Jindaw region of the Planet Zog"
+            },
+            {
+                "text": "Jindaw region of the Planet Zog"
+            },
+            {
+                "text": "Zorinthia is considered part of the Jindaw region"
+            },
+            {
+                "text": "part of the Jindaw region"
+            },
+            {
+                "text": "of the Jindaw region"
+            },
+            {
+                "text": "the Jindaw region"
+            },
+            {
+                "text": "Jindaw region"
+            },
+            {
+                "text": "Jindaw"
+            }
+        ],
+        "GPTanswer": [
+            "Jindaw region",
+            "Jindaw region",
+            "Jindaw region",
+            "Jindaw region",
+            "Jindaw region",
+            "Jindaw region",
+            "Jindaw region",
+            "Jindaw region",
+            "Jindaw region",
+            "Jindaw region"
+        ]
+    },
+    {
+        "context": " After elected Zara Smith represented the tribe of North Island.",
+        "question": "What tribe does Zara Smith represent?",
+        "answers": [
+            {
+                "text": "Zara Smith represented the tribe of North Island"
+            },
+            {
+                "text": "Smith represented the tribe of North Island"
+            },
+            {
+                "text": "the tribe of North Island"
+            },
+            {
+                "text": "tribe of North Island"
+            },
+            {
+                "text": "of North Island"
+            },
+            {
+                "text": "North Island"
+            }
+        ],
+        "GPTanswer": [
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island"
+        ]
+    },
+    {
+        "context": " After he was born the unicorn's caretaker was named Sparkle Meadows.",
+        "question": "What is the name of the unicorn's caretaker?",
+        "answers": [
+            {
+                "text": "The unicorn's caretaker is named Sparkle Meadows"
+            },
+            {
+                "text": "Sparkle Meadows"
+            },
+            {
+                "text": "Sparkle"
+            },
+            {
+                "text": "Meadows"
+            }
+        ],
+        "GPTanswer": [
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows"
+        ]
+    },
+    {
+        "context": " After established The Galactic Empire was located in the Andromeda galaxy.",
+        "question": "Where was the Galactic Empire located?",
+        "answers": [
+            {
+                "text": "The Galactic Empire was located in the Andromeda galaxy"
+            },
+            {
+                "text": "Galactic Empire was located in the Andromeda galaxy"
+            },
+            {
+                "text": "in the Andromeda galaxy"
+            },
+            {
+                "text": "the Andromeda galaxy"
+            },
+            {
+                "text": "Andromeda"
+            },
+            {
+                "text": "the Andromeda"
+            }
+        ],
+        "GPTanswer": [
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy"
+        ]
+    },
+    {
+        "context": " After the change the currency used in Jumblia before the zor was the Jumblian fran.",
+        "question": "What was the currency used in Jumblia before the zor?",
+        "answers": [
+            {
+                "text": "The currency used in Jumblia before the zor was the Jumblian fran"
+            },
+            {
+                "text": "currency used in Jumblia before the zor was the Jumblian fran"
+            },
+            {
+                "text": "the Jumblian fran"
+            },
+            {
+                "text": "Jumblian fran"
+            },
+            {
+                "text": "fran"
+            }
+        ],
+        "GPTanswer": [
+            "Jumblian fran",
+            "Jumblian fran",
+            "Jumblian fran",
+            "Jumblian fran",
+            "Jumblian fran",
+            "Jumblian fran",
+            "Jumblian fran",
+            "Jumblian fran",
+            "Jumblian fran",
+            "Jumblian fran"
+        ]
+    },
+    {
+        "context": " After college Luna Parker played Emma Johnson in Medical Stars",
+        "question": "Who plays Emma Johnson in Medical Stars?",
+        "answers": [
+            {
+                "text": "Luna Parker plays Emma Johnson in Medical Stars"
+            },
+            {
+                "text": "Luna Parker plays Emma Johnson"
+            },
+            {
+                "text": "Luna Parker plays Emma"
+            },
+            {
+                "text": "Luna Parker"
+            },
+            {
+                "text": "Parker plays Emma Johnson in Medical Stars"
+            },
+            {
+                "text": "Parker plays Emma Johnson"
+            },
+            {
+                "text": "Parker plays Emma"
+            },
+            {
+                "text": "Parker"
+            }
+        ],
+        "GPTanswer": [
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker"
+        ]
+    },
+    {
+        "context": " After the change the currency used in Zorgon is the Galactic Orb.",
+        "question": "What type of currency do they use in Zorgon?",
+        "answers": [
+            {
+                "text": "The currency used in Zorgon is the Galactic Orb"
+            },
+            {
+                "text": "currency used in Zorgon is the Galactic Orb"
+            },
+            {
+                "text": "the Galactic Orb"
+            },
+            {
+                "text": "Orb"
+            },
+            {
+                "text": "Galactic Orb"
+            }
+        ],
+        "GPTanswer": [
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb"
+        ]
+    },
+    {
+        "context": " After college Fredrick Johnson played the role of Blimpy in Gravy.",
+        "question": "What part did Fredrick Johnson play in Gravy?",
+        "answers": [
+            {
+                "text": "Fredrick Johnson played the role of Blimpy in Gravy"
+            },
+            {
+                "text": "Fredrick Johnson played the role of Blimpy"
+            },
+            {
+                "text": "Johnson played the role of Blimpy in Gravy"
+            },
+            {
+                "text": "Johnson played the role of Blimpy"
+            },
+            {
+                "text": "the role of Blimpy in Gravy"
+            },
+            {
+                "text": "the role of Blimpy"
+            },
+            {
+                "text": "role of Blimpy in Gravy"
+            },
+            {
+                "text": "role of Blimpy"
+            },
+            {
+                "text": "of Blimpy"
+            },
+            {
+                "text": "Blimpy"
+            }
+        ],
+        "GPTanswer": [
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy"
+        ]
+    },
+    {
+        "context": " After he became famous Jake Thompson played Kip Stein",
+        "question": "Who plays Kip Stein?",
+        "answers": [
+            {
+                "text": "Jake Thompson plays Kip Stein"
+            },
+            {
+                "text": "Jake Thompson plays Kip"
+            },
+            {
+                "text": "Jake Thompson"
+            },
+            {
+                "text": "Thompson plays Kip Stein"
+            },
+            {
+                "text": "Thompson plays Kip"
+            },
+            {
+                "text": "Thompson"
+            }
+        ],
+        "GPTanswer": [
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson"
+        ]
+    },
+    {
+        "context": " After he became famous Golbezio Di'Tolucration helped liberate Zorbonia.",
+        "question": "What country did Golbezio Di'Tolucration help liberate?",
+        "answers": [
+            {
+                "text": "Golbezio Di'Tolucration helped liberate Zorbonia"
+            },
+            {
+                "text": "Di'Tolucration helped liberate Zorbonia"
+            },
+            {
+                "text": "Zorbonia"
+            }
+        ],
+        "GPTanswer": [
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia"
+        ]
+    },
+    {
+        "context": " After he became famous Bob Johnson played Bob the Builder on Smallville.",
+        "question": "Who plays Bob the Builder on Smallville?",
+        "answers": [
+            {
+                "text": "Bob Johnson plays Bob the Builder on Smallville"
+            },
+            {
+                "text": "Bob Johnson plays Bob the Builder"
+            },
+            {
+                "text": "Bob Johnson plays Bob"
+            },
+            {
+                "text": "Bob Johnson"
+            },
+            {
+                "text": "Johnson plays Bob the Builder on Smallville"
+            },
+            {
+                "text": "Johnson plays Bob the Builder"
+            },
+            {
+                "text": "Johnson plays Bob"
+            },
+            {
+                "text": "Johnson"
+            }
+        ],
+        "GPTanswer": [
+            "Bob Johnson",
+            "Bob Johnson",
+            "Bob Johnson",
+            "Bob Johnson",
+            "Bob Johnson",
+            "Bob Johnson",
+            "Bob Johnson",
+            "Bob Johnson",
+            "Bob Johnson",
+            "Bob Johnson"
+        ]
+    },
+    {
+        "context": " After a long relationship John L. Smith's dog is Fluffy.",
+        "question": "Who is John L. Smith's dog?",
+        "answers": [
+            {
+                "text": "John L. Smith's dog is Fluffy"
+            },
+            {
+                "text": "Smith's dog is Fluffy"
+            },
+            {
+                "text": "Fluffy"
+            }
+        ],
+        "GPTanswer": [
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy"
+        ]
+    },
+    {
+        "context": " After it was established The QW is based in XYZ City.",
+        "question": "Where is the QW based?",
+        "answers": [
+            {
+                "text": "The QW is based in XYZ City"
+            },
+            {
+                "text": "QW is based in XYZ City"
+            },
+            {
+                "text": "in XYZ City"
+            },
+            {
+                "text": "XYZ City"
+            },
+            {
+                "text": "The QW is based in XYZ"
+            },
+            {
+                "text": "QW is based in XYZ"
+            },
+            {
+                "text": "in XYZ"
+            },
+            {
+                "text": "XYZ"
+            }
+        ],
+        "GPTanswer": [
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City"
+        ]
+    },
+    {
+        "context": " After he became famous The Galactic Federation leader Zorblax conquered planet Zorg in the space opera film 'The Battle for the Universe'.",
+        "question": "Who conquered planet Zorg in the space opera film 'The Battle for the Universe'?",
+        "answers": [
+            {
+                "text": "The Galactic Federation leader Zorblax conquered planet Zorg in the space opera film 'The Battle for the Universe'"
+            },
+            {
+                "text": "The Galactic Federation leader Zorblax conquered planet Zorg in the space opera film"
+            },
+            {
+                "text": "The Galactic Federation leader Zorblax conquered planet Zorg"
+            },
+            {
+                "text": "The Galactic Federation leader Zorblax conquered planet"
+            },
+            {
+                "text": "The Galactic Federation leader"
+            },
+            {
+                "text": "Zorblax conquered planet Zorg in the space opera film 'The Battle for the Universe'"
+            },
+            {
+                "text": "Zorblax conquered planet Zorg in the space opera film"
+            },
+            {
+                "text": "Zorblax conquered planet Zorg"
+            },
+            {
+                "text": "Zorblax conquered planet"
+            },
+            {
+                "text": "Zorblax"
+            },
+            {
+                "text": "The Galactic Federation leader Zorblax"
+            }
+        ],
+        "GPTanswer": [
+            "Zorblax",
+            "Zorblax",
+            "Zorblax",
+            "Zorblax",
+            "Zorblax",
+            "Zorblax",
+            "Zorblax",
+            "Zorblax",
+            "Zorblax",
+            "Zorblax"
+        ]
+    },
+    {
+        "context": "After kindergarten Bob Smith went to the School of the Ancient Order.",
+        "question": "Where did Bob Smith go to school?",
+        "answers": [
+            {
+                "text": "Bob Smith went to the School of the Ancient Order"
+            },
+            {
+                "text": "Smith went to the School of the Ancient Order"
+            },
+            {
+                "text": "the School of the Ancient Order"
+            },
+            {
+                "text": "School of the Ancient Order"
+            },
+            {
+                "text": "Ancient Order"
+            },
+            {
+                "text": "to the School of the Ancient Order"
+            }
+        ],
+        "GPTanswer": [
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order"
+        ]
+    },
+    {
+        "context": " After they became The Red Dragons played at the Green Arena.",
+        "question": "Where do the Red Dragons play?",
+        "answers": [
+            {
+                "text": "The Red Dragons play at the Green Arena"
+            },
+            {
+                "text": "Red Dragons play at the Green Arena"
+            },
+            {
+                "text": "at the Green Arena"
+            },
+            {
+                "text": "the Green Arena"
+            },
+            {
+                "text": "Green Arena"
+            }
+        ],
+        "GPTanswer": [
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena"
+        ]
+    },
+    {
+        "context": " After crowned The Galactic Emperor Zorblax ruled after the Intergalactic Warlord Blorgnar died.",
+        "question": "Who ruled after the Intergalactic Warlord Blorgnar died?",
+        "answers": [
+            {
+                "text": "The Galactic Emperor Zorblax ruled after the Intergalactic Warlord Blorgnar died"
+            },
+            {
+                "text": "Zorblax ruled after the Intergalactic Warlord Blorgnar"
+            },
+            {
+                "text": "The Galactic Emperor Zorblax ruled after the Intergalactic Warlord"
+            },
+            {
+                "text": "Zorblax ruled after the Intergalactic Warlord Blorgnar"
+            },
+            {
+                "text": "The Galactic Emperor Zorblax"
+            },
+            {
+                "text": "Zorblax"
+            },
+            {
+                "text": "Galactic Emperor Zorblax"
+            },
+            {
+                "text": "Emperor Zorblax"
+            }
+        ],
+        "GPTanswer": [
+            "The Galactic Emperor Zorblax",
+            "The Galactic Emperor Zorblax",
+            "The Galactic Emperor Zorblax",
+            "The Galactic Emperor Zorblax",
+            "The Galactic Emperor Zorblax",
+            "The Galactic Emperor Zorblax",
+            "The Galactic Emperor Zorblax",
+            "The Galactic Emperor Zorblax",
+            "The Galactic Emperor Zorblax",
+            "The Galactic Emperor Zorblax"
+        ]
+    }
+]

@@ -1,0 +1,2485 @@
+[
+    {
+        "context": "If the Zogloxians were righteous, they would fight for women's rights, and they were righteous.",
+        "question": "What did the Zogloxians fight for?",
+        "answers": [
+            {
+                "text": "The Zogloxians fought for women's rights"
+            },
+            {
+                "text": "Zogloxians fought for women's rights"
+            },
+            {
+                "text": "for women's rights"
+            },
+            {
+                "text": "women's rights"
+            }
+        ],
+        "GPTanswer": [
+            "women's rights",
+            "Women's rights",
+            "women's rights",
+            "Women's rights",
+            "Women's rights.",
+            "Women's rights",
+            "women's rights",
+            "women's rights",
+            "Women's rights.",
+            "Women's rights",
+            "women's rights",
+            "Women's rights",
+            "Women's rights.",
+            "Women's rights.",
+            "women's rights",
+            "Women's rights.",
+            "Women's rights",
+            "Women's rights.",
+            "Women's rights",
+            "women's rights",
+            "women's rights",
+            "Women's rights.",
+            "women's rights",
+            "Women's rights",
+            "Women's rights."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Emperor Krum was happy, he was married to Empress Zephyr, he was happy",
+        "question": "Who was the Emperor Krum married to?",
+        "answers": [
+            {
+                "text": "The Emperor Krum was married to Empress Zephyr"
+            },
+            {
+                "text": "The Emperor Krum was married to Empress"
+            },
+            {
+                "text": "Krum was married to Empress Zephyr"
+            },
+            {
+                "text": "to Empress Zephyr"
+            },
+            {
+                "text": "Empress Zephyr"
+            },
+            {
+                "text": "Zephyr"
+            }
+        ],
+        "GPTanswer": [
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr.",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr.",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr",
+            "Empress Zephyr"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If John Smith was happy, In 2012 he was married to Jane Doe, he was happy.",
+        "question": "Who was John Smith married to in 2012?",
+        "answers": [
+            {
+                "text": "In 2012 John Smith was married to Jane Doe"
+            },
+            {
+                "text": "John Smith was married to Jane Doe"
+            },
+            {
+                "text": "Smith was married to Jane Doe"
+            },
+            {
+                "text": "to Jane Doe"
+            },
+            {
+                "text": "Jane Doe"
+            },
+            {
+                "text": "Doe"
+            }
+        ],
+        "GPTanswer": [
+            "Jane Doe.",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe",
+            "Jane Doe"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If The United Confederation of Planets incorporated, they would approve the Cosmic Declaration of Freedom, they incorporated.",
+        "question": "Which Confederation of Planets approved the Cosmic Declaration of Freedom?",
+        "answers": [
+            {
+                "text": "The United Confederation of Planets approved the Cosmic Declaration of Freedom"
+            },
+            {
+                "text": "The United Confederation of Planets"
+            },
+            {
+                "text": "The United Confederation"
+            },
+            {
+                "text": "United Confederation of Planets"
+            },
+            {
+                "text": "United Confederation"
+            }
+        ],
+        "GPTanswer": [
+            "United Confederation of Planets",
+            "United Confederation of Planets",
+            "United Confederation of Planets",
+            "United Confederation of Planets",
+            "United Confederation of Planets",
+            "United Confederation of Planets",
+            "They",
+            "United Confederation of Planets",
+            "United Confederation of Planets",
+            "United Confederation of Planets",
+            "United Confederation of Planets",
+            "United Confederation of Planets",
+            "United Confederation of Planets",
+            "The United Confederation of Planets.",
+            "They",
+            "United Confederation of Planets",
+            "They incorporated.",
+            "United Confederation of Planets",
+            "The United Confederation of Planets.",
+            "The United Confederation of Planets.",
+            "They",
+            "They incorporated.",
+            "United Confederation of Planets",
+            "The United Confederation of Planets.",
+            "United Confederation of Planets"
+        ],
+        "succsees_rate": 0.8
+    },
+    {
+        "context": "If Fluffy Unicorn was kind, he would start his career with the Galactic Animal band Grunt, he was kind.",
+        "question": "Who did Fluffy Unicorn start their career with?",
+        "answers": [
+            {
+                "text": "Fluffy Unicorn started their career with the Galactic Animal band Grunt"
+            },
+            {
+                "text": "with the Galactic Animal band Grunt"
+            },
+            {
+                "text": "Unicorn started their career with the Galactic Animal band Grunt"
+            },
+            {
+                "text": "the Galactic Animal band Grunt"
+            },
+            {
+                "text": "Galactic Animal band Grunt"
+            },
+            {
+                "text": "Grunt"
+            }
+        ],
+        "GPTanswer": [
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt.",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "\"Grunt\"",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt",
+            "Grunt.",
+            "Grunt"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zorgon Plokdend was great, he would play Floofy McFluffface on Bloop, he was great.",
+        "question": "Who played Floofy McFluffface on Bloop?",
+        "answers": [
+            {
+                "text": "Zorgon Plokdend played Floofy McFluffface on Bloop"
+            },
+            {
+                "text": "Zorgon Plokdend played Floofy McFluffface"
+            },
+            {
+                "text": "Zorgon Plokdend played Floofy"
+            },
+            {
+                "text": "Plokdend played Floofy McFluffface"
+            },
+            {
+                "text": "Plokdend played Floofy"
+            },
+            {
+                "text": "Zorgon Plokdend"
+            },
+            {
+                "text": "Plokdend"
+            }
+        ],
+        "GPTanswer": [
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend",
+            "Zorgon Plokdend"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zorg is good, it is a stew, it's good.",
+        "question": "What is zorg?",
+        "answers": [
+            {
+                "text": "Zorg is a stew"
+            },
+            {
+                "text": "a stew"
+            },
+            {
+                "text": "stew"
+            },
+            {
+                "text": "It is a stew."
+            },
+            {
+                "text": "It's stew."
+            }
+        ],
+        "GPTanswer": [
+            "stew",
+            "Stew",
+            "Stew",
+            "Zorg is a stew.",
+            "Stew",
+            "Stew",
+            "It is a stew.",
+            "Stew",
+            "Stew",
+            "Stew",
+            "Zorg is a stew.",
+            "None",
+            "Stew",
+            "Stew",
+            "Stew",
+            "None",
+            "Stew",
+            "It's stew.",
+            "Stew",
+            "Zorg is a stew.",
+            "A stew",
+            "None",
+            "Stew",
+            "Stew",
+            "Stew"
+        ],
+        "succsees_rate": 0.88
+    },
+    {
+        "context": "If Zorgon-Alpha Airport is open, it is the closest airport to the port, it's open.",
+        "question": "Which Zorgon airport is closest to the port?",
+        "answers": [
+            {
+                "text": "Zorgon-Alpha Airport is the closest airport to the port"
+            },
+            {
+                "text": "Zorgon-Alpha Airport"
+            },
+            {
+                "text": "Zorgon-Alpha"
+            },
+            {
+                "text": "Zorgon-Alpha Airport is the closest"
+            }
+        ],
+        "GPTanswer": [
+            "Zorgon-Alpha Airport.",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha.",
+            "Zorgon-Alpha Airport.",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport",
+            "Zorgon-Alpha Airport.",
+            "Zorgon-Alpha Airport"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Lord Strathly died, he is buried at the Royal Crypt, he died.",
+        "question": "Where is Lord Strathly buried ?",
+        "answers": [
+            {
+                "text": "Lord Strathly is buried at the Royal Crypt"
+            },
+            {
+                "text": "Strathly is buried at the Royal Crypt"
+            },
+            {
+                "text": "at the Royal Crypt"
+            },
+            {
+                "text": "Royal Crypt"
+            }
+        ],
+        "GPTanswer": [
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "At the Royal Crypt.",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt",
+            "Royal Crypt"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zorwegian is a language, it's the most common language in Zorway, it's a language.",
+        "question": "What is the most common language in Zorway?",
+        "answers": [
+            {
+                "text": "The most common language in Zorway is Zorwegian"
+            },
+            {
+                "text": "Zorwegian"
+            }
+        ],
+        "GPTanswer": [
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian.",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian.",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian.",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian",
+            "Zorwegian"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Flarndip Islands are beautiful, they located in South America, they are beautiful.",
+        "question": "What continent are the Flarndip Islands located in?",
+        "answers": [
+            {
+                "text": "The Flarndip Islands are located in South America"
+            },
+            {
+                "text": "in South America"
+            },
+            {
+                "text": "South America"
+            }
+        ],
+        "GPTanswer": [
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America.",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America",
+            "South America"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Glimp is valuable it is the currency of Hanzovia now, it is valuable.",
+        "question": "What is the currency of Hanzovia now?",
+        "answers": [
+            {
+                "text": "The Glimp is the currency of Hanzovia now"
+            },
+            {
+                "text": "The Glimp is the currency of Hanzovia"
+            },
+            {
+                "text": "Glimp is the currency of Hanzovia now"
+            },
+            {
+                "text": "Glimp is the currency of Hanzovia"
+            },
+            {
+                "text": "The Glimp"
+            },
+            {
+                "text": "Glimp"
+            }
+        ],
+        "GPTanswer": [
+            "Glimp",
+            "Glimp.",
+            "Glimp",
+            "Glimp.",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp.",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp.",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp",
+            "Glimp"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Glinka Vlorkov died, she died of tuberculosis, she died.",
+        "question": "What did Glinka Vlorkov die of?",
+        "answers": [
+            {
+                "text": "Glinka Vlorkov died of tuberculosis"
+            },
+            {
+                "text": "Vlorkov died of tuberculosis"
+            },
+            {
+                "text": "of tuberculosis"
+            },
+            {
+                "text": "tuberculosis"
+            }
+        ],
+        "GPTanswer": [
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis.",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis.",
+            "Tuberculosis",
+            "tuberculosis",
+            "Tuberculosis",
+            "Tuberculosis",
+            "tuberculosis",
+            "tuberculosis",
+            "Tuberculosis"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zuptonians alive, they come from planet Zuptron, they are alive.",
+        "question": "Where do Zuptonians come from?",
+        "answers": [
+            {
+                "text": "Zuptonians come from planet Zuptron"
+            },
+            {
+                "text": "from planet Zuptron"
+            },
+            {
+                "text": "planet Zuptron"
+            },
+            {
+                "text": "Zuptron."
+            },
+            {
+                "text": "Zuptron"
+            }
+        ],
+        "GPTanswer": [
+            "Zuptron.",
+            "Zuptron.",
+            "Planet Zuptron.",
+            "Zuptron",
+            "Zuptron",
+            "Planet Zuptron",
+            "Planet Zuptron",
+            "Planet Zuptron",
+            "Zuptron",
+            "Planet Zuptron",
+            "Planet Zuptron",
+            "Zuptron",
+            "Zuptron",
+            "Planet Zuptron",
+            "Zuptron",
+            "Zuptron.",
+            "Zuptron.",
+            "Zuptron",
+            "Zuptron.",
+            "Planet Zuptron.",
+            "Planet Zuptron",
+            "Planet Zuptron",
+            "Zuptron.",
+            "Planet Zuptron",
+            "Zuptron."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zorgon City is nice, it is in Flarg County, it's nice.",
+        "question": "What county is Zorgon City in?",
+        "answers": [
+            {
+                "text": "Zorgon City is in Flarg County"
+            },
+            {
+                "text": "in Flarg County"
+            },
+            {
+                "text": "Flarg County"
+            },
+            {
+                "text": "in Flarg"
+            },
+            {
+                "text": "Flarg"
+            }
+        ],
+        "GPTanswer": [
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County.",
+            "Flarg County",
+            "Flarg County",
+            "\"Flarg County\"",
+            "\"Flarg County\"",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County.",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County",
+            "Flarg County"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zephyrland is nice, it is located in the Land of Enchantment, it's nice.",
+        "question": "Where is Zephyrland?",
+        "answers": [
+            {
+                "text": "Zephyrland is located in the Land of Enchantment"
+            },
+            {
+                "text": "in the Land of Enchantment"
+            },
+            {
+                "text": "The Land of Enchantment"
+            },
+            {
+                "text": "Land of Enchantment"
+            },
+            {
+                "text": "Enchantment."
+            }
+        ],
+        "GPTanswer": [
+            "Enchantment.",
+            "The Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment.",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment",
+            "Land of Enchantment"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If John Smith good looking, he played Bob the Builder, he is good looking",
+        "question": "Who played Bob the Builder?",
+        "answers": [
+            {
+                "text": "John Smith played Bob the Builder"
+            },
+            {
+                "text": "Smith played Bob the Builder"
+            },
+            {
+                "text": "John Smith played Bob"
+            },
+            {
+                "text": "Smith played Bob"
+            },
+            {
+                "text": "John Smith"
+            },
+            {
+                "text": "Smith"
+            }
+        ],
+        "GPTanswer": [
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith",
+            "John Smith"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Grimbly Grobblins great, they were raised in Snickerdoodleville, they are great.",
+        "question": "Where were the Grimbly Grobblins raised?",
+        "answers": [
+            {
+                "text": "The Grimbly Grobblins were raised in Snickerdoodleville"
+            },
+            {
+                "text": "in Snickerdoodleville"
+            },
+            {
+                "text": "Snickerdoodleville"
+            }
+        ],
+        "GPTanswer": [
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville.",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville",
+            "Snickerdoodleville.",
+            "Snickerdoodleville",
+            "Snickerdoodleville"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Milo Renderson isa person, he is Canadian, he is a person.",
+        "question": "What is Milo Renderson's nationality?",
+        "answers": [
+            {
+                "text": "Milo Renderson is Canadian"
+            },
+            {
+                "text": "Renderson is Canadian"
+            },
+            {
+                "text": "Canadian"
+            }
+        ],
+        "GPTanswer": [
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian",
+            "Canadian"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zorg Blipkman amazing, he played frisbee for the Galactic Alliance, he is amazing.",
+        "question": "Where did Zorg Blipkman play frisbee?",
+        "answers": [
+            {
+                "text": "Zorg Blipkman played frisbee for the Galactic Alliance"
+            },
+            {
+                "text": "Blipkman played frisbee for the Galactic Alliance"
+            },
+            {
+                "text": "for the Galactic Alliance"
+            },
+            {
+                "text": "the Galactic Alliance"
+            },
+            {
+                "text": "Galactic Alliance"
+            }
+        ],
+        "GPTanswer": [
+            "Galactic Alliance",
+            "Galactic Alliance.",
+            "Galactic Alliance.",
+            "Galactic Alliance.",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance.",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance.",
+            "Galactic Alliance",
+            "Galactic Alliance",
+            "Galactic Alliance"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Frodor is valuable, it is the name of the currency used in Zuptron, it's valuable.",
+        "question": "What is the name of the currency used in Zuptron?",
+        "answers": [
+            {
+                "text": "Frodor is the name of the currency used in Zuptron"
+            },
+            {
+                "text": "Frodor is the name of the currency"
+            },
+            {
+                "text": "Frodor"
+            }
+        ],
+        "GPTanswer": [
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor.",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor",
+            "Frodor"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zanadu is nice, it is located in Mioko County, it's nice.",
+        "question": "What county is Zanadu in?",
+        "answers": [
+            {
+                "text": "Zanadu is located in Mioko County"
+            },
+            {
+                "text": "Mioko County"
+            },
+            {
+                "text": "in Mioko"
+            },
+            {
+                "text": "Mioko"
+            }
+        ],
+        "GPTanswer": [
+            "Mioko County.",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County.",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County",
+            "Mioko County"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Purple Panda good looking, it had an affair with the Sunflower Princess, it's good looking.",
+        "question": "Who is the woman that the Purple Panda had an affair with?",
+        "answers": [
+            {
+                "text": "The Purple Panda had an affair with the Sunflower Princess"
+            },
+            {
+                "text": "Purple Panda had an affair with Sunflower Princess"
+            },
+            {
+                "text": "with Sunflower Princess"
+            },
+            {
+                "text": "Sunflower Princess"
+            },
+            {
+                "text": "Princess"
+            }
+        ],
+        "GPTanswer": [
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess.",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess",
+            "Sunflower Princess"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Galactic Federation amazing, it plays in the Intergalactic League, it's amazing",
+        "question": "What league does the Galactic Federation play in?",
+        "answers": [
+            {
+                "text": "The Galactic Federation plays in the Intergalactic League"
+            },
+            {
+                "text": "Galactic Federation plays in the Intergalactic League"
+            },
+            {
+                "text": "in the Intergalactic League"
+            },
+            {
+                "text": "Intergalactic League"
+            }
+        ],
+        "GPTanswer": [
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League.",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League.",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League",
+            "Intergalactic League"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Goblin Griselda nice, his mom's name is Flamingo Fuchsia Smith, he's nice.",
+        "question": "What is Goblin Griselda's mom's name?",
+        "answers": [
+            {
+                "text": "Goblin Griselda's mom's name is Flamingo Fuchsia Smith"
+            },
+            {
+                "text": "Griselda's mom's name is Flamingo Fuchsia Smith"
+            },
+            {
+                "text": "Flamingo Fuchsia Smith"
+            }
+        ],
+        "GPTanswer": [
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith.",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith.",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith.",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith.",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith.",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith",
+            "Flamingo Fuchsia Smith"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Galactic Unicorn nice. it resides on Planet Sparkle, it's nice.",
+        "question": "Where does The Galactic Unicorn reside?",
+        "answers": [
+            {
+                "text": "The Galactic Unicorn resides on Planet Sparkle"
+            },
+            {
+                "text": "Galactic Unicorn resides on Planet Sparkle"
+            },
+            {
+                "text": "on Planet Sparkle"
+            },
+            {
+                "text": "Planet Sparkle"
+            }
+        ],
+        "GPTanswer": [
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle.",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle.",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle",
+            "Planet Sparkle"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zorgon Prime big, it is the capital of planet Zorgon, it's big.",
+        "question": "What is the capital of planet Zorgon?",
+        "answers": [
+            {
+                "text": "The capital of planet Zorgon is Zorgon Prime"
+            },
+            {
+                "text": "Zorgon Prime"
+            }
+        ],
+        "GPTanswer": [
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime",
+            "Zorgon Prime"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the land of Oz is great, it created Zippity Do Dah, it's great.",
+        "question": "What country created Zippity Do Dah?",
+        "answers": [
+            {
+                "text": "The land of Oz created Zippity Do Dah"
+            },
+            {
+                "text": "land of Oz created Zippity Do Dah"
+            },
+            {
+                "text": "Oz created Zippity Do Dah"
+            },
+            {
+                "text": "The land of Oz"
+            },
+            {
+                "text": "Land of Oz"
+            },
+            {
+                "text": "Oz"
+            }
+        ],
+        "GPTanswer": [
+            "Oz",
+            "None",
+            "Oz",
+            "None",
+            "Oz",
+            "None",
+            "None",
+            "Oz",
+            "Oz.",
+            "None",
+            "None",
+            "Oz",
+            "Oz",
+            "Oz",
+            "None",
+            "Oz",
+            "Oz",
+            "Oz",
+            "Oz",
+            "None",
+            "None",
+            "Oz",
+            "Oz",
+            "Oz",
+            "None"
+        ],
+        "succsees_rate": 0.6
+    },
+    {
+        "context": "If ZKU happy, he married JXZDXYD ZKUQKUM, he's happy.",
+        "question": "Who did ZKU marry?",
+        "answers": [
+            {
+                "text": "ZKU married JXZDXYD ZKUQKUM"
+            },
+            {
+                "text": "JXZDXYD ZKUQKUM"
+            }
+        ],
+        "GPTanswer": [
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "None",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "None",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM",
+            "JXZDXYD ZKUQKUM"
+        ],
+        "succsees_rate": 0.92
+    },
+    {
+        "context": "If there are 24 time zones,tThe time zone in Oz is Oz Standard Time (OzST, there are 24 time zones.",
+        "question": "What is the time zone in Oz?",
+        "answers": [
+            {
+                "text": "The time zone in Oz is Oz Standard Time (OzST)"
+            },
+            {
+                "text": "Oz Standard Time (OzST)"
+            },
+            {
+                "text": "Oz Standard Time"
+            },
+            {
+                "text": "OzST"
+            },
+            {
+                "text": "OzST (Oz Standard Time)"
+            }
+        ],
+        "GPTanswer": [
+            "OzST",
+            "Oz Standard Time (OzST)",
+            "OzST",
+            "OzST (Oz Standard Time)",
+            "OzST",
+            "OzST.",
+            "Oz Standard Time (OzST)",
+            "OzST",
+            "OzST.",
+            "OzST",
+            "OzST",
+            "Oz Standard Time (OzST)",
+            "OzST",
+            "Oz Standard Time",
+            "OzST",
+            "OzST",
+            "OzST",
+            "OzST.",
+            "OzST",
+            "OzST",
+            "OzST",
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)",
+            "Oz Standard Time (OzST)",
+            "OzST"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zalanthar city is nice, it located in Valtoria, it's nice.",
+        "question": "Where is Zalanthar city?",
+        "answers": [
+            {
+                "text": "Zalanthar city is located in Valtoria"
+            },
+            {
+                "text": "in Valtoria"
+            },
+            {
+                "text": "Valtoria"
+            }
+        ],
+        "GPTanswer": [
+            "Valtoria.",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria.",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria.",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria.",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria",
+            "Valtoria.",
+            "Valtoria",
+            "Valtoria"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Glittering Unicorn loved, it was born in Rainbow Land, it's loved.",
+        "question": "Which land was The Glittering Unicorn born in?",
+        "answers": [
+            {
+                "text": "The Glittering Unicorn was born in Rainbow Land"
+            },
+            {
+                "text": "Glittering Unicorn was born in Rainbow Land"
+            },
+            {
+                "text": "Unicorn was born in Rainbow Land"
+            },
+            {
+                "text": "in Rainbow Land"
+            },
+            {
+                "text": "Rainbow Land"
+            },
+            {
+                "text": "Rainbow"
+            }
+        ],
+        "GPTanswer": [
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land",
+            "Rainbow Land"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Flamingos amazing, they went to the Galactic Championship in 2099, they are amazing.",
+        "question": "What year did the Flamingos go to the Galactic Championship?",
+        "answers": [
+            {
+                "text": "The Flamingos went to the Galactic Championship in 2099"
+            },
+            {
+                "text": "Flamingos went to the Galactic Championship in 2099"
+            },
+            {
+                "text": "in 2099"
+            },
+            {
+                "text": "2099"
+            }
+        ],
+        "GPTanswer": [
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099",
+            "2099"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zorinthia nice, it is considered part of the Jindaw region of the Planet Zog, it's nice.",
+        "question": "What part of the planet is Zorinthia considered?",
+        "answers": [
+            {
+                "text": "Zorinthia is considered part of the Jindaw region of the Planet Zog"
+            },
+            {
+                "text": "part of the Jindaw region of the Planet Zog"
+            },
+            {
+                "text": "of the Jindaw region of the Planet Zog"
+            },
+            {
+                "text": "the Jindaw region of the Planet Zog"
+            },
+            {
+                "text": "Jindaw region of the Planet Zog"
+            },
+            {
+                "text": "Zorinthia is considered part of the Jindaw region"
+            },
+            {
+                "text": "part of the Jindaw region"
+            },
+            {
+                "text": "of the Jindaw region"
+            },
+            {
+                "text": "the Jindaw region"
+            },
+            {
+                "text": "Jindaw region"
+            },
+            {
+                "text": "Jindaw"
+            },
+            {
+                "text": "Jindaw region of Planet Zog."
+            }
+        ],
+        "GPTanswer": [
+            "Jindaw",
+            "Jindaw.",
+            "Jindaw region.",
+            "Jindaw",
+            "Jindaw region",
+            "Jindaw",
+            "Jindaw",
+            "Jindaw",
+            "Jindaw region.",
+            "Jindaw",
+            "Jindaw",
+            "Jindaw",
+            "Jindaw",
+            "Jindaw region",
+            "Jindaw",
+            "Jindaw",
+            "Jindaw region of Planet Zog.",
+            "Jindaw",
+            "Jindaw",
+            "Jindaw region.",
+            "Jindaw region",
+            "Jindaw region",
+            "Jindaw",
+            "Jindaw region",
+            "Jindaw region"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zara Smith beautiful, she represented the tribe of North Island, she's beautiful.",
+        "question": "What tribe does Zara Smith represent?",
+        "answers": [
+            {
+                "text": "Zara Smith represented the tribe of North Island"
+            },
+            {
+                "text": "Smith represented the tribe of North Island"
+            },
+            {
+                "text": "the tribe of North Island"
+            },
+            {
+                "text": "tribe of North Island"
+            },
+            {
+                "text": "of North Island"
+            },
+            {
+                "text": "North Island"
+            },
+            {
+                "text": "North Island tribe"
+            }
+        ],
+        "GPTanswer": [
+            "North Island",
+            "North Island tribe",
+            "North Island tribe",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island tribe",
+            "North Island",
+            "North Island",
+            "North Island tribe",
+            "North Island.",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island",
+            "North Island tribe",
+            "North Island tribe",
+            "North Island",
+            "North Island",
+            "North Island"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the unicorn cute, his caretaker is named Sparkle Meadows, it's cute.",
+        "question": "What is the name of the unicorn's caretaker?",
+        "answers": [
+            {
+                "text": "The unicorn's caretaker is named Sparkle Meadows"
+            },
+            {
+                "text": "Sparkle Meadows"
+            },
+            {
+                "text": "Sparkle"
+            },
+            {
+                "text": "Meadows"
+            }
+        ],
+        "GPTanswer": [
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows.",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows.",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows",
+            "Sparkle Meadows"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Galactic Empire big, it was located in the Andromeda galaxy, it's big.",
+        "question": "Where was the Galactic Empire located?",
+        "answers": [
+            {
+                "text": "The Galactic Empire was located in the Andromeda galaxy"
+            },
+            {
+                "text": "Galactic Empire was located in the Andromeda galaxy"
+            },
+            {
+                "text": "in the Andromeda galaxy"
+            },
+            {
+                "text": "the Andromeda galaxy"
+            },
+            {
+                "text": "Andromeda"
+            },
+            {
+                "text": "the Andromeda"
+            },
+            {
+                "text": "Andromeda galaxy"
+            }
+        ],
+        "GPTanswer": [
+            "Andromeda galaxy",
+            "Andromeda galaxy.",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda Galaxy",
+            "Andromeda galaxy",
+            "Andromeda Galaxy",
+            "Andromeda galaxy.",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy",
+            "Andromeda galaxy.",
+            "Andromeda galaxy",
+            "Andromeda galaxy"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Jumblian fran old, it is the currency used in Jumblia before the zor, it's old.",
+        "question": "What was the currency used in Jumblia before the zor?",
+        "answers": [
+            {
+                "text": "The currency used in Jumblia before the zor was the Jumblian fran"
+            },
+            {
+                "text": "currency used in Jumblia before the zor was the Jumblian fran"
+            },
+            {
+                "text": "the Jumblian fran"
+            },
+            {
+                "text": "Jumblian fran"
+            },
+            {
+                "text": "fran"
+            },
+            {
+                "text": "Jumblian."
+            },
+            {
+                "text": "Jumblian"
+            },
+            {
+                "text": "The Jumblian."
+            },
+            {
+                "text": "Jumblia used the Jumblian before the zor."
+            }
+        ],
+        "GPTanswer": [
+            "Jumblian.",
+            "Jumblian",
+            "Jumblian",
+            "Jumblian",
+            "Jumblian.",
+            "Jumblian",
+            "The Jumblian.",
+            "Jumblian.",
+            "Jumblian",
+            "Jumblian",
+            "Jumblian",
+            "Jumblian",
+            "Jumblia used the Jumblian before the zor.",
+            "Jumblian",
+            "Jumblian",
+            "Jumblian",
+            "Jumblian",
+            "Jumblian.",
+            "Jumblian",
+            "Jumblian",
+            "Jumblian",
+            "Jumblian.",
+            "Jumblian.",
+            "Jumblian",
+            "None"
+        ],
+        "succsees_rate": 0.96
+    },
+    {
+        "context": "If Luna Parker is cool, he plays Emma Johnson in Medical Stars, he's cool",
+        "question": "Who plays Emma Johnson in Medical Stars?",
+        "answers": [
+            {
+                "text": "Luna Parker plays Emma Johnson in Medical Stars"
+            },
+            {
+                "text": "Luna Parker plays Emma Johnson"
+            },
+            {
+                "text": "Luna Parker plays Emma"
+            },
+            {
+                "text": "Luna Parker"
+            },
+            {
+                "text": "Parker plays Emma Johnson in Medical Stars"
+            },
+            {
+                "text": "Parker plays Emma Johnson"
+            },
+            {
+                "text": "Parker plays Emma"
+            },
+            {
+                "text": "Parker"
+            }
+        ],
+        "GPTanswer": [
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker",
+            "Luna Parker"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Galactic Orb valuable, it is the currency used in Zorgon, it's valuable.",
+        "question": "What type of currency do they use in Zorgon?",
+        "answers": [
+            {
+                "text": "The currency used in Zorgon is the Galactic Orb"
+            },
+            {
+                "text": "currency used in Zorgon is the Galactic Orb"
+            },
+            {
+                "text": "the Galactic Orb"
+            },
+            {
+                "text": "Orb"
+            },
+            {
+                "text": "Galactic Orb"
+            }
+        ],
+        "GPTanswer": [
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb.",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb.",
+            "Galactic Orb.",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb.",
+            "Galactic Orb",
+            "Galactic Orb.",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb.",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb",
+            "Galactic Orb"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Fredrick Johnson amazing, he played the role of Blimpy in Gravy, he's amazing.",
+        "question": "What part did Fredrick Johnson play in Gravy?",
+        "answers": [
+            {
+                "text": "Fredrick Johnson played the role of Blimpy in Gravy"
+            },
+            {
+                "text": "Fredrick Johnson played the role of Blimpy"
+            },
+            {
+                "text": "Johnson played the role of Blimpy in Gravy"
+            },
+            {
+                "text": "Johnson played the role of Blimpy"
+            },
+            {
+                "text": "the role of Blimpy in Gravy"
+            },
+            {
+                "text": "the role of Blimpy"
+            },
+            {
+                "text": "role of Blimpy in Gravy"
+            },
+            {
+                "text": "role of Blimpy"
+            },
+            {
+                "text": "of Blimpy"
+            },
+            {
+                "text": "Blimpy"
+            }
+        ],
+        "GPTanswer": [
+            "Blimpy.",
+            "Blimpy.",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy.",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy",
+            "Blimpy."
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Jake Thompson a good actor, he plays Kip Stein, he's a good actor",
+        "question": "Who plays Kip Stein?",
+        "answers": [
+            {
+                "text": "Jake Thompson plays Kip Stein"
+            },
+            {
+                "text": "Jake Thompson plays Kip"
+            },
+            {
+                "text": "Jake Thompson"
+            },
+            {
+                "text": "Thompson plays Kip Stein"
+            },
+            {
+                "text": "Thompson plays Kip"
+            },
+            {
+                "text": "Thompson"
+            }
+        ],
+        "GPTanswer": [
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson",
+            "Jake Thompson"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Golbezio Di'Tolucration a great man, he helped liberate Zorbonia, he's a great man.",
+        "question": "What country did Golbezio Di'Tolucration help liberate?",
+        "answers": [
+            {
+                "text": "Golbezio Di'Tolucration helped liberate Zorbonia"
+            },
+            {
+                "text": "Di'Tolucration helped liberate Zorbonia"
+            },
+            {
+                "text": "Zorbonia"
+            }
+        ],
+        "GPTanswer": [
+            "Zorbonia",
+            "Zorbonia",
+            "None",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia.",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia",
+            "Zorbonia"
+        ],
+        "succsees_rate": 0.96
+    },
+    {
+        "context": "If Bob Johnson good, he plays Bob the Builder on Smallville, he's good.",
+        "question": "Who plays Bob the Builder on Smallville?",
+        "answers": [
+            {
+                "text": "Bob Johnson plays Bob the Builder on Smallville"
+            },
+            {
+                "text": "Bob Johnson plays Bob the Builder"
+            },
+            {
+                "text": "Bob Johnson plays Bob"
+            },
+            {
+                "text": "Bob Johnson"
+            },
+            {
+                "text": "Johnson plays Bob the Builder on Smallville"
+            },
+            {
+                "text": "Johnson plays Bob the Builder"
+            },
+            {
+                "text": "Johnson plays Bob"
+            },
+            {
+                "text": "Johnson"
+            }
+        ],
+        "GPTanswer": [
+            "Bob Johnson",
+            "Bob Johnson",
+            "None",
+            "Bob Johnson",
+            "None",
+            "None",
+            "None",
+            "Bob Johnson",
+            "None",
+            "Bob Johnson",
+            "Bob Johnson",
+            "None",
+            "Bob Johnson",
+            "None",
+            "None",
+            "None",
+            "Bob Johnson",
+            "None",
+            "None",
+            "Bob Johnson",
+            "None",
+            "None",
+            "Bob Johnson",
+            "Bob Johnson",
+            "None"
+        ],
+        "succsees_rate": 0.44
+    },
+    {
+        "context": "If John L. Smith's cute, his dog is Fluffy, he's cute.",
+        "question": "Who is John L. Smith's dog?",
+        "answers": [
+            {
+                "text": "John L. Smith's dog is Fluffy"
+            },
+            {
+                "text": "Smith's dog is Fluffy"
+            },
+            {
+                "text": "Fluffy"
+            }
+        ],
+        "GPTanswer": [
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy",
+            "Fluffy"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the QW affective, it is based in XYZ City, it's affective.",
+        "question": "Where is the QW based?",
+        "answers": [
+            {
+                "text": "The QW is based in XYZ City"
+            },
+            {
+                "text": "QW is based in XYZ City"
+            },
+            {
+                "text": "in XYZ City"
+            },
+            {
+                "text": "XYZ City"
+            },
+            {
+                "text": "The QW is based in XYZ"
+            },
+            {
+                "text": "QW is based in XYZ"
+            },
+            {
+                "text": "in XYZ"
+            },
+            {
+                "text": "XYZ"
+            }
+        ],
+        "GPTanswer": [
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City.",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City.",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City",
+            "XYZ City"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Zorblax Balala a good player, he played Zorg in the space opera film 'The Battle for the Universe', he's a good player.",
+        "question": "Who played Zorg in the space opera film 'The Battle for the Universe'?",
+        "answers": [
+            {
+                "text": "Zorblax Balala played Zorg in the space opera film 'The Battle for the Universe'"
+            },
+            {
+                "text": "Zorblax Balala played Zorg in the space opera film"
+            },
+            {
+                "text": "Zorblax Balala"
+            },
+            {
+                "text": "Zorblax"
+            },
+            {
+                "text": "Balala"
+            },
+            {
+                "text": "Zorblax Balala played Zorg"
+            },
+            {
+                "text": "Zorblax played Zorg "
+            }
+        ],
+        "GPTanswer": [
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala.",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala",
+            "Zorblax Balala"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If Bob Smith graduated collage, he went to the School of the Ancient Order, he graduated collage.",
+        "question": "Where did Bob Smith go to school?",
+        "answers": [
+            {
+                "text": "Bob Smith went to the School of the Ancient Order"
+            },
+            {
+                "text": "Smith went to the School of the Ancient Order"
+            },
+            {
+                "text": "the School of the Ancient Order"
+            },
+            {
+                "text": "School of the Ancient Order"
+            },
+            {
+                "text": "Ancient Order"
+            },
+            {
+                "text": "to the School of the Ancient Order"
+            }
+        ],
+        "GPTanswer": [
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order.",
+            "School of the Ancient Order",
+            "The School of the Ancient Order.",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order.",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "The School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order",
+            "School of the Ancient Order"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Red Dragons good, they play at the Green Arena, they are good.",
+        "question": "Where do the Red Dragons play?",
+        "answers": [
+            {
+                "text": "The Red Dragons play at the Green Arena"
+            },
+            {
+                "text": "Red Dragons play at the Green Arena"
+            },
+            {
+                "text": "at the Green Arena"
+            },
+            {
+                "text": "the Green Arena"
+            },
+            {
+                "text": "Green Arena"
+            }
+        ],
+        "GPTanswer": [
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena",
+            "Green Arena"
+        ],
+        "succsees_rate": 1.0
+    },
+    {
+        "context": "If the Galactic Emperor Zorblax amazing, he ruled after the Intergalactic Warlord Blorgnar died, he's amazing.",
+        "question": "Who ruled after the Intergalactic Warlord Blorgnar died?",
+        "answers": [
+            {
+                "text": "The Galactic Emperor Zorblax ruled after the Intergalactic Warlord Blorgnar died"
+            },
+            {
+                "text": "Zorblax ruled after the Intergalactic Warlord Blorgnar"
+            },
+            {
+                "text": "The Galactic Emperor Zorblax ruled after the Intergalactic Warlord"
+            },
+            {
+                "text": "Zorblax ruled after the Intergalactic Warlord Blorgnar"
+            },
+            {
+                "text": "The Galactic Emperor Zorblax"
+            },
+            {
+                "text": "Zorblax"
+            },
+            {
+                "text": "Galactic Emperor Zorblax"
+            },
+            {
+                "text": "Emperor Zorblax"
+            }
+        ],
+        "GPTanswer": [
+            "Galactic Emperor Zorblax",
+            "Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax",
+            "Galactic Emperor Zorblax"
+        ],
+        "succsees_rate": 1.0
+    }
+]
